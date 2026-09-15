@@ -1,0 +1,1566 @@
+
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
+    <title>Pagina de start - Portal Legislativ</title>
+    <link href="/Content/css?v=iKXncnEnzeZrcZDXQ4gyEFYtrgIhK9GqKaiZ1xjeUOQ1" rel="stylesheet"/>
+
+    <link href="/Content/themes/base/css?v=7T_tuS9RP8sQe2HxerJdL6STYU-qCHtjrExyjsSiYcQ1" rel="stylesheet"/>
+
+    <meta name="keywords" content="Pagina de start - Portal Legislativ">
+    <meta name="description" content="Pagina de start - Portal Legislativ">
+    <meta name="title" content="Pagina de start - Portal Legislativ">
+    <link href="/Content/bootstrap-datepicker.css" rel="stylesheet" />
+    <link rel="icon" type="image/x-icon" href="/Content/Images/Site/temanoua/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="/Content/public.css" rel="stylesheet" />
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="/bundles/modernizr?v=qVODBytEBVVePTNtSFXgRX0NCEjh9U_Oj8ePaSiRcGg1"></script>
+
+    <script src="/bundles/jquery?v=UgyEMAYOuSB9Bb6HcOEVHpd6fIIp54yF086SRNVcdIY1"></script>
+
+    <script src="/bundles/jqueryui?v=O4Awnx3xYnFLmC1TAsxXigS8kLERW18heIHqD0bRSTE1"></script>
+
+    <script src="/bundles/bootstrap?v=WyYa2dIFje-38fhrXc_sQiaOB-lu9j8r45bVIBgtqrw1"></script>
+
+    <script type="text/javascript" language="JavaScript">
+        var backColor = '#f0ffff';
+        var actColor = 'white';
+        var brdColor = 'black';
+        function marcheaza(id_ttl, id) {
+            /*id.style.backgroundColor=backColor;
+            id_ttl.style.cursor='pointer';
+            id.style.borderColor=brdColor;
+            id.style.borderStyle='dashed';*/
+        }
+        function demarcheaza(id_ttl, id) {
+            /*id.style.backgroundColor='transparent';
+            id_ttl.style.cursor='default';
+            id.style.borderColor=actColor;
+            id.style.borderStyle='dotted';*/
+        }
+        function plusMinus(id1, id2) {
+            if (id1.style.display == 'none') {
+                id1.style.display = 'inline';
+                id2.style.display = 'none';
+            }
+            else {
+                id1.style.display = 'none';
+                id2.style.display = 'inline';
+            }
+        }
+        function setCursor(id, tipCursor) {
+            id.style.cursor = tipCursor;
+        }
+    </script>
+    <script>
+        function pozitioneaza(id) {
+            var id_nou = id.substring(0, id.length - 4);
+           //document.getElementById('toTop').click();
+            $("#toTop").trigger("click");
+ 
+        }
+ 
+
+    </script>
+
+
+
+</head>
+
+<body data-spy="scroll" data-target="#affix-nav" data-twttr-rendered="true">
+    <a name="top"></a>
+
+
+    <div id="toTop" class="toggle-menu menu-left"><a class="toggle-menu menu-left"><img src="/Content/Images/Site/temanoua/butonmeniu.png" alt="logo" /></a> </div>
+    <div id="masterwrapper page-content">
+        <div id="header_wrapper" class="navbar navbar-default">
+            <!--navbar-fixed-top-->
+            <header>
+                <div id="header">
+                    <div class="header_top">
+                        <div class="banner">
+                            <div class="row">
+                                <img class="img-responsive center-block pozawidth" id="logoportal" src="/Content/Images/Site/header_logo.png" style="width:85%;" alt="logo" />
+                            </div>
+                        </div>
+                        <div class="row margin0" id="textlogo">
+                            <center>
+                                <h4 class="reducerespatiu logo">Portal Legislativ</h4>
+
+                            </center>
+                            <!-- <div style="float:right; position:relative; right:0; margin-top:-23px;">
+                                <a data-toggle="modal" data-target="#mesajBetaModal" style="cursor:pointer;">
+                                    <img width="50" src="/Content/Images/Site/versiunebeta.png" alt="Versiune Beta 2.0" />
+                                </a>
+                            </div>-->
+                            <hr />
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="menu_wrapper navbar navbar-inverse" role="navigation" id="slide-nav">
+                        <div class="container">
+                            <div class="navbar-header">
+                                <a id="btnNavbar" class="navbar-toggle">
+                                    <span class="sr-only">Meniu</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </a>
+
+                            </div>
+                            <div id="slidemenu" style="cursor:pointer;">
+                                <div id="menu" onclick="pozitioneaza('')">
+                                    <a style=" cursor:pointer;" onclick="pozitioneaza('')">
+                                        <h3>Meniu</h3>
+                                    </a>
+                                    <ul></ul>
+                                    <ul class="mainmenu">
+ 
+        <li>
+            <a href="/Public/Acasa" class="main_link">
+
+                Acasă
+
+            </a>
+        </li>
+        <li>
+            <a href="/Public/NLEX" class="main_link">
+
+                Despre Proiect
+
+            </a>
+        </li>
+        <li>
+            <a href="/Public/Functionalitati" class="main_link">
+
+                Facilități Oferite 
+
+            </a>
+        </li>
+        <li>
+            <a href="/Public/LegaturiUtile" class="main_link">
+
+                Legături Utile
+
+            </a>
+        </li>
+<li>
+	<a href="https://www.just.ro/informatii-de-interes-public/protectia-datelor-cu-caracter-personal/" class="main_link" target="_blank" title="Protecţia datelor cu caracter personal">GDPR</a>
+</li>
+
+             
+                                    </ul>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </header>
+            <div class="meniunu">
+                <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left">
+                    <h3 style="padding-left:65px; margin-top:-5px;">Meniu</h3>
+                    <div id="meniutitlu"></div>
+                    <div id="meniupaginastart">
+ 
+        <li>
+            <a href="/Public/Acasa" class="main_link">
+
+                Acasă
+
+            </a>
+        </li>
+        <li>
+            <a href="/Public/NLEX" class="main_link">
+
+                Despre Proiect
+
+            </a>
+        </li>
+        <li>
+            <a href="/Public/Functionalitati" class="main_link">
+
+                Facilități Oferite 
+
+            </a>
+        </li>
+        <li>
+            <a href="/Public/LegaturiUtile" class="main_link">
+
+                Legături Utile
+
+            </a>
+        </li>
+<li>
+	<a href="https://www.just.ro/informatii-de-interes-public/protectia-datelor-cu-caracter-personal/" class="main_link" target="_blank" title="Protecţia datelor cu caracter personal">GDPR</a>
+</li>
+
+              <br />
+                        Prin portalul N-Lex se acorda acces gratuit la legislatiile nationale ale statelor membre, portalul fiind
+                        conceput pe baza unei tehnologii de comunicare interne, ce permite accesarea directa a bazelor de date legislative nationale,
+                        rezultatele cautarilor venind direct de la sursa.
+                    </div>
+                    <script>
+                        if (window.location.href.indexOf('DetaliiDocument') != -1) {
+                            $('#meniupaginastart').hide();
+                        }
+                        else {
+                            $('#meniupaginastart').show();
+                        }
+                    </script>
+                </nav>
+            </div>
+        </div>
+ 
+        <div id="page_content" style="margin-top:-15px;">
+            <div id="page_wrapper">
+                <div class="articole_wrapper">
+                    
+
+<form action="/" id="searchForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="lFJn3MEyrURZ32p9vQXGlyha0fnQkegdKoE4gj5r4wCnUjEr1gWF2MWcb2xAfeejCz4Ptqj-PDiOrDPkOVGYCJmAM1lBc_888GTsr39G4lo1" />    <div class="alert alert-warning" role="alert">
+        <center><p><h3 style="font-weight: bold; color: #BB3A3A;">Mesaj de informare:</h3></p></center>
+        <center>
+            <p>Pentru semnalarea erorilor și problemelor de funcţionalitate ne puteţi transmite un e-mail la adresa legislatie@just.ro</p>
+        </center>
+    </div>
+    <div class="h1_articole">
+        <h1>Criterii de căutare</h1>
+        <div class="spacer"></div>
+       
+    </div>
+    <fieldset>
+    
+        
+    
+            <div class="panel-group" id="accordion">
+            <div class="panel panel-primary" id="panel1">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-target="#collapseOne" class="collapsed">
+                            Cuvânt/cuvinte din titlu
+                        </a>
+                        <button type="button" class="btn btn-link btn-xs" data-toggle="popover" title="<span style='text-wrap:none;text-transform:none'>Exemplu căutare cuvânt:<br />lege<br />Exemplu de căutare frază exactă: <br />lege 123<br /> Exemplu căutare grupuri de cuvinte (aproximativă): <br />lege* ajuto? </span>" data-content="">
+                            (?)
+                        </button>
+                    </h4>
+                </div>
+                <div id="collapseOne" class="panel-collapse collapse in">
+                    <div class="panel-body">
+                      
+                        <input class="form-control input-sm" data-placement="auto" data-toggle="tooltip" id="TitleText" name="TitleText" title="* inlocuieste un group de litere iar ? doar o singura literă.  " type="text" value="" />
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-primary" id="panel2">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-target="#collapseTwo"
+                          class="collapsed">
+                            Cuvânt/cuvinte din text
+                        </a>
+                        <button type="button" class="btn btn-link btn-xs" data-toggle="popover" title="<span style='text-wrap:none;text-transform:none'>Exemplu căutare cuvânt:<br />lege<br />Exemplu de căutare frază exactă: <br />lege 123<br /> Exemplu căutare grupuri de cuvinte (aproximativă): <br />lege* ajuto? </span>" data-content="">
+                        (?)
+                        </button>
+                    </h4>
+                </div>
+                <div id="collapseTwo" class="panel-collapse collapse in">
+                    <div class="panel-body">
+                        <div class="form-group col-lg-11">
+                            <div class="input-group">
+                                <span class="input-group-addon">conţine:</span>
+                                <input class="form-control input-sm" data-placement="auto" data-toggle="tooltip" id="ContentText_First" name="ContentText_First" title="* inlocuieste un group de litere iar ? doar o singura literă.  " type="text" value="" />
+                            </div>
+                        </div>
+                        <div class="form-group col-lg-1">
+                            <div class="input-group">
+                                <ul class="nav nav-pills left" id="buttonAdaugaSiSau">
+                                    <li class="dropdown active">
+                                        <button type="button" class="dropdown-toggle btn-sm btn-primary" id="inp_impact" data-toggle="dropdown" data-original-title="Adaugă cuvânt/cuvinte">
+                                            <span id="dropdown_title"><i class="glyphicon glyphicon-plus"></i></span>
+
+                                        </button>
+                                        <ul id="divNewNotifications" class="dropdown-menu">
+                                            <li><a>şi</a></li>
+                                            <li><a>sau</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="form-group hide col-lg-11">
+                            <div class="input-group">
+                                <span class="input-group-addon"></span>
+                                <input class="hiddenOP" id="opContentText_Second" name="opContentText_Second" type="hidden" value="" />
+                                <input class="form-control input-sm" id="ContentText_Second" name="ContentText_Second" type="text" value="" />
+                                <span class="input-group-btn">
+                                    <button class="btn btn-danger btn-sm" id="minus" type="button" >
+                                        <span class="glyphicon glyphicon-minus"></span>
+                                    </button>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="form-group hide col-lg-11">
+                            <div class="input-group">
+                                <span class="input-group-addon"></span>
+                                <input class="hiddenOP" id="opContentText_Third" name="opContentText_Third" type="hidden" value="" />
+                                <input class="form-control input-sm" id="ContentText_Third" name="ContentText_Third" type="text" value="" />
+                                <span class="input-group-btn">
+                                    <button class="btn btn-danger btn-sm" id="minus" type="button" >
+                                        <span class="glyphicon glyphicon-minus"></span>
+                                    </button>
+                                </span>
+                            </div>
+                        </div>
+                        
+                        <div class="form-group hide col-lg-11">
+                            <div class="input-group">
+                                <span class="input-group-addon"></span>
+                                <input class="hiddenOP" id="opContentText_Fourth" name="opContentText_Fourth" type="hidden" value="" />
+                                <input class="form-control input-sm" id="ContentText_Fourth" name="ContentText_Fourth" type="text" value="" />
+                                <span class="input-group-btn">
+                                    <button class="btn btn-danger btn-sm" id="minus" type="button" >
+                                        <span class="glyphicon glyphicon-minus"></span>
+                                    </button>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-primary" id="panel3">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-target="#collapseThree"
+                          class="collapsed">
+                            Căutare avansată
+                        </a>
+                    </h4>
+                </div>
+                <div id="collapseThree" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="form-group">
+                            <div class="input-group">
+                                <span class="input-group-addon">Tipul documentului:</span>
+                                <select class="form-control" data-container="body" data-live-search="true" data-size="5" id="DocumentType" name="DocumentType"><option value=""></option>
+<option value="112">ACȚIUNE COMUNĂ</option>
+<option value="30">ACORD</option>
+<option value="67">ACT</option>
+<option value="51">ACT ADIȚIONAL</option>
+<option value="68">ACT INTERNAȚIONAL</option>
+<option value="168">ACTIVITATE</option>
+<option value="59">ADDENDUM</option>
+<option value="160">ADEVERINȚĂ</option>
+<option value="169">AMENAJAMENT</option>
+<option value="35">AMENDAMENT</option>
+<option value="28">ANEXĂ</option>
+<option value="33">APEL</option>
+<option value="48">ARANJAMENT</option>
+<option value="110">ATRIBUȚII</option>
+<option value="119">AVIZ CONSULTATIV</option>
+<option value="136">CADRU GENERAL</option>
+<option value="173">CADRU METODOLOGIC</option>
+<option value="167">CADRU STRATEGIC</option>
+<option value="122">CAIET SARCINI-CADRU</option>
+<option value="133">CALCULATOR IMPOZITE</option>
+<option value="41">CARTĂ</option>
+<option value="76">CASARE</option>
+<option value="171">CENTRALIZATOR</option>
+<option value="156">CERERE</option>
+<option value="80">CERINȚE</option>
+<option value="7">CIRCULARĂ</option>
+<option value="170">COD</option>
+<option value="143">COD AL DREPTURILOR ȘI OBLIGAȚIILOR STUDENTULUI</option>
+<option value="146">COD DE CONDUITĂ</option>
+<option value="158">COD DE PRACTICĂ</option>
+<option value="145">COD DE PROCEDURĂ DISCIPLINARĂ </option>
+<option value="107">COD DE REGLEMENTARE A CONȚINUTULUI AUDIOVIZUAL</option>
+<option value="131">COD DE SIGURANȚĂ</option>
+<option value="139">COD DE STANDARDE INTERNAȚIONALE ȘI PRACTICI RECOMANDATE</option>
+<option value="152">COD DEONTOLOGIC</option>
+<option value="71">COD INTERNAȚIONAL (FTP)</option>
+<option value="64">COD INTERNAȚIONAL DE MANAGEMENT</option>
+<option value="70">COD INTERNAȚIONAL PENTRU CEREALE</option>
+<option value="66">COD JUSTIȚIE MILITARĂ</option>
+<option value="99">COD PENTRU CONSTRUCȚIA NAVELOR SPECIALE</option>
+<option value="120">COD TEHNIC</option>
+<option value="108">COD TEHNIC AL GAZELOR NATURALE</option>
+<option value="88">CODUL AERIAN</option>
+<option value="85">CODUL CIVIL</option>
+<option value="87">CODUL COMERCIAL</option>
+<option value="104">CODUL CONSUMULUI </option>
+<option value="117">CODUL DE BUNE PRACTICI &#206;N FERMĂ</option>
+<option value="57">CODUL DE ETICĂ</option>
+<option value="86">CODUL DE PROCEDURĂ CIVILĂ</option>
+<option value="95">CODUL DE PROCEDURĂ FISCALĂ</option>
+<option value="91">CODUL DE PROCEDURĂ PENALĂ</option>
+<option value="138">CODUL EUROPEAN DE SECURITATE SOCIALĂ</option>
+<option value="89">CODUL FAMILIEI</option>
+<option value="93">CODUL FISCAL</option>
+<option value="130">CODUL INF</option>
+<option value="132">CODUL ISPS</option>
+<option value="72">CODUL LSA</option>
+<option value="100">CODUL MODU</option>
+<option value="92">CODUL MUNCII</option>
+<option value="121">CODUL NAVĂ</option>
+<option value="126">CODUL OSV</option>
+<option value="90">CODUL PENAL</option>
+<option value="94">CODUL SILVIC</option>
+<option value="141">CODUL STUDIILOR UNIVERSITARE</option>
+<option value="96">CODUL VAMAL</option>
+<option value="26">COMPLETARE</option>
+<option value="153">COMUNICARE</option>
+<option value="21">COMUNICAT</option>
+<option value="82">CONDIȚII ȘI PROCEDURI</option>
+<option value="150">CONDIŢII</option>
+<option value="128">CONȚINUT-CADRU</option>
+<option value="22">CONSTITUȚIE</option>
+<option value="73">CONTRACT</option>
+<option value="16">CONTRACT MUNCĂ</option>
+<option value="62">CONTRACT-CADRU</option>
+<option value="155">CONŢINUT</option>
+<option value="25">CONVENȚIE</option>
+<option value="115">CPV</option>
+<option value="15">CRITERII</option>
+<option value="148">CUANTUM TOTAL</option>
+<option value="17">DECIZIE</option>
+<option value="24">DECLARAȚIE</option>
+<option value="3">DECRET</option>
+<option value="4">DECRET-LEGE</option>
+<option value="113">DIRECTIVĂ</option>
+<option value="135">DISCURS</option>
+<option value="8">DISPOZIȚIE</option>
+<option value="79">DOCUMENT</option>
+<option value="129">DOSAR</option>
+<option value="144">FLUX INFORMAȚIONAL</option>
+<option value="74">GHID</option>
+<option value="2">HOTĂR&#194;RE</option>
+<option value="147">INIŢIATIVĂ LEGISLATIVĂ            </option>
+<option value="6">INSTRUCȚIUNI</option>
+<option value="151">INSTRUMENT</option>
+<option value="50">INSTRUMENT PENTRU AMENDARE</option>
+<option value="37">&#206;NCHEIERE</option>
+<option value="34">&#206;NDRUMAR</option>
+<option value="45">&#206;NȚELEGERE</option>
+<option value="1">LEGE</option>
+<option value="20">LISTĂ</option>
+<option value="172">MANUAL</option>
+<option value="106">MANUAL AL PREFECTULUI</option>
+<option value="83">MANUAL DE OPERARE</option>
+<option value="105">MANUALUL PRIMARULUI</option>
+<option value="140">MĂSURI</option>
+<option value="118">MECANISME</option>
+<option value="47">MEMORANDUM</option>
+<option value="39">MESAJ</option>
+<option value="69">METODĂ</option>
+<option value="27">METODOLOGIE</option>
+<option value="134">MINUTĂ</option>
+<option value="163">MODALITATE</option>
+<option value="142">MODALITĂȚI ȘI PROCEDURI</option>
+<option value="125">MODALITĂȚI UNITARE</option>
+<option value="81">MODUL</option>
+<option value="23">MOȚIUNE</option>
+<option value="52">NOMENCLATOR</option>
+<option value="77">NORMATIV</option>
+<option value="11">NORMĂ</option>
+<option value="165">NOTĂ</option>
+<option value="154">OPINIE CONCURENTĂ</option>
+<option value="55">OPINIE SEPARATĂ</option>
+<option value="5">ORDIN</option>
+<option value="13">ORDONANȚĂ</option>
+<option value="18">ORDONANȚĂ DE URGENȚĂ</option>
+<option value="159">ORDONANŢĂ MILITARĂ</option>
+<option value="123">PACT</option>
+<option value="61">PLAN</option>
+<option value="111">POZIȚIE COMUNĂ</option>
+<option value="14">PRECIZĂRI</option>
+<option value="63">PRESCRIPȚII</option>
+<option value="102">PRINCIPII</option>
+<option value="31">PROCEDURĂ</option>
+<option value="36">PROCES VERBAL</option>
+<option value="44">PROCLAMAȚIE</option>
+<option value="54">PROGRAM</option>
+<option value="56">PROGRAMĂ ANALITICĂ </option>
+<option value="101">PROIECT </option>
+<option value="53">PROIECT DE LEGE</option>
+<option value="114">PROPUNERE</option>
+<option value="127">PROPUNERE ACT ADIȚIONAL</option>
+<option value="42">PROTOCOL</option>
+<option value="43">RAPORT</option>
+<option value="10">RĂSPUNS</option>
+<option value="162">RECOMANDĂRI</option>
+<option value="29">RECTIFICARE</option>
+<option value="78">RECURS</option>
+<option value="103">REGISTRU</option>
+<option value="46">REGLEMENTĂRI</option>
+<option value="12">REGULAMENT</option>
+<option value="65">REGULI</option>
+<option value="98">REPERE METODOLOGICE</option>
+<option value="60">REZOLUȚIE</option>
+<option value="116">SCHEMĂ</option>
+<option value="157">SCRISOARE</option>
+<option value="38">SENTINȚĂ</option>
+<option value="9">SINTEZĂ</option>
+<option value="97">SISTEM</option>
+<option value="19">SITUAȚIE</option>
+<option value="109">SOLUȚIE</option>
+<option value="149">SPECIFICAŢIE TEHNICĂ</option>
+<option value="84">STANDARD</option>
+<option value="32">STATUT</option>
+<option value="58">STRATEGIE</option>
+<option value="124">STUDIU</option>
+<option value="75">TABLOU DE EVIDENȚĂ</option>
+<option value="40">TARIF VAMAL</option>
+<option value="166">TARIFE</option>
+<option value="164">TIP ACT NEFOLOSIT</option>
+<option value="137">TRANȘE DE VENIT IMPOZABIL</option>
+<option value="49">TRATAT</option>
+</select>        
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group">
+                                <span class="input-group-addon">Numărul documentului:</span>
+                                <input class="form-control input-sm" data-placement="auto" data-toggle="tooltip" id="DocumentNumber" name="DocumentNumber" title="Doar valori numerice acceptate! Se pot introduce valori de forma: numar-an ex: 19-2000 sau doar numar" type="text" value="" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group">
+                                <span class="input-group-addon">Data emiterii:</span>
+                                <input class="form-control input-sm" data-inputmask="&#39;mask&#39;: &#39;y/m/d&#39;" data-placement="auto" data-toggle="tooltip" id="DataSemnariiTextFrom" name="DataSemnariiTextFrom" title="Data este de forma an/luna/zi pentru o dată relativă puteţi omite unul din câmpuri" type="text" value="" />
+                                <span class="input-group-addon">până la data:</span>
+                                <input class="form-control input-sm" data-inputmask="&#39;mask&#39;: &#39;y/m/d&#39;" data-placement="auto" data-toggle="tooltip" id="DataSemnariiTextTo" name="DataSemnariiTextTo" title="Data este de forma an/luna/zi pentru o dată relativă puteţi omite unul din câmpuri" type="text" value="" />                            
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group">
+                                <span class="input-group-addon">Publicat în:</span>
+                                <select class="form-control" data-container="body" data-live-search="true" data-size="5" id="PublishedInName" name="PublishedInName"><option value=""></option>
+<option value="1">Monitorul Oficial</option>
+<option value="2">Buletinul Oficial</option>
+<option value="5">Broşură</option>
+<option value="7">Monitorul Oficial (Partea a V-a)</option>
+</select>
+                                <span class="input-group-addon">Numărul:</span>
+                                <input class="form-control" data-placement="auto" data-toggle="tooltip" id="PublishedInNumber" name="PublishedInNumber" title="Doar valori numerice acceptate" type="text" value="" />                            
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group">
+                                <span class="input-group-addon">Data publicării:</span>
+                                <input class="form-control input-sm" data-inputmask="&#39;mask&#39;: &#39;y/m/d&#39;" data-placement="auto" data-toggle="tooltip" id="DataPublicariiTextFrom" name="DataPublicariiTextFrom" title="Data este de forma an/luna/zi pentru o dată relativă puteţi omite unul din câmpuri" type="text" value="" />                                
+                                <span class="input-group-addon">până la data:</span>
+                                <input class="form-control input-sm" data-inputmask="&#39;mask&#39;: &#39;y/m/d&#39;" data-placement="auto" data-toggle="tooltip" id="DataPublicariiTextTo" name="DataPublicariiTextTo" title="Data este de forma an/luna/zi pentru o dată relativă puteţi omite unul din câmpuri" type="text" value="" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group">
+                                <span class="input-group-addon">Acte in vigoare la data de:</span>
+                                <input class="form-control input-sm" data-inputmask="&#39;mask&#39;: &#39;y/m/d&#39;" data-placement="auto" data-toggle="tooltip" id="ActInForceOnDateTextFrom" name="ActInForceOnDateTextFrom" title="Data este de forma an/luna/zi pentru o dată relativă puteţi omite unul din câmpuri" type="text" value="" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group">
+                                <span class="input-group-addon">Emitent:</span>
+                                <select class="form-control" data-container="body" data-live-search="true" data-size="5" id="EmitentAct" name="EmitentAct"><option value=""></option>
+<option value="517">Academia de ?tiin?e Agricole ?i Silvice Gheorghe Ionescu-?i?e?ti</option>
+<option value="391">Academia de ?tiin?e Juridice din Rom&#226;nia</option>
+<option value="495">Academia Oamenilor de ?tiin?ă din Rom&#226;nia</option>
+<option value="316">Academia Rom&#226;nă</option>
+<option value="149">Act Interna?ional</option>
+<option value="355">Administra?ia Na?ională a Penitenciarelor</option>
+<option value="410">Administraţia Naţională a Rezervelor de Stat şi Probleme Speciale</option>
+<option value="24">Adunarea Constituantă</option>
+<option value="139">Agen?ia de Cooperare Culturală ?i Tehnică</option>
+<option value="439">Agen?ia de Cooperare Interna?ională pentru Dezvoltare</option>
+<option value="212">Agen?ia Na?ională a Func?ionarilor Publici</option>
+<option value="259">Agen?ia Na?ională Antidoping</option>
+<option value="281">Agen?ia Na?ională Antidrog</option>
+<option value="239">Agen?ia Na?ională de Administrare Fiscală</option>
+<option value="262">Agen?ia Na?ională de Cadastru ?i Publicitate Imobiliară</option>
+<option value="228">Agen?ia Na?ională de Control al Exporturilor</option>
+<option value="86">Agen?ia Na?ională de Control al Exporturilor Strategice ?i al Interzicerii Armelor Chimice</option>
+<option value="349">Agen?ia Na?ională de Integritate</option>
+<option value="16">Agen?ia Na?ională de Privatizare</option>
+<option value="308">Agen?ia Na?ională &#206;mpotriva Traficului de Persoane</option>
+<option value="310">Agen?ia Na?ională &#206;mpotriva Traficului de Persoane</option>
+<option value="394">Agen?ia Na?ională pentru Achizi?ii Publice</option>
+<option value="101">Agen?ia Na?ională pentru Comunica?ii ?i Informatică</option>
+<option value="112">Agen?ia Na?ională pentru Dezvoltare Regională</option>
+<option value="309">Agen?ia Na?ională pentru Egalitatea de ?anse &#238;ntre Femei ?i Bărba?i</option>
+<option value="223">Agen?ia Na?ională pentru &#206;ntreprinderi Mici ?i Mijlocii ?i Coopera?ie</option>
+<option value="518">Agen?ia Na?ională pentru Mediu ?i Arii Protejate</option>
+<option value="105">Agen?ia Na?ională pentru Ocupare ?i Formare Profesională</option>
+<option value="185">Agen?ia Na?ională pentru Ocuparea For?ei de Muncă</option>
+<option value="464">Agen?ia Na?ională pentru Pescuit ?i Acvacultură</option>
+<option value="180">Agen?ia Na?ională pentru Privatizare ?i Dezvoltarea &#206;ntreprinderilor Mici ?i Mijlocii</option>
+<option value="131">Agen?ia Na?ională pentru Protec?ia Dreptului Copilului</option>
+<option value="61">Agen?ia Na?ională pentru Resurse Minerale</option>
+<option value="275">Agen?ia Na?ională pentru Romi</option>
+<option value="227">Agen?ia Na?ională pentru Sport</option>
+<option value="242">Agen?ia Nucleară</option>
+<option value="406">Agen?ia pentru Agenda Digitală a Rom&#226;niei</option>
+<option value="336">Agen?ia pentru Implementarea Proiectelor ?i Programelor pentru &#206;ntreprinderi Mici ?i Mijlocii</option>
+<option value="500">Agen?ia pentru monitorizarea ?i evaluarea performan?elor &#206;ntreprinderilor publice</option>
+<option value="269">Agen?ia pentru Strategii Guvernamentale</option>
+<option value="496">Agen?ia Rom&#226;nă de Asigurare a Calită?ii &#238;n &#206;nvă?ăm&#226;ntul Superior</option>
+<option value="108">Agen?ia Rom&#226;nă de Dezvoltare</option>
+<option value="214">Agen?ia Rom&#226;nă pentru Conservarea Energiei</option>
+<option value="235">Agen?ia Veterinară ?i pentru Siguran?a Alimentelor</option>
+<option value="502">Agentia Romana pentru Investitii si Comert Exterior</option>
+<option value="409">Agenţia Naţională de Administrare a Bunurilor Indisponibilizate  </option>
+<option value="520">Arhivele Na?ionale</option>
+<option value="159">Asocia?ia Generală a Medicilor</option>
+<option value="169">Asocia?ia Generală a V&#226;nătorilor ?i Pescarilor Sportivi</option>
+<option value="369">Asocia?ia Na?ională a Evaluatorilor Autoriza?i</option>
+<option value="111">Asocia?iile Patronale ale Producătorilor de Alcool ?i Băuturi Alcoolice</option>
+<option value="321">Autoritarea Na?ională pentru Comunica?ii</option>
+<option value="444">Autoritatea Competentă de Reglementare a Opera?iunilor Petroliere Offshore la Marea Neagră</option>
+<option value="513">Autoritatea Competentă pentru Reglementarea Opera?iunilor Offshore la Marea Neagră</option>
+<option value="370">Autoritatea de Supraveghere Financiară</option>
+<option value="288">Autoritatea Electorală Permanentă</option>
+<option value="280">Autoritatea Hipică Na?ională</option>
+<option value="224">Autoritatea Na?ională a Vămilor</option>
+<option value="398">Autoritatea Na?ională de Management al Calită?ii &#238;n Sănătate</option>
+<option value="207">Autoritatea Na?ională de Reglementare &#238;n Comunica?ii</option>
+<option value="103">Autoritatea Na?ională de Reglementare &#238;n Domeniul Energiei</option>
+<option value="136">Autoritatea Na?ională de Reglementare &#238;n Domeniul Gazelor Naturale</option>
+<option value="192">Autoritatea Na?ională de Reglementare &#238;n Domeniul Minier, Petrolier ?i al Stocării geologice a dioxidului de carbon</option>
+<option value="299">Autoritatea Na?ională de Reglementare pentru Serviciile Comunitare de Utilită?i Publice - A.N.R.S.C.</option>
+<option value="206">Autoritatea Na?ională de Reglementare pentru Serviciile Publice de Gospodărie Comunală</option>
+<option value="271">Autoritatea Na?ională de Supraveghere a Prelucrării Datelor cu Caracter Personal</option>
+<option value="335">Autoritatea Na?ională pentru Administrare ?i Reglementare &#238;n Comunica?ii</option>
+<option value="521">Autoritatea Na?ională pentru Cercetare</option>
+<option value="267">Autoritatea Na?ională pentru Cercetare ?tiin?ifică</option>
+<option value="511">Autoritatea Na?ională pentru Cetă?enie</option>
+<option value="318">Autoritatea Na?ională pentru Comunica?ii</option>
+<option value="466">Autoritatea Na?ională Pentru Drepturile Persoanelor cu Dizabilită?i, Copii ?i Adop?ii</option>
+<option value="211">Autoritatea Na?ională pentru Persoanele cu Handicap</option>
+<option value="164">Autoritatea Na?ională pentru Protec?ia Consumatorilor</option>
+<option value="205">Autoritatea Na?ională pentru Protec?ia Copilului ?i Adop?ie</option>
+<option value="256">Autoritatea Na?ională pentru Protec?ia Drepturilor Copilului</option>
+<option value="488">Autoritatea Na?ională pentru Protec?ia Drepturilor Copilului ?i Adop?ie</option>
+<option value="486">Autoritatea Na?ională pentru Protec?ia Drepturilor Persoanelor cu Dizabilită?i</option>
+<option value="305">Autoritatea Na?ională pentru Reglementare &#238;n Comunica?ii ?i Tehnologia Informa?iei</option>
+<option value="263">Autoritatea Na?ională pentru Reglementarea ?i Monitorizarea Achizi?iilor Publice</option>
+<option value="515">Autoritatea Na?ională pentru Restituirea Proprietă?ilor</option>
+<option value="516">Autoritatea Na?ională pentru Restituirea Proprietă?ilor</option>
+<option value="346">Autoritatea Na?ională pentru Sport ?i Tineret</option>
+<option value="449">Autoritatea Na?ională pentru Tineret</option>
+<option value="99">Autoritatea Na?ională pentru Turism</option>
+<option value="240">Autoritatea Na?ională Sanitară Veterinară ?i pentru Siguran?a Alimentelor</option>
+<option value="408">Autoritatea Naţională pentru Persoanele cu Dizabilităţi   </option>
+<option value="433">Autoritatea pentru Administrarea Activelor Statului</option>
+<option value="465">Autoritatea pentru Digitalizarea Rom&#226;niei</option>
+<option value="186">Autoritatea pentru Privatizare ?i Administrarea Participa?iilor Statului</option>
+<option value="432">Autoritatea pentru Reformă Feroviară</option>
+<option value="438">Autoritatea pentru Supravegherea Publică a Activită?ii de Audit Statutar</option>
+<option value="236">Autoritatea pentru Valorificarea Activelor Statului</option>
+<option value="487">Autoritatea Vamală Rom&#226;nă</option>
+<option value="92">Avocatul Poporului</option>
+<option value="128">Banc Post S.A.</option>
+<option value="127">Banca Agricolă S.A</option>
+<option value="90">Banca Export-Import a Rom&#226;niei</option>
+<option value="6">Banca Na?ională a Rom&#226;niei</option>
+<option value="97">Biroul Electoral al Municipiului Bucure?ti</option>
+<option value="69">Biroul Electoral Central</option>
+<option value="452">Biroul Electoral Central pentru Alegerea Membrilor din Rom&#226;nia &#238;n Parlamentul European</option>
+<option value="467">Biroul Electoral Central pentru Alegerea Senatului ?i a Camerei Deputa?ilor din anul 2020</option>
+<option value="512">Biroul Electoral Jude?ean</option>
+<option value="183">Biroul Interna?ional al Expozi?iilor</option>
+<option value="405">Biroul Permanent al Camerei Deputa?ilor</option>
+<option value="347">Biroul Permanent al Senatului</option>
+<option value="52">Biroul Rom&#226;n de Metrologie</option>
+<option value="176">Biroul Rom&#226;n de Metrologie Legală</option>
+<option value="66">Birourile Permanente ale Camerei Deputa?ilor ?i Senatului</option>
+<option value="110">Buletinul Oficial</option>
+<option value="125">Camera Auditorilor din Rom&#226;nia</option>
+<option value="194">Camera Auditorilor Financiari din Rom&#226;nia</option>
+<option value="307">Camera Consultan?ilor Fiscali</option>
+<option value="48">Camera de Comer? ?i Industrie</option>
+<option value="36">Camera Deputa?ilor</option>
+<option value="450">Cancelaria Primului-Ministru</option>
+<option value="181">Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguran?ei Na?ionale ?i Autorită?ii Judecătore?ti</option>
+<option value="102">Casa Na?ională de Asigurări de Sănătate</option>
+<option value="182">Casa Na?ională de Pensii ?i Alte Drepturi de Asigurări Sociale</option>
+<option value="353">Casa Na?ională de Pensii Publice</option>
+<option value="492">Centrul Euro-Atlantic pentru Rezilien?ă</option>
+<option value="44">Centrul Na?ional al Cinematografiei</option>
+<option value="462">Centrul Na?ional de Răspuns la Incidente de Securitate Cibernică - CERT-RO</option>
+<option value="187">Centrul Teritorial de Calcul Electronic Piatra Neam?</option>
+<option value="383">Colegiul Cur?ii de Arbitraj Comercial Interna?ional</option>
+<option value="243">Colegiul Farmaci?tilor din Rom&#226;nia</option>
+<option value="437">Colegiul Fizioterapeu?ilor din Rom&#226;nia</option>
+<option value="519">Colegiul Geodezilor din Rom&#226;nia</option>
+<option value="258">Colegiul Medicilor Denti?ti din Rom&#226;nia</option>
+<option value="107">Colegiul Medicilor din Rom&#226;nia</option>
+<option value="454">Colegiul Medicilor Stomatologi din Rom&#226;nia</option>
+<option value="351">Colegiul Medicilor Veterinari</option>
+<option value="261">Colegiul Na?ional al Asisten?ilor Sociali</option>
+<option value="287">Colegiul Psihologilor din Rom&#226;nia</option>
+<option value="196">Comisarul General</option>
+<option value="146">Comisia Centrală de Rechizi?ii</option>
+<option value="70">Comisia Centrală Fiscală</option>
+<option value="317">Comisia de Concurs pentru Recrutarea &#206;nal?ilor Func?ionari Publici</option>
+<option value="442">Comisia de Disciplină pentru &#206;nal?ii Func?ionari Publici</option>
+<option value="448">Comisia de Insolven?ă la Nivel Central</option>
+<option value="174">Comisia de Supraveghere a Asigurărilor</option>
+<option value="276">Comisia de Supraveghere a Sistemului de Pensii Private</option>
+<option value="463">Comisia Economică pentru Europa a Organiza?iei Na?iunilor Unite</option>
+<option value="277">Comisia Europeană</option>
+<option value="117">Comisia Europeană a Drepturilor Omului</option>
+<option value="157">Comisia Mixtă Guvernamentală</option>
+<option value="53">Comisia Na?ională a Valorilor Mobiliare</option>
+<option value="348">Comisia Na?ională de Acreditare a Spitalelor</option>
+<option value="226">Comisia Na?ională de Prognoză</option>
+<option value="443">Comisia Na?ională de Strategie ?i Prognoză</option>
+<option value="100">Comisia Na?ională pentru Contrololul Activită?ilor Nucleare</option>
+<option value="191">Comisia Na?ională pentru Controlul Activită?ilor Nucleare</option>
+<option value="29">Comisia Na?ională pentru Protec?ia Muncii</option>
+<option value="50">Comisia Na?ională pentru Statistică</option>
+<option value="503">Comitetul de Ini?iativă Legislativă</option>
+<option value="202">Comitetul de Stat pentru Energie Nucleară</option>
+<option value="175">Comitetul de Stat pentru Pre?uri</option>
+<option value="238">Comitetul de Stat pentru Problemele Organizării Muncii ?i Produc?iei ?i ale Salarizării</option>
+<option value="320">Comitetul Interministerial de Finan?ări, Garan?ii ?i Asigurări</option>
+<option value="301">Comitetul Interministerial de Finan?ări, Garan?ii ?i Asigurări</option>
+<option value="251">Comitetul Interministerial de Garan?ii ?i Credite de Comer? Exterior</option>
+<option value="122">Comitetul Mixt din Cadrul Acordului dintre Rom&#226;nia ?i A.E.L.S</option>
+<option value="152">Comitetul Mixt Rom&#226;nia-A.E.L.S.</option>
+<option value="151">Comitetul Mixt Rom&#226;nia-Turcia</option>
+<option value="265">Comitetul Na?ional pentru Situa?ii de Urgen?ă</option>
+<option value="458">Comitetul Na?ional pentru Situa?iile Speciale de Urgen?ă</option>
+<option value="436">Comitetul Na?ional pentru Supraveghere Macropruden?ială</option>
+<option value="303">Comitetul Olimpic ?i Sportiv Rom&#226;n</option>
+<option value="78">Comitetul pentru Problemele Consiliilor Populare</option>
+<option value="123">Comunitatea Economică Europeană</option>
+<option value="189">Comunită?ile Europene</option>
+<option value="95">Conferin?a pentru Securitate ?i Cooperare Europeană</option>
+<option value="208">Consiliul ?tiin?ific al Agen?iei Na?ionale a Medicamentului</option>
+<option value="60">Consiliul Central al Uniunii Generale a Sindicatelor</option>
+<option value="83">Consiliul Concuren?ei</option>
+<option value="163">Consiliul de Ajutor Economic Reciproc</option>
+<option value="81">Consiliul de Asociere</option>
+<option value="55">Consiliul de Asociere</option>
+<option value="300">Consiliul de Mediere</option>
+<option value="20">Consiliul de Mini?tri</option>
+<option value="430">Consiliul de Monitorizare a Implementării Conven?iei privind Drepturile Persoanelor cu Dizabilită?i</option>
+<option value="133">Consiliul de Securitate</option>
+<option value="8">Consiliul de Stat</option>
+<option value="119">Consiliul Europei</option>
+<option value="19">Consiliul Frontului Salvării Na?ionale</option>
+<option value="200">Consiliul General al Asigurărilor Sociale de Stat</option>
+<option value="253">Consiliul Jude?ean Suceava</option>
+<option value="399">Consiliul Local al Municipiul Sighi?oara</option>
+<option value="266">Consiliul Local al Municipiului Adjud</option>
+<option value="378">Consiliul Local al Municipiului Baia Mare</option>
+<option value="257">Consiliul Local al Municipiului Bra?ov</option>
+<option value="354">Consiliul Local al Municipiului Brăila</option>
+<option value="254">Consiliul Local al Municipiului Cluj-Napoca</option>
+<option value="268">Consiliul Local al Municipiului Cluj-Napoca</option>
+<option value="126">Consiliul Local al Municipiului Foc?ani</option>
+<option value="260">Consiliul Local al Municipiului Gala?i</option>
+<option value="264">Consiliul Local al Municipiului Hu?i</option>
+<option value="371">Consiliul Local al Municipiului Marghita</option>
+<option value="337">Consiliul Local al Municipiului Media?</option>
+<option value="396">Consiliul Local al Municipiului Petro?ani</option>
+<option value="360">Consiliul Local al Municipiului Pite?ti</option>
+<option value="389">Consiliul Local al Municipiului Reghin</option>
+<option value="379">Consiliul Local al Municipiului Sebe?</option>
+<option value="424">Consiliul Local al Municipiului Sibiu</option>
+<option value="401">Consiliul Local al Municipiului T&#226;rgu-Mure?</option>
+<option value="272">Consiliul Local al Municipiului T&#226;rnăveni</option>
+<option value="220">Consiliul Local al Municipiului Zalău</option>
+<option value="400">Consiliul Local al Sectorului 6 Bucure?ti</option>
+<option value="345">Consiliul Municipiului Oradea</option>
+<option value="162">Consiliul Na?ional al Apelor</option>
+<option value="25">Consiliul Na?ional al Audiovizualului</option>
+<option value="248">Consiliul Na?ional al Ordinului Asisten?ilor Medicali ?i Moa?elor din Rom&#226;nia</option>
+<option value="298">Consiliul Na?ional de Integritate</option>
+<option value="505">Consiliul Na?ional de Solu?ionare a Contesta?iilor</option>
+<option value="210">Consiliul Na?ional pentru Combaterea Discriminării</option>
+<option value="314">Consiliul Na?ional pentru Studierea Arhivelor Securită?ii</option>
+<option value="501">Consiliul pentru Dezvoltare Regionala al Regiunii de Dezvoltare Sud-Est</option>
+<option value="522">Consiliul pentru Dezvoltare Regionala al Regiunii de Dezvoltare Vest</option>
+<option value="244">Consiliul pentru Dezvoltare Regională</option>
+<option value="510">Consiliul pentru Dezvoltare Regională al Regiunii de Dezvoltare Sud-Muntenia</option>
+<option value="246">Consiliul pentru Dezvoltare Regională Sud Vest Oltenia</option>
+<option value="362">Consiliul pentru Supravegherea &#238;n Interes Public a Profesiei Contabile</option>
+<option value="361">Consiliul pentru Supravegherea Publică a Activită?ii de Audit Statutar</option>
+<option value="352">Consiliul pentru Supravegherea Publică a Activită?ii de Audit Statutar</option>
+<option value="18">Consiliul Provizoriu de Uniune Na?ională</option>
+<option value="168">Consiliul Superior al Agriculturii</option>
+<option value="42">Consiliul Superior al Magistraturii</option>
+<option value="279">Consiliul Superior al Registrului Urbani?tilor din Rom&#226;nia</option>
+<option value="148">Consiliul Suprem de Apărare a ?ării</option>
+<option value="273">Consiliul Uniunii Europene</option>
+<option value="231">Corpora?ia Financiară Interna?ională</option>
+<option value="58">Corpul Exper?ilor Contabili</option>
+<option value="213">CREDITCOOP Casa Centrală</option>
+<option value="17">Curtea Constitu?ională</option>
+<option value="392">Curtea de Apel Bra?ov - Sec?ia Contencios Administrativ ?i Fiscal</option>
+<option value="390">Curtea de Apel Bucure?ti - Sec?ia a IV-a Civilă</option>
+<option value="278">Curtea de Apel Bucure?ti-Sec?ia a IX a Civilă ?i pentru Cauze Privind Proprietatea Intelectuală</option>
+<option value="478">Curtea de Apel Bucure?ti-Sec?ia a IX-a Contencios Administrativ ?i Fiscal</option>
+<option value="294">Curtea de Apel Bucure?ti-Sec?ia a VIII-a Contencios Administrativ, Fiscal</option>
+<option value="491">Curtea de Apel Cluj - Sec?ia a III-a Contencios Administrativ ?i Fiscal</option>
+<option value="339">Curtea de Apel Cluj – Sec?ia Comercială, Contencios Administrativ ?i Fiscal</option>
+<option value="498">Curtea de Apel Constan?a</option>
+<option value="494">Curtea de Apel Constan?a - Sec?ia a II-a Civilă, de Contencios Administrativ ?i Fiscal</option>
+<option value="482">Curtea de Apel Craiova</option>
+<option value="497">Curtea de Apel Ia?i</option>
+<option value="453">Curtea de Apel Oradea</option>
+<option value="473">Curtea de Apel Pite?ti</option>
+<option value="375">Curtea de Apel Ploie?ti</option>
+<option value="479">Curtea de Apel Suceava</option>
+<option value="402">Curtea de Apel Tg. Mure? - Sc II CV+CA+FISC</option>
+<option value="407">Curtea de Apel Timişoara - Secţia de Contencios Administrativ şi Fiscal   </option>
+<option value="435">Curtea de Arbitraj Comercial Interna?ional</option>
+<option value="22">Curtea de Conturi</option>
+<option value="118">Curtea Europeană a Drepturilor Omului</option>
+<option value="23">Curtea Supremă de Justi?ie</option>
+<option value="76">Departamentul  pentru Administrare Publică Locală</option>
+<option value="199">Departamentul de Comer? Exterior</option>
+<option value="297">Departamentul pentru Afaceri Europene</option>
+<option value="377">Departamentul pentru Ape, Păduri ?i Piscicultură</option>
+<option value="451">Departamentul pentru Eficien?ă Energetică</option>
+<option value="376">Departamentul pentru Energie</option>
+<option value="381">Departamentul pentru &#206;ntreprinderi Mici ?i Mijlocii, Mediul de Afaceri ?i Turism</option>
+<option value="372">Departamentul pentru Proiecte de Infrastructură ?i Investi?ii</option>
+<option value="84">Departamentul pentru Protec?ia Minorită?ilor Na?ionale</option>
+<option value="480">Departamentul pentru Rela?ia cu Republica Moldova</option>
+<option value="477">Departamentul pentru Rom&#226;nii de Pretutindeni</option>
+<option value="460">Departamentul pentru Situa?ii de Urgen?ă</option>
+<option value="156">Direc?ia Generală a Editurilor, Industriei Poligrafice, Difuzării Căr?ii ?i Presei</option>
+<option value="64">Direc?ia Generală a Vămilor</option>
+<option value="446">Direc?ia Generală de Informa?ii a Apărării</option>
+<option value="27">Direc?ia Generală de Statistică</option>
+<option value="63">Direc?ia Generală Impozite Indirecte</option>
+<option value="493">Direc?ia Generală pentru Eviden?a Persoanelor</option>
+<option value="315">Direc?ia Na?ională Anticorup?ie</option>
+<option value="109">Direc?ia Veniturilor de Stat</option>
+<option value="483">Directoratul Na?ional de Securitate Cibernetică</option>
+<option value="142">Domnitorul</option>
+<option value="474">Emitent nou de pus</option>
+<option value="489">Fondul de Compensare a Investitorilor</option>
+<option value="403">Fondul de Garantare a Asigura?ilor</option>
+<option value="87">Fondul de Garantare a Depozitelor Bancare</option>
+<option value="423">Fondul de Garantare a Drepturilor din Sistemul de Pensii Private</option>
+<option value="203">Fondul Monetar Interna?ional</option>
+<option value="43">Fondul Proprietă?ii de Stat</option>
+<option value="104">Fondul Rom&#226;n de Dezvoltare Socială</option>
+<option value="461">Grupul de Suport Tehnico-?tiin?ific privind Gestionarea Bolilor &#206;nalt Contagioase pe Teritoriul Rom&#226;niei</option>
+<option value="3">Guvernul</option>
+<option value="284">Inspec?ia de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune ?i Instala?iilor de Ridicat</option>
+<option value="445">Inspec?ia Judiciară</option>
+<option value="311">Inspec?ia Socială</option>
+<option value="283">Inspectoratul de Stat &#238;n Construc?ii</option>
+<option value="249">Inspectoratul General pentru Comunica?ii ?i Tehnologia Informa?iei</option>
+<option value="306">Inspectoratul General pentru Situa?ii de Urgen?ă</option>
+<option value="302">Institutul de Investigare a Crimelor Comunismului &#238;n Rom&#226;nia</option>
+<option value="507">Institutul Na?ional al Patrimoniului</option>
+<option value="441">Institutul Na?ional de Administra?ie</option>
+<option value="172">Institutul Na?ional de Statistică (?i Studii Economice)</option>
+<option value="234">&#206;nalta Curte de Casa?ie ?i Justi?ie</option>
+<option value="7">Marea Adunare Na?ională</option>
+<option value="476">ME nu</option>
+<option value="475">ME nu nu</option>
+<option value="221">Ministerul Administra?iei ?i Internelor</option>
+<option value="165">Ministerul Administra?iei Publice</option>
+<option value="356">Ministerul Afacerilor Europene</option>
+<option value="82">Ministerul Afacerilor Externe</option>
+<option value="154">Ministerul Afacerilor Interne</option>
+<option value="10">Ministerul Agriculturii</option>
+<option value="35">Ministerul Agriculturii ?i Alimenta?iei</option>
+<option value="290">Ministerul Agriculturii ?i Dezvoltării Rurale</option>
+<option value="140">Ministerul Agriculturii, Alimenta?iei ?i Pădurilor</option>
+<option value="74">Ministerul Agriculturii, Industriei Alimentare ?i Apelor</option>
+<option value="232">Ministerul Agriculturii, Pădurilor ?i Dezvoltării Rurale</option>
+<option value="215">Ministerul Agriculturii, Pădurilor, Apelor ?i Mediului</option>
+<option value="481">Ministerul Antreprenoriatului ?i Turismului</option>
+<option value="57">Ministerul Apărării Na?ionale</option>
+<option value="31">Ministerul Apelor ?i Protec?iei Mediului</option>
+<option value="420">Ministerul Apelor și Pădurilor</option>
+<option value="41">Ministerul Aprovizionării Tehnico-Materiale ?i Gospodăririi Fondurilor Fixe</option>
+<option value="115">Ministerul Artelor</option>
+<option value="472">Ministerul Cercetarii, Inovarii si Digitalizarii</option>
+<option value="429">Ministerul Cercetării ?i Inovării</option>
+<option value="46">Ministerul Cercetării ?i Tehnologiei</option>
+<option value="15">Ministerul Comer?ului</option>
+<option value="45">Ministerul Comer?ului ?i Turismului</option>
+<option value="21">Ministerul Comer?ului Exterior</option>
+<option value="9">Ministerul Comunica?iilor</option>
+<option value="333">Ministerul Comunica?iilor ?i Societă?ii Informa?ionale</option>
+<option value="173">Ministerul Comunica?iilor ?i Tehnologiei Informa?iei</option>
+<option value="129">Ministerul Construc?iilor</option>
+<option value="434">Ministerul Consultării Publice ?i Dialogului Social</option>
+<option value="114">Ministerul Cultelor</option>
+<option value="14">Ministerul Culturii</option>
+<option value="144">Ministerul Culturii ?i Cultelor</option>
+<option value="343">Ministerul Culturii ?i Patrimoniului Na?ional</option>
+<option value="419">Ministerul Culturii și Identității Naționale</option>
+<option value="416">Ministerul Culturii şi Identitatii Naţionale</option>
+<option value="329">Ministerul Culturii, Cultelor ?i Patrimoniului Na?ional</option>
+<option value="13">Ministerul de Interne</option>
+<option value="471">Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei</option>
+<option value="166">Ministerul Dezvoltării ?i Prognozei</option>
+<option value="365">Ministerul Dezvoltării Regionale ?i Administra?iei Publice</option>
+<option value="327">Ministerul Dezvoltării Regionale ?i Locuin?ei</option>
+<option value="344">Ministerul Dezvoltării Regionale ?i Turismului</option>
+<option value="412">Ministerul Dezvoltării Regionale, Administraţiei Publice şi Fondurilor Europene</option>
+<option value="295">Ministerul Dezvoltării, Lucrărilor Publice ?i Locuin?elor</option>
+<option value="332">Ministerul Economiei</option>
+<option value="218">Ministerul Economiei ?i Comer?ului</option>
+<option value="33">Ministerul Economiei ?i Finan?elor</option>
+<option value="39">Ministerul Economiei Forestiere</option>
+<option value="469">Ministerul Economiei, Antreprenoriatului si Turismului</option>
+<option value="341">Ministerul Economiei, Comer?ului ?i Mediului de Afaceri</option>
+<option value="397">Ministerul Economiei, Comer?ului ?i Rela?iilor cu Mediul de Afaceri</option>
+<option value="386">Ministerul Economiei, Comer?ului ?i Turismului</option>
+<option value="509">Ministerul Economiei, Digitalizării, Antreprenoriatului ?i Turismului</option>
+<option value="457">Ministerul Economiei, Energiei ?i Mediului de Afaceri</option>
+<option value="470">Ministerul Educa?iei</option>
+<option value="161">Ministerul Educa?iei ?i Cercetării</option>
+<option value="385">Ministerul Educa?iei ?i Cercetării ?tiin?ifice</option>
+<option value="91">Ministerul Educa?iei Na?ionale</option>
+<option value="393">Ministerul Educa?iei Na?ionale ?i Cercetării ?tiin?ifice</option>
+<option value="331">Ministerul Educa?iei, Cercetării ?i Inovării</option>
+<option value="219">Ministerul Educa?iei, Cercetării ?i Tineretului</option>
+<option value="222">Ministerul Educa?iei, Cercetării ?i Tineretului</option>
+<option value="342">Ministerul Educa?iei, Cercetării, Tineretului ?i Sportului</option>
+<option value="395">Ministerul Energiei</option>
+<option value="155">Ministerul Energiei Electrice</option>
+<option value="382">Ministerul Energiei, &#206;ntreprinderilor Mici ?i Mijlocii ?i Mediului de Afaceri</option>
+<option value="485">Ministerul Familiei, Tineretului ?i Egalită?ii de ?anse</option>
+<option value="5">Ministerul Finan?elor</option>
+<option value="134">Ministerul Finan?elor Publice</option>
+<option value="366">Ministerul Fondurilor Europene</option>
+<option value="113">Ministerul Func?iei Publice</option>
+<option value="80">Ministerul Industriei ?i Comer?ului</option>
+<option value="141">Ministerul Industriei ?i Resurselor</option>
+<option value="28">Ministerul Industriei Chimice</option>
+<option value="77">Ministerul Industriei Metalurgice</option>
+<option value="153">Ministerul Industriei U?oare</option>
+<option value="30">Ministerul Industriilor</option>
+<option value="229">Ministerul Integrării Europene</option>
+<option value="291">Ministerul Internelor ?i Reformei Administrative</option>
+<option value="468">Ministerul Investitiilor si Proiectelor Europene</option>
+<option value="334">Ministerul &#206;ntreprinderilor Mici ?i Mijlocii, Comer?ului ?i Mediului de Afaceri</option>
+<option value="62">Ministerul &#206;nvă?ăm&#226;ntului</option>
+<option value="54">Ministerul Justi?iei</option>
+<option value="324">Ministerul Justi?iei ?i Libertă?ilor Cetă?ene?ti</option>
+<option value="38">Ministerul Lucrărilor Publice</option>
+<option value="455">Ministerul Lucrărilor Publice, Dezvoltării ?i Administra?iei</option>
+<option value="150">Ministerul Lucrărilor Publice, Transporturilor ?i Locuin?ei</option>
+<option value="179">Ministerul Mediului</option>
+<option value="292">Ministerul Mediului ?i Dezvoltării Durabile</option>
+<option value="233">Ministerul Mediului ?i Gospodăririi Apelor</option>
+<option value="340">Ministerul Mediului ?i Pădurilor</option>
+<option value="363">Ministerul Mediului ?i Schimbărilor Climatice</option>
+<option value="387">Ministerul Mediului, Apelor ?i Pădurilor</option>
+<option value="204">Ministerul Minelor</option>
+<option value="11">Ministerul Muncii</option>
+<option value="34">Ministerul Muncii ?i Protec?iei Sociale</option>
+<option value="138">Ministerul Muncii ?i Solidarită?ii Sociale</option>
+<option value="413">Ministerul Muncii şi Justiţiei Sociale </option>
+<option value="293">Ministerul Muncii, Familiei ?i Egalită?ii de ?anse</option>
+<option value="325">Ministerul Muncii, Familiei ?i Protec?iei Sociale</option>
+<option value="364">Ministerul Muncii, Familiei, Protec?iei Sociale ?i Persoanelor V&#226;rstnice</option>
+<option value="508">Ministerul Muncii, Familiei, Tineretului ?i Solidarită?ii Sociale</option>
+<option value="216">Ministerul Muncii, Solidarită?ii Sociale ?i Familiei</option>
+<option value="296">Ministerul pentru &#206;ntreprinderi Mici ?i Mijlocii, Comer?, Turism ?i Profesii Liberale</option>
+<option value="177">Ministerul pentru &#206;ntreprinderile Mici ?i Mijlocii ?i Coopera?ie</option>
+<option value="414">Ministerul pentru Mediul de Afaceri,Comerţ şi Antreprenoriat</option>
+<option value="415">Ministerul pentru Rom&#226;nii de Pretutindeni</option>
+<option value="418">Ministerul pentru Rom&#226;nii de Pretutindeni</option>
+<option value="368">Ministerul pentru Societatea Informa?ională</option>
+<option value="88">Ministerul Petrolului</option>
+<option value="93">Ministerul Privatizării</option>
+<option value="322">Ministerul Public</option>
+<option value="12">Ministerul Sănătă?ii</option>
+<option value="145">Ministerul Sănătă?ii ?i Familiei</option>
+<option value="270">Ministerul Sănătă?ii Publice</option>
+<option value="51">Ministerul Silviculturii</option>
+<option value="484">Ministerul Sportului</option>
+<option value="79">Ministerul Tineretului ?i Sportului</option>
+<option value="32">Ministerul Transporturilor</option>
+<option value="323">Ministerul Transporturilor ?i Infrastructurii</option>
+<option value="217">Ministerul Transporturilor, Construc?iilor ?i Turismului</option>
+<option value="456">Ministerul Transporturilor, Infrastructurii ?i Comunica?iilor</option>
+<option value="37">Ministerul Turismului</option>
+<option value="171">Oficiul Central de Stat pentru Probleme Speciale</option>
+<option value="504">Oficiul de Film si Investitii Culturale</option>
+<option value="96">Oficiul de Stat pentru Inven?ii-Mărci</option>
+<option value="94">Oficiul Na?ional al Cinematografiei</option>
+<option value="89">Oficiul Na?ional de Cadastru ?i Geodezie</option>
+<option value="106">Oficiul Na?ional de Prevenire ?i Combatere a Spălării Banilor</option>
+<option value="506">Oficiul Na?ional pentru Achizi?ii Centralizate</option>
+<option value="373">Oficiul Na?ional pentru Jocuri de Noroc</option>
+<option value="514">Oficiul pentru Licen?ă Industrială</option>
+<option value="130">Oficiul pentru Protec?ia Consumatorilor</option>
+<option value="225">Oficiul Registrului Na?ional al Informa?iilor Secrete de Stat</option>
+<option value="282">Oficiul Rom&#226;n pentru Adop?ii</option>
+<option value="85">Oficiul Rom&#226;n pentru Drepturile de Autor</option>
+<option value="167">OMPI</option>
+<option value="184">Ordinul Arhitec?ilor din Rom&#226;nia</option>
+<option value="255">Ordinul Asisten?ilor Medicali ?i Moa?elor din Rom&#226;nia</option>
+<option value="330">Ordinul Asisten?ilor Medicali Generali?ti, Moa?elor ?i Asisten?ilor Medicali din Rom&#226;nia</option>
+<option value="384">Ordinul Consilierilor Juridici din Rom&#226;nia</option>
+<option value="304">Ordinul Geodezilor din Rom&#226;nia</option>
+<option value="120">Organiza?ia Avia?iei Civile Interna?ionale</option>
+<option value="193">Organiza?ia Interguvernamentală pentru Transporturile Interna?ionale Feroviare</option>
+<option value="121">Organiza?ia Interna?ională a Muncii</option>
+<option value="490">Organiza?ia Interna?ională de Asisten?ă Maritimă pentru Naviga?ie</option>
+<option value="147">Organiza?ia Interna?ională pentru Migrări</option>
+<option value="198">Organiza?ia Interprofesională Na?ională &quot;Zahărul&quot; din Rom&#226;nia</option>
+<option value="135">Organiza?ia Maritimă Consultativă</option>
+<option value="137">Organiza?ia Maritimă Interna?ională</option>
+<option value="190">Organiza?ia Meteorologică Mondială</option>
+<option value="143">Organiza?ia Mondială a Proprietă?ii Intelectuale</option>
+<option value="124">Organiza?ia Mondială a Turismului</option>
+<option value="188">Organiza?ia Mondială de Comer?</option>
+<option value="116">Organiza?ia Na?iunilor Unite</option>
+<option value="98">Parchetul - Curtea Supremă de Justi?ie</option>
+<option value="247">Parchetul de pe L&#226;ngă &#206;nalta Curte de Casa?ie ?i Justi?ie</option>
+<option value="245">Parchetul Na?ional Anticorup?ie</option>
+<option value="2">Parlamentul</option>
+<option value="289">Partide Politice</option>
+<option value="4">Pre?edintele C.F.S.N.</option>
+<option value="1">Pre?edintele R.S.R.</option>
+<option value="49">Pre?edintele Rom&#226;niei</option>
+<option value="274">Primăria Municipiului Bistri?a</option>
+<option value="313">Primăria Municipiului Bucure?ti</option>
+<option value="252">Primăria Municipiului Buzău</option>
+<option value="358">Primăria Municipiului Codlea</option>
+<option value="195">Primăria Municipiului Gala?i</option>
+<option value="319">Primăria Municipiului Gheorgheni</option>
+<option value="328">Primăria Municipiului Hu?i</option>
+<option value="350">Primăria Municipiului Petro?ani</option>
+<option value="338">Primăria Municipiului Pite?ti</option>
+<option value="286">Primăria Municipiului Re?i?a</option>
+<option value="326">Primăria Municipiului Sibiu</option>
+<option value="201">Primăria Municipiului T&#226;rgu-Mure?</option>
+<option value="374">Primăria Municipiului Tulcea</option>
+<option value="404">Primăria Municipiului Vulcan </option>
+<option value="388">Primăria Ora? Ludu?</option>
+<option value="425">Prim-Ministrul</option>
+<option value="197">Re?eaua Cinematografică a Europei de S-E</option>
+<option value="67">Regele Carol</option>
+<option value="158">Regele Ferdinand I</option>
+<option value="68">Regele Mihai</option>
+<option value="47">Regia Autonomă Monitorul Oficial</option>
+<option value="411">Reprezentanţii unui grup de cetăţeni    </option>
+<option value="357">Secretariatul de Stat pentru Culte</option>
+<option value="65">Secretariatul de Stat pentru Handicapa?i</option>
+<option value="209">Secretariatul de Stat pentru Problemele Revolu?ionarilor din Decembrie 1989</option>
+<option value="431">Secretariatul de Stat pentru Recunoa?terea Meritelor Luptătorilor &#238;mpotriva Regimului Comunit Instaurat &#238;n Rom&#226;nia &#238;n perioada 1945-1989</option>
+<option value="440">Secretariatul General al Guvernului</option>
+<option value="75">Secretariatul Guvernului</option>
+<option value="459">Secretarul General al Camerei Deputa?ilor</option>
+<option value="40">Senatul</option>
+<option value="72">Serviciul de Informa?ii Externe</option>
+<option value="73">Serviciul de Pază ?i Protec?ie</option>
+<option value="499">Serviciul de Protec?ie ?i Pază</option>
+<option value="71">Serviciul de Telecomunica?ii Speciale</option>
+<option value="59">Serviciul Rom&#226;n de Informa?ii</option>
+<option value="367">Societatea Na?ională de Cruce Ro?ie din Rom&#226;nia</option>
+<option value="160">Societatea Na?iunilor</option>
+<option value="447">Statul Major al Apărării</option>
+<option value="428">Tribunalul Bucure?ti - Sec?ia a II-a Contencios Administrativ ?i Fiscal</option>
+<option value="380">Tribunalul Bucure?ti - Sec?ia a V-a Civilă</option>
+<option value="230">Tribunalul Bucure?ti Sec?ia a III- a Civilă</option>
+<option value="56">Uniunea Avoca?ilor din Rom&#226;nia</option>
+<option value="237">Uniunea Colegiilor Consilierilor Juridici din Rom&#226;nia</option>
+<option value="241">Uniunea Na?ională a Arhitec?ilor</option>
+<option value="250">Uniunea Na?ională a Barourilor din Rom&#226;nia</option>
+<option value="359">Uniunea Na?ională a Evaluatorilor Autoriza?i</option>
+<option value="170">Uniunea Na?ională a Executorilor Judecătore?ti</option>
+<option value="26">Uniunea Na?ională a Notarilor Publici</option>
+<option value="285">Uniunea Na?ională a Practicienilor &#238;n Insolven?ă</option>
+<option value="178">Uniunea Na?ională a Practicienilor &#238;n Reorganizare ?i Lichidare</option>
+<option value="132">Uniunea pentru Protec?ia Noilor Soiuri de Plante</option>
+</select>                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div style="float:left;">
+            <input type="submit" value="Căutare" id="submitbutton" name="actiontype" class="btn btn-primary" />
+        </div>
+        <div style="float:right;">
+
+            <a class="btn btn-primary" href="/">Anulare</a>
+        </div>
+
+    </fieldset>
+    <div class="tolltip_content">
+        <p>Căutare</p>
+        <p>Acest formular permite căutarea dupa mai multe criterii. Folositi "+" pentru a putea alege criteriile de căutare dorite si apasati "Căutare" pentru a efectua căutarea conform filtrelor selectate.</p>
+    </div>
+                <div class="box_wrapper">
+                    <div class="h1_wrap">
+                        <h1>Noile Coduri</h1>
+                        <div class="spacer"></div>
+                    </div>
+                    <div class="large_box">
+                        <div class="small_box">
+                            <div class="small_box_inside">
+<fieldset class="default_fieldset">
+
+    <h3>CODUL PENAL</h3>
+        <ul>
+            <li class="red"><a target="_blank" href="/Public/DetaliiDocument/109855">Noul cod penal</a></li>
+            <li class="red"><a target="_blank" href="/Public/DetaliiDocument/120611">Noul cod de procedură penală</a></li>
+	    <li class="red"><a target="_blank" href="https://www.just.ro/wp-content/uploads/2021/11/noul-cod-penal-precizari_01022013.pdf">Noul cod penal - mentiuni si precizari</a></li>
+            
+            <li class="red"><a target="_blank" href="https://www.just.ro/wp-content/uploads/2021/11/Noul-cod-penal-EN.doc">The new penal code</a></li>
+            <li class="red"><a target="_blank" href="https://www.just.ro/wp-content/uploads/2021/11/Noul-cod-procedura-penala-EN.doc">The new code of criminal procedure</a></li>
+
+        </ul>
+    
+</fieldset>
+ 
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+
+                        <div class="small_box">
+                            <div class="small_box_inside">
+<fieldset class="default_fieldset">
+    <h3>CODUL CIVIL</h3>
+    <ul>
+        <li><a target="_blank" href="/Public/DetaliiDocument/109884">Noul cod civil</a></li>
+        <li><a target="_blank" href="/Public/DetaliiDocument/140271">Noul cod de procedură civilă</a></li>
+    </ul>
+ 
+</fieldset>
+
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+
+                        <div class="small_box_red">
+                            <div class="small_box_inside_red">
+<fieldset class="default_fieldset">
+ 
+    <h3 style="text-transform:uppercase;">Ultimele acte publicate în Monitorul Oficial</h3>
+   
+    <div style="height:180px; overflow-y:auto; min-width:280px;">
+        <UL><LI><A href="/Public/DetaliiDocument/313987" target="_blank">ORDIN               1027 31/08/2026</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313977" target="_blank">RECTIFICARE          292 28/08/2026</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313979" target="_blank">HOTARARE             215 28/08/2026</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313988" target="_blank">ORDIN               5214 27/08/2026</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313984" target="_blank">ORDIN               1021 20/08/2026</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313985" target="_blank">ORDIN               1022 20/08/2026</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313986" target="_blank">PROCEDURA                20/08/2026</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313983" target="_blank">DECIZIE              136 17/02/2026</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313982" target="_blank">DECIZIE              644 25/11/2025</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313759" target="_blank">ORDIN          (A)  3788 23/07/2024</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313760" target="_blank">PROCEDURA      (A)       23/07/2024</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313980" target="_blank">ORDIN          (R)    59 16/06/2015</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313981" target="_blank">NORMA          (R)       16/06/2015</A></LI><BR/><LI><A href="/Public/DetaliiDocument/313758" target="_blank">HOTARARE       (A)    74 18/12/2014</A></LI><BR/></UL>
+    </div>
+</fieldset>
+
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                <div class="clear"></div>
+            <style>
+
+                @media screen and (max-width: 1680px) {
+                    #page_wrapper {
+                        transform: scale(0.82) !important;
+                        transform-origin: 50% 0% !important;
+                        margin-bottom: -200px;
+                    }
+                }
+
+                    
+                     
+        </style>
+</form>
+
+                </div>
+                <div class="clear"></div>
+
+            </div>
+            <div class="clear"></div>
+ 
+        </div>
+        <footer>
+            <div id="footer_wrapper">
+                <div class="footer_wrapper_inner bs-docs-footer">
+                    <div class="footer_inner">
+                        <div class="footer_logo"></div>
+                        <ul class="top_menu">
+                            <li class="floatnone" style="margin-left: -70px;">
+                                <center>
+                                    <div style="max-width:1024px;">
+                                        <br /><img src="/Content/Images/Site/justitie_logo.png" style="max-width:90px; position:relative; z-index:9999; width:100%; margin-top:-35px;" align="left" alt="logo" />
+                                        <p style="text-transform:none;">Conținutul acestui material nu reprezintă în mod obligatoriu poziția oficială a Uniunii Europene sau a Guvernului României.</p>
+                                        <br />
+                                        <center><p style="text-transform:none;">Pentru informații detaliate despre celelalte programe cofinanțate de Uniunea Europeană, vă invităm să vizitați <a onmouseover="this.style.color = '#386897'" onmouseout="    this.style.color = '#ffffff'" style="color: #ffffff; font-weight:bold;" href="http://www.fonduri-ue.ro">www.fonduri-ue.ro</a>.</p></center>
+                                    </div>
+                                </center>
+                            </li>
+                        </ul>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <div class="footer_bottom">
+                    <div class="footer_inner">
+                        <div class="copyright left">
+                            Copyright &copy; 2026 - Ministerul Justiției. Toate drepturile rezervate. - <a href="/Public/Termeni">Termeni și Condiții</a>
+                            <div id="meniufooter">
+
+                            </div>
+                        </div>
+                        <div class="copyright right">        <li class="meniufooter">
+            <a style="color: #386897;" onmouseover="this.style.color = '#fafafa'" onmouseout="this.style.color = '#386897'" href="/Public/Acasa">
+
+    &nbsp;&#124;&nbsp;Acasă
+
+</a>
+        </li>
+        <li class="meniufooter">
+            <a style="color: #386897;" onmouseover="this.style.color = '#fafafa'" onmouseout="this.style.color = '#386897'" href="/Public/NLEX">
+
+    &nbsp;&#124;&nbsp;Despre Proiect
+
+</a>
+        </li>
+        <li class="meniufooter">
+            <a style="color: #386897;" onmouseover="this.style.color = '#fafafa'" onmouseout="this.style.color = '#386897'" href="/Public/Functionalitati">
+
+    &nbsp;&#124;&nbsp;Facilități Oferite 
+
+</a>
+        </li>
+        <li class="meniufooter">
+            <a style="color: #386897;" onmouseover="this.style.color = '#fafafa'" onmouseout="this.style.color = '#386897'" href="/Public/LegaturiUtile">
+
+    &nbsp;&#124;&nbsp;Legături Utile
+
+</a>
+        </li>
+
+
+</div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('.toggle-menu').jPushMenu();
+
+                $('ul.mainmenu li.dropdown').hover(function () {
+                    $(this).find('a.main_link').addClass('active');
+                    $(this).find('.level2_menu').show();
+                    $('li.dropdown_2').hover(function () {
+                        $(this).find('a.second_link').addClass('second_active');
+                        $(this).find('.level3_menu').show();
+
+                    }, function () {
+                        $(this).find('a.second_link').removeClass('second_active');
+                        $('.level3_menu').hide();
+                    });
+
+                }, function () {
+                    $(this).find('a.main_link').removeClass('active');
+                    $('.level2_menu').hide();
+                });
+    
+                if (navigator.appVersion.indexOf("MSIE 8.") != -1) {
+
+                    $('#mesajIe8Modal').modal('show');
+
+                }
+            });
+            //
+
+
+
+            $(document).ready(function () {
+
+
+                //stick in the fixed 100% height behind the navbar but don't wrap it
+                $('#slide-nav.navbar-inverse').after($('<div class="inverse" id="navbar-height-col"></div>'));
+
+                $('#slide-nav.navbar-default').after($('<div id="navbar-height-col"></div>'));
+
+                // Enter your ids or classes
+                var toggler = '.navbar-toggle';
+                var pagewrapper = '#page-content';
+                var navigationwrapper = '.navbar-header';
+                var menuwidth = '100%'; // the menu inside the slide menu itself
+                var slidewidth = '60%';
+                var menuneg = '-100%';
+                var slideneg = '-60%';
+
+
+                $("#slide-nav").on("click", toggler, function (e) {
+
+                    var selected = $(this).hasClass('slide-active');
+
+                    $('#slidemenu').stop().animate({
+                        left: selected ? menuneg : '0px'
+                    });
+
+                    $('#navbar-height-col').stop().animate({
+                        left: selected ? slideneg : '0px'
+                    });
+
+                    $(pagewrapper).stop().animate({
+                        left: selected ? '0px' : slidewidth
+                    });
+
+                    $(navigationwrapper).stop().animate({
+                        left: selected ? '0px' : slidewidth
+                    });
+
+
+                    $(this).toggleClass('slide-active', !selected);
+                    $('#slidemenu').toggleClass('slide-active');
+
+
+                    $('#page-content, .navbar, body, .navbar-header').toggleClass('slide-active');
+
+
+                });
+
+
+                var selected = '#slidemenu, #page-content, body, .navbar, .navbar-header';
+
+
+                $(window).on("resize", function () {
+
+                    if ($(window).width() > 1010 && $('.navbar-toggle').is(':hidden')) {
+                        $(selected).removeClass('slide-active');
+                    }
+
+
+                });
+
+
+            });
+        </script>
+        
+    </div>
+    <script>
+
+        function replaceScript() {
+            var toReplace = '<a href="javascript:;">Proiect</a>';
+            var replaceWith = '';
+            document.body.innerHTML = document.body.innerHTML.replace(toReplace, replaceWith);
+        }
+        replaceScript();
+
+        if (navigator.appVersion.indexOf("MSIE 8.") != -1) {
+            $("#toTop").hide();
+            $(".meniunu").hide();
+            $(".icon-bar").hide();
+            $("#btnNavbar").hide();
+            $(".navbar-header").hide();
+            $("body").css("min-width", "600px");
+
+        }
+
+       /* if (navigator.appName.indexOf("Netscape") != -1) {
+            $("#page_wrapper").css("transform", "scale(0.8)");
+            alert(0);
+            $("#page_wrapper").css("transform-origin", "50% 0% ");
+        }*/
+    </script>
+    
+    <!-- BETA Mesaj -->
+    <div class="modal fade" id="mesajBetaModal" tabindex="-1" role="dialog" aria-labelledby="mesajBetaModalLabel" aria-hidden="true">
+        <div class="modal-dialog" style="max-width: 700px; margin: 5% auto; ">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Inchide</span></button>
+                    <br /><div class="alert alert-danger" role="alert"> <center>Versiune Beta</center></div>
+                </div>
+                <div class="modal-body">
+                    <center>
+                        A fost lansata versiunea Beta a Portalului Legislativ<br /><br /><br />
+                    Fiind o versiune Beta, este posibil ca unele facilitati sa nu functioneze in mod corect.</center>  
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" data-dismiss="modal" class="btn btn-primary">Inchide mesajul de atentionare</button>
+                </div>
+            </div>
+        </div>
+    </div>
+ 
+    <!-- IE8 Mesaj -->
+    <div class="modal fade" id="mesajIe8Modal" tabindex="-1" role="dialog" aria-labelledby="mesajIe8ModalLabel" aria-hidden="true">
+        <div class="modal-dialog" style="max-width: 700px; margin: 5% auto; ">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Inchide</span></button>
+                    <br /><div class="alert alert-danger" role="alert"> <center>Datorita faptului ca folositi o versiune de Internet Explorer (Internet Explorer 8) foarte veche este posibil ca unele functionalitati sa fie dezactivate sau sa nu functioneze corect!</center></div>
+                </div>
+                <div class="modal-body">
+                    <div style="width:100%;">
+                        <div style="width:50%; float:left; text-transform:uppercase;">
+                            <span style="font-size:18px; font-weight:bold; text-transform:none;">Ce browser sa aleg?</span>
+                            <br /><br /><br />
+                            <div class="row">
+                                <img src="/Content/Images/Site/browsere/chrome.jpg" align="left" width="69" style="padding-right:10px;" /><b>Google Chrome</b><br />
+                                <br /><a href="http://www.google.com/chrome" target="_blank"><span style="text-transform:none; font-size:13px;">Descarca Browser</span></a>
+                            </div><br />
+
+                            <div class="row">
+                                <img src="/Content/Images/Site/browsere/firefox.jpg" align="left" width="69" style="padding-right:10px;" /><b>Mozilla Firefox</b><br />
+                                <br /><a href="https://www.mozilla.org/en-US/firefox/all/?q=romania" target="_blank"><span style="text-transform:none; font-size:13px;">Descarca Browser</span></a>
+                            </div><br />
+                            <div class="row">
+                                <img src="/Content/Images/Site/browsere/ie.jpg" align="left" width="69" style="padding-right:10px;" /><b>Internet Explorer</b><br />
+                                <br />
+                                <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx" target="_blank"><span style="text-transform:none; font-size:13px;">Descarca Browser</span></a>
+                            </div><br />
+                            <div class="row">
+                                <img src="/Content/Images/Site/browsere/safari.jpg" align="left" width="69" style="padding-right:10px;" /><b>Apple Safari</b><br />
+                                <br /><a href="http://www.apple.com/safari/" target="_blank"><span style="text-transform:none; font-size:13px;">Descarca Browser</span></a>
+                            </div>
+                        </div>
+                        <div style="width:50%; float:left;">
+                            <span style="font-size:18px; font-weight:bold;">De ce sa actualizez browserul?</span>
+                            <br /><br /><br />
+                            Browserele invechite, cum ar fi Internet Explorer 8 (lansat în 2001) nu respecta standardele web, nu ofera unele facilitati noi browser-ului, cum ar fi de navigatie sau descarcare, managerul de tab-uri, si au probleme de securitate.
+                            <br /><br />
+                            Aceasta afecteaza, de asemenea, calitatea de redare site-uri web.
+                            <br /><br /><br />
+
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" data-dismiss="modal" class="btn btn-primary">Inchide mesajul de atentionare</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <script src="/bundles/jqueryval?v=mRjM0qa6T8GTCa8lhmXMI_-t5fsTCmHSxo4BqkY9x4A1"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(":input[data-inputmask]").inputmask("yyyy/mm/dd",{ placeholder: "_", greedy: false, yearrange: { minyear: 1800, maxyear: 2199 } });
+            $(":input").tooltip({ html: true });
+
+            $("#PublishedInNumber").inputmask("integer", { allowMinus: false, allowPlus: false, rightAlign: false });
+            $("#DocumentNumber").inputmask({ mask: "9{1,5}[-9999]", greedy: false });
+           // $("#DocumentNumber").inputmask("integer", { allowMinus: false, allowPlus: false, rightAlign : false});
+            $("button[id^=minus]").click(function (event) {
+                event.preventDefault();
+                var $this = $(this).closest(".form-group");
+                $this.toggleClass("hide");
+                $this.find(".form-control").val('');
+                $this.find(".input-group-addon").html('');
+                $this.find(".hiddenOP").val('');
+            });
+
+            $('.dtPicker').datepicker({
+                format: "dd-mm-yyyy",
+                language: "ro-RO"
+            });
+            $("#submitbutton").focus();
+            $("select").each(function(index,value){
+                var $this = $(this);
+                $this.selectpicker({
+                    noneSelectedText:'Nici o selecție'
+                });
+            });
+
+            $("[id^=collapseOne]").each(function (index, value) {
+                var $this = $(this);
+                var $collapse = $(value).closest(".collapse");
+                $collapse.siblings('.panel-heading').find('.panel-title > a').removeClass("collapsed");
+                
+            });
+            $("[id^=collapseTwo]").each(function (index, value) {
+                var $this = $(this);
+                var $collapse = $(value).closest(".collapse");
+                $collapse.siblings('.panel-heading').find('.panel-title > a').removeClass("collapsed");
+                $collapse.find("input[type!='hidden']").each(function (index, value) {
+                    var $formgroup = $(value).closest(".form-group");
+                    if ($(value).val() != "" && $(value).length > 0) {
+                        $formgroup.removeClass("hide")
+                    }
+
+                });
+
+            });
+
+            $("[id^=collapseThree]").each(function (index,value) {
+                var $this = $(this);
+                var $collapse = $(value).closest(".collapse");
+
+                //console.dir($collapse.find("input").length);
+
+                if ($collapse.find("input").each(function () {
+                    if ($(this).val() != "") {
+                        $collapse.collapse();
+                        var $ahf = $collapse.closest("panel-primary").find("a");
+                        $collapse.siblings('.panel-heading').find('.panel-title > a').removeClass("collapsed");
+                    }
+                }))
+
+                if (($collapse.find("input").val() != "" && $collapse.find("input").length > 0)
+                    || ($collapse.find("select").length > 0 && $collapse.find("select").val() != "")
+                    || ($collapse.find("span.filter-option")).text() != "") {
+                    $collapse.collapse();
+                    var $ahf = $collapse.closest("panel-primary").find("a");
+                    $collapse.siblings('.panel-heading').find('.panel-title > a').removeClass("collapsed");
+                }
+            });
+
+            $('#divNewNotifications li').on('click', function () {
+                var $this = $(this);
+                var tx = $("#buttonAdaugaSiSau").parents(".form-group").siblings(".hide").eq(0);
+                tx.find(".input-group-addon").html($(this).find('a').html());
+                tx.find(".hiddenOP").val($(this).find('a').html());
+                tx.find(".form-control").val("");
+                tx.removeClass("hide");
+                var allSibling = $("#buttonAdaugaSiSau").parents(".form-group").siblings(".hide");
+                //console.dir(allSibling);
+                //$('#dropdown_title').html($(this).find('a').html());
+            });
+
+
+        });
+    </script>
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

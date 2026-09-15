@@ -1,0 +1,1693 @@
+<!-- OCR automat (pytesseract, lang=ron) — text posibil cu erori, verificați față de PDF-ul original înainte de a-l trata drept sursă exactă. -->
+
+## Pagina 1
+
+EXPUNERE DE MOTIVE
+Secţiunea 1 Titlul proiectului de act normativ
+
+Lege pentru modificarea și completarea Legii nr. 135/2010 privind Codul de procedură
+penală, precum și a altor acte normative
+
+Secțiunea a 2-a Motivul emiterii actului normativ
+
+De la intrarea în vigoare a noului Cod de procedură penală
+(Legea nr. 135/2010 privind Codul de procedură penală), fiind
+sesizată cu excepții de neconstituționalitate, Curtea Constituțională
+a realizat analize aprofundate asupra unor instituții reglementate în
+acest act normativ, pronunțând și decizii de admitere a excepțiilor -
+unele dintre acestea fiind simple (extreme), iar altele intermediare
+(cu rezervă de interpretare).
+
+Unele dintre aceste decizii de admitere a unor excepții de
+neconstituționalitate au fost urmate de intervenții legislative,
+realizate prin intermediul unor legi sau ordonanțe de urgenţă, prin
+care s-a realizat punerea în acord a Legii nr. 135/2010 privind Codul
+de procedură penală cu Constituţia, așa cum aceasta a fost
+interpretată prin decizii ale Curţii Constituţionale, dar pentru altele
+nu s-a realizat această punere în acord.
+
+Întrucât potrivit art. 147 alin. (1) din Constituția României,
+republicată, legiuitorului îi revine în continuare obligația de a pune
+de acord prevederile neconstituţionale cu dispozițiile Constituţiei, a
+fost elaborat prezentul proiect de lege, care are în vedere
+următoarele decizii ale Curţii Constituţionale (menționate în ordinea
+publicării lor în Monitorul Oficial al României):
+
+1. Descrierea
+situației actuale
+
+1. Decizia nr. 336 din 30 aprilie 2015 referitoare ia excepția
+de neconstituţionalitate a dispozițiilor art. 235 alin. (1) din Codul de
+procedură penală, publicată în Monitorul Oficial al României Partea |
+nr. 342 din 19 mai 2015
+
+Admite excepția de neconstituționalitate (...) şi constată că
+dispoziţiile art. 235 alin. (1) din Codul de procedură penală sunt
+constituționale în măsura în care nerespectarea termenului "cu cel
+puțin 5 zile înainte de expirarea duratei arestării preventive” atrage
+incidența art. 268 alin. (1) din Coaul de procedură penală.
+
+2. Decizia nr. 625 din 26 octombrie 2016 referitoare la
+excepția de neconstituţionalitate a dispoziţiilor art. 69 și art. 70 din
+Codul de procedură penală, publicată în Monitorul Oficial al României
+Partea | nr. 107 din 7 februarie 2017
+
+Admite excepția de neconstituționalitate (...) şi constată că
+soluția legislativă cuprinsă în dispozițiile art. 70 din Codul de
+procedură penală, care stabilește că asupra cererii de recuzare a
+procurorului formulată în faza de judecată, în faza camerei
+preliminare sau în fața judecătorului de drepturi și libertăți se
+
+## Pagina 2
+
+pronunţă procurorul ierarhic superior este neconstituțională.
+
+3. Decizia nr. 22 din 17 ianuarie 2017 referitoare la
+excepția de neconstituţionalitate a dispozițiilor art. 220 alin. (1) din
+Codul de procedură penală, publicată în Monitorul Oficial al României
+Partea | nr. 159 din 3 martie 2017
+
+Admite excepția de neconstituționalitate (...) și constată că
+este  neconstituțională soluția legislativă reglementată de
+dispozițiile art. 220 alin. (1) din Codul de procedură penală, care
+permite luarea măsurii arestului la domiciliu, în condiţiile în care
+anterior inculpatul a fost arestat preventiv sau la domiciliu în
+aceeași cauză, în lipsa unor terneiuri noi care fac necesară privarea
+sa de libertate.
+
+4. Decizia nr. 17 din 17 ianuarie 2017 referitoare la
+excepția de neconstituționalitate a dispozițiilor art. 213 alin. (2) şi
+art. 215! alin. (6) din Codul de procedură penală, publicată în
+Monitorul Oficial al României Partea | nr. 261 din 13 aprilie 2017
+Admite excepția de neconstituționalitate (...) şi constată că
+dispozițiile art. 213 alin. (2) din Codul de procedură penală sunt
+constituționale în măsura în care soluționarea plângerii împotriva
+ordonanţei procurorului prin care s-a luat măsura controlului
+judiciar se face cu aplicarea prevederilor art. 204 alin. (4) din Codul
+de procedură penală.
+
+5. Decizia nr. 2 din 17 ianuarie 2017 referitoare la excepția
+de neconstituționalitate a dispozițiilor art. 453 alin. (3) şi (4) teza
+întâi și ale art. 457 alin. (2) din Codul de procedură penală, publicată
+în Monitorul Oficial al României Partea | nr. 324 din 5 mai 2017
+Admite excepția de neconstituționalitate (...) şi constată că
+soluția legislativă cuprinsă în dispozițiile art. 453 alin. (3) și (4) teza
+întâi și ale art. 457 alin. (2) din Codul de procedură penală, care
+exclud posibilitatea revizuirii hotărârii de achitare pentru cazul
+prevăzut la alin. (1) lit. a), este neconstituțională,
+
+6. Decizia nr. 257 din 26 aprilie 2017 referitoare la excepţia
+de neconstituționalitate a dispoziţiilor art. 20 alin. (1) și art. 21 alin.
+(1) din Codul de procedură penală, publicată în Monitorul Oficial al
+României, Partea |, nr. 472 din 22 iunie 2017
+
+Admite excepția de neconstituţionalitate (...) și constată că
+sintagma „în termenul prevăzut la art. 20 alin. (1)" din cuprinsul art.
+21 alin. (1) din Codul de procedură penală este neconstituțională.
+
+7. Decizia nr. 244 din 6 aprilie 2017 referitoare la excepția
+de neconstituţionalitate a dispozițiilor art. 145 din Codul de
+procedură penală, publicată în Monitorul Oficial al României, Partea
+|, nr, 529 din 6 iulie 2017
+
+Admite excepţia de neconstituționalitate (...) și constată că
+soluția legislativă cuprinsă în dispozițiile art. 145 din Codul de
+
+## Pagina 3
+
+procedură penală, care nu permite contestarea legalității măsurii
+supravegherii tehnice de către persoana vizată de aceasta, care nu
+are calitatea de inculpat, este neconstituțională.
+
+8. Decizia nr. 302 din 4 mai 2017 referitoare la excepția de
+neconstituționalitate a dispozițiilor art. 281 alin. (1) lit. b) din Codul
+de procedură penală, publicată în Monitorul Oficial al României,
+Partea |, nr. 566 din data de 17 iulie 2017
+
+Admite excepția de neconstituţionalitate (...) și constată că
+soluția legistativă cuprinsă în dispozițiile art. 281 alin. (1) lit. b) din
+Codul de procedură penală, care nu reglementează în categoria
+nulităților absolute încălcarea dispozițiilor referitoare la
+competența materială și după calitatea persoanei a organului de
+urmărire penală, este neconstituțională.
+
+9. Decizia nr. 437 din 22 iunie 2017 referitoare la excepția
+de neconstituționalitate a dispozițiilor art. 348 alin. (2) din Codul de
+procedură penală, publicată în Monitorul Oficial al României, Partea
+|, nr. 763 din data de 26 septembrie 2017
+
+Admite excepția de neconstituționalitate (...) și constată că
+sintagma „sau, după caz, judecătorul de cameră preliminară de la
+instanța ierarhic superioară ori completul competent de la Înalta
+Curte de Casaţie şi Justiție, învestit cu soluționarea contestației” din
+cuprinsul acestora este neconstitutională.
+
+10. Decizia nr. 562 din 19 septembrie 2017 referitoare la
+excepția de neconstituționalitate a dispozițiilor art. 117 alin. (1) lit.
+a) și lit. b) din Codul de procedură penală, publicată în Monitorul
+Oficial al României, Partea |, nr. 837 din data de 23 octombrie 2017
+Admite excepția de neconstituționalitate (...) și constată că
+soluția legislativă cuprinsă în art. 117 alin. (1) lit. a) și lit. b) din
+Codul de procedură penală, care exclude de la dreptul de a refuza să
+fie audiate în calitate de martor persoanele care au stabilit relații
+asemănătoare acelora dintre soți, este neconstituțională.
+
+11. Decizia nr. 651 din 17 octombrie 2017 referitoare la
+excepția de neconstituționalitate a dispozițiilor art. 434 alin. (2) lit.
+f) și ale art. 439 alin. (4!) teza a doua din Codul de procedură penală,
+publicată în Monitorul Oficial al României, Partea |, nr. 1000 din data
+de. 18 decembrie 2017
+
+Admite excepția de neconstituționalitate (...) şi constată că
+dispozițiile art. 434 alin. (2) lit. f) din Codul de procedură penală,
+care exclud posibilitatea atacării cu recurs în casație a soluțiilor
+pronunțate ca urmare a aplicării procedurii privind recunoașterea
+învinuirii, sunt neconstituționale.
+
+12. Decizia nr. 554 din 19 septembrie 2017 referitoare la
+excepția de neconstituționalitate a dispozițiilor art. 282 alin. (2) din
+Codul de procedură penală, publicată în Monitorul Oficial al
+
+## Pagina 4
+
+României, Partea |, nr. 1013 din data de 21 decembrie 2017
+
+Admite excepția de neconstituționalitate (...) şi constată că
+soluția legislativă cuprinsă în dispozițiile art. 282 alin. (2) din Codul
+de procedură penală, care nu permite invocarea din oficiu a nulității
+relative, este neconstituțională.
+
+13. Decizia nr. 802 din 5 decembrie 2017 referitoare la
+excepția de neconstituționalitate a dispozițiilor art. 342 şi art. 345
+alin. (1) din Codul de procedură penală, publicată în Monitorul Oficial
+al României, Partea |, nr. 116 din data de 6 februarie 2018
+
+Admite excepția de neconstituționalitate (...) şi constată că
+soluția legislativă cuprinsă în art. 345 alin. (1) din Codul de
+procedură penală, care nu permite judecătorului de cameră
+preliminară, în soluționarea cererilor și excepțiilor formulate ori
+excepțiilor ridicate din oficiu, să administreze alte mijloace de
+probă în afara "oricăror înscrisuri noi prezentate” este
+neconstituţională.
+
+14. Decizia nr. 21 din 18 ianuarie 2018 referitoare la
+excepția de neconstituționalitate a dispozițiilor art. 352 alin. (11) şi
+alin. (12) din Codul de procedură penală, publicată în Monitorul
+Oficial al României, Partea |, nr. 175 din data de 23 februarie 2018
+Admite excepția de neconstituționalitate (...) și constată că
+sintagma „instanța solicită" cu raportare la sintagma „permiterea
+accesului la cele clasificate de către apărătorul înculpatului”, din
+cuprinsul dispozițiilor art. 352 alin. (11) din Codul de procedură
+penală, precum și sintagma „autoritatea emitentă” din cuprinsul
+dispoziţiilor art. 352 alin. (12) din Codul de procedură penală sunt
+neconstituţionale.
+
+15, Decizia nr. 22 din 18 ianuarie 2018 referitoare la
+excepţia de neconstituționalitate a dispozițiilor art. 102 alin. (3), art.
+345 alin. (3) și art. 346 alin. (4) din Codul de procedură penală,
+publicată în Monitorul Oficial al României, Partea |, nr. 177 din data
+de 26 februarie 2018
+
+Admite excepția de neconstituționalitate (...) și constată că
+dispoziţiile art. 102 alin. (3) din Codul de procedură penală sunt
+constituționale în măsura în care prin sintagma "excluderea probei”,
+din cuprinsul lor, se înțelege și eliminarea rmijloacelor de probă din
+dosarul cauzei.
+
+16. Decizia nr. 79 din 22 februarie 2018 referitoare la
+excepția de neconstituționalitate a dispoziţiilor art. 215! alin. (8)
+din Codul de procedură penală, publicată în Monitorul Oficial al
+României, Partea |, nr. 399 din data de 9 mai 2018
+
+Admite excepția de neconstituționalitate (...) și constată că
+sintagma „în primă instanță” cuprinsă în art. 215! alin. (8) din Codul
+de procedură penală este neconstituţională.
+
+## Pagina 5
+
+17. Decizia nr. 102 din 6 martie 2018 referitoare la excepția
+de neconstituționalitate a dispoziţiilor art. 505 alin. (2) din Codul de
+procedură penală, precum și a sintagmei "care nu a împlinit 16 ani”
+din cuprinsul dispozițiilor art. 505 alin. (1) din Codul de procedură
+penală, publicată în Monitorul Oficial al României, Partea |, nr. 400
+din data de 10 mai 2018
+
+Admite exceptia de neconstituționalitate (...) și constată că
+dispozițiile art. 595 alin. (2) din Codul de procedură penală, precum
+şi sintagma „care nu a împlinit 16 ani” din cuprinsul art. 505 alin. (1)
+din Codul de procedură sunt neconstituţionale.
+
+18. Decizia nr. 354 din 22 mai 2018 referitoare la excepția
+de neconstituționalitate a dispoziţiilor art. 252? alin. (3) teza finală
+din Codul de procedură penală, publicată în Monitorul Oficial al
+României, Partea |, nr. 579 din data de 9 iulie 2018
+
+Admite excepția de neconstituţionalitate (...) și constată că
+soluția legislativă cuprinsă în art. 252" alin, (3) teza finală din Codul
+de procedură penală care nu permite, în cursul judecății,
+contestarea luării de către instanță a măsurii valorificării bunurilor
+mobile sechestrate este neconstituțională.
+
+19. Decizia nr. 573 din 20 septembrie 2018 referitoare la
+excepția de neconstituționalitate a dispoziţiilor art. 434 alin. (2) lit.
+g) din Codul de procedură penală, publicată în Monitorul Oficial al
+României, Partea |, nr. 959 din data de 12 noiembrie 2018
+
+Admite excepția de neconstituționalitate (...) și constată că
+dispozițiile art. 434 alin. (2) lit. ş) din Codul de procedură penală,
+care exclud posibilitatea atacării cu recurs în casație a hotărârilor
+pronunțate ca urmare a admiterii acordului de recunoaștere a
+vinovăției, sunt neconstituționale.
+
+20. Decizia nr. 651 din 25 octombrie 2018 referitoare la
+excepția de neconstituționalitate a dispozițiilor art. 595 alin. (1) din
+Codul de procedură penală și ale art. 4 din Codul penal, publicată în
+Monitorul Oficial al României, Partea |, ar. 1083 din data de 20
+decembrie 2018
+
+Admite excepția de neconstituționalitate (...) şi constată că
+soluția legisiativă cuprinsă în art. 595 alin. (1) din Codul de
+procedură penală, care nu prevede și decizia Curţii Constituționale
+prin care se constată neconstituționalitatea unei norme de
+incriminare ca un caz de înlăturare sau modificare a
+pedepsei/măsurii educative, este neconstituțională.
+
+21. Decizia nr. 243 din 16 aprilie 2019 referitoare la
+excepția de neconstituționalitate a dispoziţiilor art. 341 alin. (9) din
+Codul de procedură penală, publicată în Monitorul Oficial al
+României, Partea |, nr. 429 din data de 30 mai 2019
+
+Admite excepția de neconstituţionalitate (...) și constată că
+soluția legislativă cuprinsă în art. 341 alin. (9) din Codul de
+
+## Pagina 6
+
+procedură penală, care exclude posibilitatea de a face contestaţie
+împotriva încheierii judecătorului de cameră preliminară cu privire
+la dispoziția de începere a judecății referitor la faptele și
+persoanele pentru care, în cursul cercetării penale, a fost pusă în
+mişcare acțiunea penală, pronunțată în temeiul art. 341 alin. (7)
+pct. 2 lit. c) din Codul de procedură penală, este neconstituțională.
+
+22. Decizia nr. 87 din 13 februarie 2019 referitoare la
+excepţia de neconstituționalitate a dispoziţiilor art. 174 alin. (1) şi
+art. 282 alin. (1) din Codul de procedură penală, publicată în
+Monitorul Oficial al României, Partea |, nr. 498 din data de 19 iunie
+2019
+
+Admite excepția de neconstituționalitate (...) şi constată că
+soluția legislativă cuprinsă în dispozițiile art. 174 alin. (1) din Codul
+de procedură penală, care nu prevede aplicarea cazurilor de
+incompatibilitate prevăzute de art. 54 din același act normativ şi în
+ceea ce îl privește pe specialistul care funcționează în cadrul
+organelor judiciare sau din afara acestora, care efectuează
+constatarea potrivit art. 172 alin. (10) din Codul de procedură
+penală, este neconstituțională.
+
+23. Decizia nr. 248 din 16 apriţie 2019 referitoare la
+excepția de neconstituționalitate a dispoziţiilor art. 126 alin. (4)-(6)
+din Codul de procedură penală, publicată în Monitorul Oficial al
+României, Partea |, nr. 494 din data de 19 iunie 2019
+
+Admite excepția de neconstituționalitate (...) și constată că
+dispoziţiile art. 126 alin. (6) din Codul de procedură penală sunt
+neconstituționale. Curtea reține că aceste dispoziții, „care prevăd
+menținerea în cursul judecății a măsurilor de protecție dispuse de
+procuror în cursul urmăririi penale, reglementează, de fapt,
+menținerea, în etapa judecății, a unei restrângerii excepționale a
+exercitării dreptului la apărare al inculpatului, fără a menționa
+procedura prin care poate fi verificată necesitatea menținerii
+acestor măsuri, condițiile încetării lor și organul judiciar căruia îi
+revin atribuțiile corespunzătoare realizării unor astfel de verificări.
+Însă menținerea unei astfei de restrângeri, coroborată cu lipsa unei
+proceduri expres reglementate de încetare a sa, atunci când
+condițiile existente în cauză nu mai impun ca aceasta să continue,
+echivalează cu o restrângere nelegală a exercitării dreptului
+fundamental analizat. Mai mult, administrarea, în cursul judecății, a
+probei cu martori, în condiţiile menţinerii măsurilor de protecție a
+rnartorilor dispuse în cursul urmăririi penale, deși nu mai subzistă
+necesitatea menținerii respectivelor măsuri, poate determina
+nulitatea relativă a probelor astfel obținute, potrivit art. 282 din
+Codul de procedură penală”.
+
+24. Decizia nr. 88 din 13 februarie 2019 referitoare la
+excepția de neconstituționalitate a dispozițiilor art. 281 alin. (4) lit.
+a) din Codul de procedură penală raportat la art. 281 alin. (1) lit. f)
+
+## Pagina 7
+
+din același act normativ, publicată în Monitorul Oficial al României,
+Partea |, nr. 499 din data de 20 iunie 2019
+
+Admite excepția de neconstituționalitate (...) și constată că
+dispozițiile art. 281 alin. (4) lit. a) din Codul de procedură penală
+raportat la art. 281 alin. (1) lit. f) din același act normativ sunt
+neconstituționale. Curtea reţine că „prin instituirea unui termen
+înăuntrul căruia se poate ridica excepția nulității absolute în cazul
+neasistării de către un apărător în faza procedurii camerei
+preliminare, deși legea prevedea obligativitatea acestui lucru,
+legiuitorul golește de conținut însuși dreptul fundamental ia
+apărare, asigurat prin asistarea de către un avocat numit din oficiu,
+în cazurile expres prevăzute de lege. Astfel, deși nerespectarea
+obligaţiei de către organul judiciar este sancționată de legiuitor cu
+nulitatea absolută, sancţiunea aplicabilă apare ca fiind lipsită de
+eficienţă în condiţiile instituirii unui termen (încheierea procedurii
+în camera preliminară) până la care se poate invoca nulitatea
+absolută ce decurge din nerespectarea în faza camerei preliminare a
+dispoziției referitoare la obligativitatea asistării de către avocat”.
+
+25. Decizia nr. 250 din 16 aprilie 2019 referitoare la
+excepția de neconstituționalitate a dispoziţiilor art. 386 alin. (1) din
+Codul de procedură penală, publicată în Monitorul Oficial al
+României, Partea |, nr. 500 din data de 20 iunie 2019
+
+Admite excepția de neconstituţionalitate (...) și constată că
+dispoziţiile art. 377 alin. (4) teza întâi şi art. 386 alin. (1) din Codul
+
+de procedură penală sunt constituţionale în măsura în care instanța
+de judecată se pronunță cu privire la schimbarea încadrării juridice
+date faptei prin actul de sesizare printr-o hotărâre judecătorească
+care nu soluţionează fondul cauzei.
+
+26. Decizia nr. 590 din 8 octombrie 2019 referitoare la
+excepția de neconstituționalitate a dispozițiilor art. 469 alin. (3) din
+Codul de procedură penală, în interpretarea dată prin Decizia nr. 13
+din 3 iulie 2017 pronunțată de Înalta Curte de Casaţie și Justiţie -
+Completul competent să judece recursul în interesul legii, publicată
+în Monitorul Oficial al României, Partea |, nr. 1019 din data de 18
+decembrie 2019
+
+Admite excepția de neconstituţionalitate (...) și constată că
+dispozițiile art. 469 alin. (3) din Codul de procedură penală, în
+interpretarea dată prin Decizia nr. 13 din 3 iulie 2017, pronunțată
+de Înalta Curte de Casaţie și Justiţie - Completul competent să
+judece recursul în interesul legii, în ceea ce privește faza procesuală
+de la care se reia procesul penal, sunt neconstituționale. Curtea
+reţine (par. 37) că „reluarea cauzei din faza judecății în primă
+instanță, cu prilejul redeschiderii procesului penali, conform art. 469
+din Codul de procedură penală, astfel cum s-a hotărât prin Decizia
+nr. 13 din 3 iulie 2017 pronunțată de Înalta Curte de Casaţie și
+Justiţie, și nu din faza camerei preliminare, în ipoteza în care
+inculpatul nu a fost legal citat în etapa procesuală anterior
+
+## Pagina 8
+
+menționată sau, deși a avut cunoştinţă de proces, a lipsit în mod
+justificat de la judecarea cauzei, încalcă dreptul la un proces
+echitabil și dreptul la apărare ale persoanei aflate în ipoteza
+analizată, care a fost condamnată în lipsă”.
+
+27. Decizia nr. 535 din 24 septembrie 2019 referitoare la
+excepția de neconstituționalitate a dispozițiilor art. 589 alin. (1) lit.
+b) fraza întâi teza a doua din Codul de procedură penală, publicată în
+Monitorul Oficial al României, Partea |, nr. 1026 din data de 20
+decembrie 2019
+
+Admite excepţia de neconstituționalitate (...) și constată că
+soluția legislativă cuprinsă în dispozițiile art. 589 alin. (1) lit. b)
+fraza întâi teza a doua din Codul de procedură penală, care exclude
+bărbatul condamnat care are un copil mai mic de un an de ia
+posibilitatea amânării executării pedepsei închisorii sau a
+detențiunii pe viaţă, este neconstituțională.
+
+28. Decizia nr. 55 din 4 februarie 2020 referitoare la
+excepția de neconstituționalitate a dispozițiilor art. 139 alin. (3) teza
+finală din Codul de procedură penală și ale art. 11 alin. (1) lit. d) din
+Legea nr. 51/1991 privind securitatea naţională a României,
+publicată în Monitorul Oficial al României, Partea |, nr. 517 din data
+de 17 iunie 2020
+
+Admite excepția de neconstituţionalitate (...) și constată că
+dispozițiile art. 139 alin. (3) teza finală din Codul de procedură
+penală sunt constituționale în măsura în care nu privesc
+înregistrările rezultate ca urmare a efectuării activităților specifice
+culegerii de informaţii care presupun restrângerea exerciţiului unor
+drepturi sau libertăți fundamentale ale omului desfășurate cu
+respectarea prevederilor legale, autorizate potrivit Legii nr.
+51/1991.
+
+Curtea reține (par. 55-56) că:
+
+„55. (...) reglementarea posibilității conferirii calității de
+mijloc de probă înregistrărilor ce rezultă din activităţile specifice
+culegerii de informații care presupun restrângerea exerciţiului unor
+drepturi sau al unor libertăţi fundamentale ale omului nu este
+însoțită de un ansamblu de norme care să permită contestarea
+legalității acestora în condiții de efectivitate. Prin simpla
+reglementare a posibilităţii conferirii calității de mijloc de probă
+acestor înregistrări, fără crearea cadrului adecvat care să confere
+posibilitatea contestării legalității acestora, legiuitorul a legiferat
+fără a respecta cerințele de claritate și previzibilitate.
+
+56. Or, lipsa de claritate și previzibilitate a cadrului normativ
+incident în materia contestării legalității înregistrărilor - mijloc de
+probă - ce rezultă din activitățile specifice culegerii de informații
+care presupun restrângerea exerciţiului unor drepturi sau al unor
+libertăți fundamentale ale omului, folosite în procesul penal,
+determină, în fapt, realizarea unui control formal și lipsit de
+efectivitate, cu consecința încălcării drepturilor și a libertăților
+
+## Pagina 9
+
+fundamentale prevăzute de Constituţie. Or, conferirea calității de
+mijloc de probă în procesul penal anumitor elemente este intrinsec
+legată de crearea cadrului adecvat care să confere posibilitatea
+contestării legalității acestora.” De asemenea, Curtea constată (par.
+58) că „normele legale care privesc procesul penal trebuie să fie
+clare, precise şi previzibile, ceea ce presupune, printre altele, și
+obligația legiuitorului de a reglementa un cadru normativ coerent în
+care normele edictate să se completeze și să se dezvolte reciproc
+într-un mod armonios, fără a crea antinomii între actul normativ
+care constituie sediul general ai materiei și cele care reglementează
+aspecte particulare sau speciale ale acesteia. Prin urmare, aceste
+din urmă acte normative trebuie să se coroboreze cu Codul de
+procedură penală, să se integreze în mod organic în concepția de
+ansamblu a acestuia și să detalieze prevederile procedural penale.”
+
+29. Decizia nr. 236 din 2 iunie 2020 referitoare la excepția
+de neconstituționalitate a dispoziţiilor art. 246 şi art. 248 din Codul
+penal din 1969, ale art. 297 alin. (1) din Codul penal, ale art. 114
+alin. (2) și ale art. 118 din Codul de procedură penală, precum și ale
+art. 13? din Legea nr. 78/2000 pentru prevenirea, descoperirea și
+sancţionarea faptelor de corupție, publicată în Monitorul Oficial al
+României, Partea |, nr. 597 din data de 8 iulie 2020
+
+Admite excepția de neconstituționalitate (...) și constată că
+soluția legislativă cuprinsă în art. 118 din Codul de procedură
+penală, care nu reglementează dreptul martorului ia tăcere și la
+neautoincriminare, este neconstituțională.
+
+În considerente (par. 69-71, 75) Curtea observă că „69. (...)
+“dreptul” martorului de a nu se acuza, proclamat în denumirea
+marginală a art. 118 din Codul de procedură penală, reprezintă, de
+facto, o obligație pozitivă de a colabora cu organele judiciare, având
+corelativ obligația acestora din urmă de a nu utiliza declarația
+împotriva lui, martorul neavând un nivel de protecție similar cu cel
+de care beneficiază suspectul ori inculpatul. Cu alte cuvinte,
+protecția martorului, potrivit normelor procesual penale ale art.
+118, presupune doar faptul că declaraţia nu poate fi folosită
+împotriva sa. Însă, Curtea reține că, deși declarația în sine nu poate
+fi folosită împotriva martorului, în condițiile în care norma nu face
+vreo referire la efectele subsecvente acestei declaraţii, ea poate fi
+utilizată în vederea obținerii altor mijloace de probă, iar probele
+derivate/rezultate din aceasta, în lipsa unei prevederi contrare, pot
+fi folosite împotriva martorului şi pot determina conduita
+procesuală uiterioară a organelor judiciare. Or, o atare conduită
+procesuală a organelor judiciare - raportat la obţinerea unor probe
+derivate, în mod direct, în baza declarației martorului - nu ar putea
+fi sancționată în temeiul dispozițiilor art. 102 alin. (4) din Codul de
+procedură penală, de vreme ce declarația de martor nu este inclusă
+în sfera noțiunii de probă obținută în mod nelegal, astfel! ca textul
+precitat să poată fi incident. De asemenea, Curtea constată că „70.
+(...) în aceste condiții, normele procesual penale ale art. 118 nu
+
+## Pagina 10
+
+instituie o protecţie efectivă a martorului în raport cu o eventuală
+răspundere penală, nu reglementează garanții procedurale,
+respectiv substanțiale adecvate persoanei ascultate în calitate de
+martor și nu interzic folosirea împotriva martorului a elementelor
+probatorii obținute, indirect, pe baza declarației sale, singura probă
+față de care martorul este protejat fiind propria sa declarație”. Nu
+în ultimul rând, Curtea reține că „71. (...) dreptul la tăcere şi
+dreptul la neautoincriminare decurg direct din prezumția de
+nevinovăție, ce implică faptul că organele de urmărire penală sunt
+cele care trebuie să probeze vinovăția persoanei ce declară în
+calitate de martor (suspectului de facto), iar nu aceasta din urmă,
+așa încât constrângerea la autoincriminare, deși indirectă, are drept
+consecință ignorarea acestui principiu constituțional” și că „75, (...)
+obținerea unei declarații, în temeiul art. 118 din Codul de procedură
+penală - sub sancţiunea reţinerii infracțiunii de mărturie
+mincinoasă, în cazul în care martorul nu face declarații adevărate, şi
+în condițiile în care martorul îşi asumă riscul ca aspectele declarate
+să poată fi folosite chiar împotriva sa -, constituie un mecanism
+coercitiv incompatibil cu dreptul ia un proces echitabil.”
+
+30. Decizia nr. 421 din 23 iunie 2020 referitoare la excepția
+de neconstituționalitate a dispoziţiilor art. 146! din Codul de
+procedură penală, publicată în Monitorul Oficial al României, Partea
+|, nr. 661 din data de 27 iulie 2020
+
+Admite excepţia de neconstituționalitate (...) și constată că
+soluția legislativă cuprinsă în dispozițiile art. 146! din Codul de
+procedură penală, care nu permite contestarea legalităţii măsurii
+referitoare la obținerea datelor privind tranzacțiile financiare ale
+unei persoane de către persoana vizată de aceasta, care nu are
+calitatea de inculpat, este neconstituțională.
+
+31. Decizia nr. 102 din 17 februarie 2021 referitoare la
+excepţia de neconstituționalitate a dispoziţiilor art. 52 alin. (3) și ale
+art. 249 alin. (1) din Codul de procedură penală, precum și ale art.
+32 din Legea nr. 656/2002 pentru prevenirea și sancţionarea spălării
+banilor, precum și pentru înstituirea unor măsuri de prevenire și
+combatere a finanţării terorismului, publicată în Monitorul Oficial al
+României, Partea |, nr. 357 din data de 7 aprilie 2021
+
+Admite excepția de neconstituționalitate (...) şi constată
+sintagma „cu excepția împrejurărilor care privesc existența
+infracțiunii” din cuprinsul dispoziţiilor art. 52 alin. (3) din Codul de
+procedură penală este neconstituțională,
+
+În considerente Curtea reține (par. 44-46, 48) că „44. (...) sintagma
+„cu excepția împrejurărilor care privesc existența infracțiunii” din
+cuprinsul dispozițiilor art. 52 alin. (3) din Codul de procedură penală
+dă posibilitatea instanței penale să reia judecata asupra unor
+aspecte ale cauzei penale soluționate, în mod definitiv, de către alte
+instanțe și, astfel, să se transforme într-o instanță de revizuire a
+hotărârilor definitive ale altor instanţe referitoare la aspecte care
+
+10
+
+## Pagina 11
+
+privesc existența infracțiunii. Pe această cale, instanţa penală poate
+pronunța soluții opuse celor rămase definitive, cu afectarea gravă a
+principiului autorităţii de lucru judecat, care constituie o garanție a
+dreptului la un proces echitabil, astfel cum acesta este reglementat
+la art. 6 din Convenție”, că „45. (...) întrucât încălcarea principiului
+autorității de lucru judecat derivă din nerespectarea unor hotărâri
+judecătorești definitive, aceasta contravine şi prevederilor art. 21
+alin. (3) din Constituţie, autoritatea de lucru judecat fiind un
+elernent intrinsec al dreptului la un proces echitabil”, că „46. (...)
+nerespectarea de către instanțele penale a autorității de lucru
+judecat a hotărârilor judecătoreşti ale instanțelor civile (lato senso)
+încalcă principiul securității juridice, care constituie un aspect
+fundamental al statului de drept, astfel cum acesta este prevăzut la
+art. 1 alin. (3) din Constituţie” şi, în fine, că „48. (...) nu există
+niciun argument obiectiv și rezonabil care să justifice reexaminarea
+de către instanța penală a unor aspecte ale cauzei ce constituie
+chestiuni prealabile și care au fost soluționate, printr-o hotărâre
+definitivă, de către o instanță competentă să judece într-o altă
+materie, chiar dacă aceste chestiuni privesc existența infracțiunii”.
+
+32. Decizia nr. 136 din 3 martie 2021 referitoare la excepția
+de neconstituționalitate a prevederilor art. 539 din Codul de
+procedură penală, publicată în Monitorul Oficial al României, Partea
+|, nr. 494 din data de 12 mai 2021
+Admite excepția de neconstituționalitate (...) și constată că soluția
+legislativă din cuprinsul art. 539 din Codul de procedură penală care
+exclude dreptul la repararea pagubei în cazul privării de libertate
+dispuse în cursul procesului penal soluționat prin clasare, conform
+art. 16 alin. (1) lit. a)-d) din Codul de procedură penală, sau
+achitare este neconstituțională. |
+
+În considerente Curtea reține (par. 37-38, 41-42)
+următoarele:
+
+„37. Măsurile preventive privative de libertate luate în cursul
+procesului penal reprezintă o limitare severă/majoră a libertății
+individuale a persoanei. Chiar dacă textul constituțional permite
+limitarea libertății individuale în scopul bunei desfăşurări a
+procesului penal, nu înseamnă că, indiferent de rezultatul acestui
+proces, atingerea adusă acestei libertăți nu ar trebui reparată. Cu
+alte cuvinte, deznodământul procesului judiciar trebuie considerat
+ca fiind un criteriu esențial pentru compensarea nedreptății suferite
+de persoana în cauză. Statul a apelat la o excepție de la principiul
+inviolabilității libertății individuale în cursul procesului penal pentru
+a-și realiza una dintre funcţiile sale principale, respectiv apărarea
+ordinii publice, însă, odată ce a apelat la acest mecanism de
+excepție, și-a asumat în mod direct răspunderea pentru aplicarea
+acestuia, Prin urmare, în cazul în care se dovedește, printr-o
+ordonanță de  clasare/hotărâre judecătorească definitivă, că
+acuzația în materie penală adusă persoanei este neîntemeiată,
+limitările severe aduse libertăţii individuale a acesteia trebuie să fie
+
+11
+
+## Pagina 12
+
+compensate. Altfel, inviolabilitatea ar deveni un concept iluzoriu,
+care ar putea fi nesocotit fără niciun drept la despăgubire ori de
+câte ori autorităţile statale ar dori acest lucru. Prin urmare, dreptul
+la despăgubiri nu constituie un instrument juridic de garantare a
+libertății individuale (circumscris cazurilor și condițiilor prevăzute
+de lege), ci de reparare a încălcării acesteia.
+
+38. Dacă pentru o măsură preventivă privativă de libertate
+luată în condiții nelegale statul datorează despăgubiri, indiferent de
+rezultatul procesului penal, tocmai pentru că și-a încălcat propriul
+său sistem normativ, tot astfel și privarea de libertate a unei
+persoane față de care, analizând fondul acuzaţiei, statul nu reușește
+să răstoarne prezumția de nevinovăție reclamă un necesar drept la
+despăgubire. Fiind privată de libertate în considerarea acuzației
+aduse, constatarea caracterului  neîntemeiat/neconcordant cu
+realitatea al acuzației are ca efect reținerea caracterului
+injust/ nedrept al măsurilor privative de libertate luate împotriva
+persoanei în cauză, în cursul procesului penal. Situația relevată
+indică același grad de severitate a intruziunii în libertatea
+individuală a persoanei precum ipoteza unei arestări nelegale,
+neconformă cu normele procedurale, astfel că, în acest caz, dreptul
+la despăgubiri nu poate fi negat. Nerespectarea unor proceduri
+ilegale în luarea măsurii preventive privative de libertate, respectiv
+netemeinicia acuzaţiei în materie penală, acuzație care a
+determinat luarea măsurii preventive privative de libertate, sunt
+motive care justifică în aceeași măsură un drept la despăgubire
+pentru afectarea libertăţii individuale, chiar dacă temeiurile sunt
+diferite (nelegalitatea măsurii, respectiv netemeinicia acuzației).
+Faptul că privarea de libertate se dovedește a fi injustă și nedreaptă
+de abia la sfârșitul procesului penal nu înseamnă că nu a fost injustă
+şi nedreaptă chiar la momentul dispunerii ei și că, prin urmare,
+persoana supusă măsurii nu ar fi fost nedreptățită.
+
+(...) 41. În consecință, din moment ce statul a aplicat unul
+dintre mecanismele care justifică o derogare permisă de la
+inviolabilitatea libertăţii individuale și ulterior s-a dovedit că
+acuzația în materie penală adusă nu a fost aptă să răstoarne
+prezumția de nevinovăție, acţiunea inițială a statului nu poate fi
+calificată decât ca o faptă nejustificată şi, în consecinţă, ilicită, care
+angajează răspunderea sa delictuală în temeiul art. 1.349 din Codul
+civil, astfel că ea trebuie valorizată în procedura specială
+reglementată de art. 539 din Codul de procedură penală. Soluția
+dată/pronunțată pe fondul acuzaţiei în materie penală, favorabilă
+persoanei acuzate, nu o privează de statutul de persoană
+prejudiciată și nu compensează daunele aduse persoanei sale prin
+privarea sa de libertate dispusă în cursul procesului penal, întrucât
+această soluţie nu are natura juridică a unei despăgubiri, ci, din
+contră, generează un drept la despăgubire. Totodată, statul nu se
+poate exonera de această răspundere nici dacă dovedește că fiecare
+dintre prepuşii săi a acționat legal. Astfel, este angajată o
+răspundere obiectivă a statului la repararea pagubei suferite de
+
+## Pagina 13
+
+către persoana în cauză, având ca temei obligația statului de a
+garanta buna funcționare a serviciului public al justiției.
+
+42. De aceea, statul este obligat să recunoască și să
+garanteze dreptul la despăgubiri ca urmare a unei privări de
+libertate dispuse în cursul procesului penal, indiferent de temeiul
+generator al răspunderii sale, respectiv caracterul nedrept sau
+nelegal al măsurii privative de libertate. Orice diferențiere sub
+acest aspect nu este decât una artificială care în final neagă dreptul
+persoanei vătămate la repararea pagubei suferite ca urmare a unei
+disfuncţii de orice natură a sistemului judiciar. Evident, această
+răspundere poate fi limitată doar în cazul în care prin faptele sale
+persoana supusă măsurii a împiedicat/stânjenit ori a încercat să
+împiedice/stânjenească aflarea adevărului,
+îngreunând/ distorsionând activitatea organelor judiciare, sau a avut
+o conduită reprobabilă în contextul desfășurării procesului penal.”
+
+33. Decizia nr. 637 din 19 octombrie 2021 referitoare la
+excepția de neconstituționalitate a dispoziţiilor art.88 alin. (2) lit. b)
+și ale art. 346 alin. (3) lit. b) din Codul de procedură penală,
+publicată în Publicată în Monitorul Oficial nr.1155 din 6.12.2021
+
+34. Decizia nr. 35/ din 26 mai 2022 referitoare la excepţia
+de neconstituționalitate a dispozițiilor art. 248 alin. (5) din Codul de
+procedură penală, precum și a sintagmei „ia măsuri pentru
+efectuarea unei expertize medico-legale psihiatrice, dacă aceasta nu
+a fost făcută potrivit alin. (2)”, cuprinsă în art. 248 alin. (9) din
+același act normativ, publicată în Publicată în Monitorul Oficial nr.
+1061 din 2.11.2022.
+
+2. Schimbări preconizate
+
+În vederea punerii de acord a dispoziţiilor Codului de procedură penală cu Constituţia,
+așa cum aceasta a fost interpretată prin decizii ale Curţii Constituţionale, prin proiect se
+propun următoarele intervenții legislative:
+
+1, La art, 9 - modificarea alin. (5) pentru a reglementa dreptul la repararea pagubei și
+în cazul persoanei care a fost privată de libertate în mod injust în cursul procesului
+penal. Intervenţia este necesară pentru corelare cu modificarea propusă în cazul art.
+539 C.proc.pen. în vederea respectării Deciziei nr. 136/202.
+
+2. Prin raportare la Decizia nr. 257/2017 sunt propuse:
+
+a) modificarea art. 21 alin. (1), pentru a se reglementa faptul că partea civilă (nu
+„partea îndreptăţită potrivit legii civile”, cum prevede textul în vigoare) poate cere
+introducerea în procesul penal a părții responsabile civilmente atât în cursul urmăririi
+penale, cât și în camera preliminară, până cel mai târziu la termenul stabilit de
+judecătorul de cameră preliminară potrivit art. 344 alin. (2) C.proc.pen. (în care părţile
+
+13
+
+## Pagina 14
+
+şi persoana vătămată pot formula cereri și excepții cu privire la obiectul camerei
+preliminare);
+
+b) modificarea art. 344 alin. (4), pentru a reglementa faptul că, odată cu informarea cu
+privire la obiectul camerei preliminare, persoana vătămată este încunoștințată cu
+privire la dreptul de a se constitui parte civilă, precum și de a solicita introducerea în
+proces a părții responsabile civilmente, iar la art. 344 alin. (2), modificarea în sensul
+că judecătorul de cameră preliminară fixează termen în procedura de cameră
+preliminară și dispune citarea părților și încunoștinţarea procurorului, scopul fiind de a
+asigura oralitatea şi  contradictorialitatea procedurii chiar și atunci când
+părțile/persoana vătămată nu au formulat cereri sau excepții până la termenul fixat;
+termenul se stabileşte în funcție de complexitatea și particularitățile cauzei, și nu poate
+fi mai scurt de 20 de zile de la primirea citației. ;
+
+c) modificarea art. 341 alin. (2), pentru a face posibilă introducerea în procesul penal
+a părții responsabile civilmente și în procedura plângerii împotriva soluției de clasare
+dispuse față de inculpat, pentru că și în această situație se poate ajunge - după
+admiterea plângerii - la începerea judecății;
+
+d) pentru corelare cu modificările aduse art. 21 alin. (1) și art. 344 alin. (2), se propune
+intervenția asupra art. 374 alin. (3), în sensul:
+
+(î) eliminării tezei „incunosștinţează partea civilă, partea responsabilă civilmente și
+persoana vătămată cu privire la probele administrate în faza urmăririi penale care au
+fost excluse și care nu vor fi avute în vedere la soluţionarea cauzei”, având în vedere că
+procedura în etapa camerei preliminare se desfășoară în condiţii de oralitate și
+contradictorialitate, cu citarea persoanei vătămate și a părților, iar încheierea prin care
+se exclud probele administrate nelegal se comunică (art. 346 alin. (4!) C.proc.pen.);
+
+(i) precizarea faptului că în faza judecății persoana vătămată se poate constitui parte
+civilă împotriva inculpatului.
+
+3. Prin raportare la Decizia nr. 102/2021, se propune modificarea art. 52 alin. (3) în
+sensul eliminării sintagmei „cu exceptia împrejurărilor care privesc existența
+infracțiunii”.
+
+4. Prin raportare la Decizia nr. 302/2017 sunt propuse:
+a) modificarea art. 63 alin. (1) pentru ca dispoziţiile art. 50 alin. (2) și (3) C.proc.pen.
+să fie aplicabile și în cursul urmăririi penale, sens în care se introduce o normă de
+trimitere la acestea;
+
+în prezent art. 63 alin. (1) nu conţine o normă de trimitere la art. 50, declinarea
+competenţei de către procuror fiind reglementată la art. 58 - „Verificarea
+competenţei”, dispoziţii care obligă la declinare îndată după primirea sesizării (când
+încă nu s-au efectuat acte de urmărire penală). De asemenea, până la publicarea
+Deciziei nr. 302/2017, dacă s-ar fi efectuat acte de urmărire penală de un procuror
+necompetent acestea erau menținute în toate situațiile (nefiind reglementat ca un caz
+de nulitate absolută). Or, întrucât - urmare a propunerii de introducere la art. 281 alin.
+(1) a lit. b') - efectuarea/supravegherea urmăririi penale de un alt procuror decât cel
+competent după materie/calitatea persoanei va obliga la declinare, se va pune
+problema menţinerii/desființării actelor efectuate până la acel moment, aspecte
+reglementate de art. 50 alin. (2) și (3) C.proc.pen. pentru declinarea în cazul
+instanțelor. Soluția propusă nu constituie o noutate, prin proiect preluându-se soluția
+existentă și în Codul de procedură penală anterior (art. 45 C.proc.pen. din 1968 trimitea
+la art. 42 C.proc.pen. din 1968).
+
+14
+
+## Pagina 15
+
+b) introducerea la art. 281 alin. (1) a unei noi litere, b'), pentru reglementarea - ca un
+caz distinct de nulitate absolută - a încălcării dispozițiilor privind competența materială
+și competența după calitatea persoanei a organului de urmărire penală;
+
+c) modificarea alin. (3) al art. 281, pentru a trimite expres la alin. (1) lit. a), b), c) și
+d), întervențţia fiind necesară pentru corelare întrucât odată cu introducerea la alin. (1)
+a unei noi litere, b'), trimiterea actuală la alin. (1) lit. a) - d) nu ar mai fi corectă;
+
+d) introducerea la art. 281 a unui nou alineat, alin. (3'), care reglementează faptul că
+noul caz de nulitate absolută prevăzut de art. 281 alin. (1) lit. b') va putea fi invocat
+până la încheierea procedurii în camera preliminară;
+
+e) modificarea lit. a) a art. 346 alin. (3) astfel încât restituirea cauzei ia procuror să
+poată fi dispusă și atunci când „rechizitoriul este emis de un procuror necompetent
+după materie sau calitatea persoanei”.
+
+5. Faţă de considerentele Deciziei nr. 625/2016, se propune modificarea art. 70
+C.proc.pen. pentru a reglementa la alin. (7) - (10) faptul că, atunci când procedura se
+desfăşoară în fața judecătorului de drepturi și libertăți, a judecătorului de cameră
+preliminară sau a instanţei de judecată, declarația de abţinere sau cererea de recuzare
+a procurorului care participă la ședința de judecată se adresează acestora, sub
+sancţiunea inadmisibilităţii, se soluţionează - prin încheiere care nu este supusă niciunei
+căi de atac - de judecătorul/completul în fața căruia s-a formulat, iar în caz de admitere
+a abținerii sau a recuzării, judecătorul de drepturi şi libertăţi, judecătorul de cameră
+preliminară sau, după caz, completul de judecată va stabili în ce măsură actele
+îndeplinite ori măsurile dispuse se mențin.
+
+6. Având în vedere Decizia nr. 236/2020 se propune:
+
+a) modificarea art. 118 pentru a reglementa dreptul martorului la tăcere și la
+neautoincriminare, precum şi garanţiile pentru exercitarea acestuia; astfel, după
+depunerea jurământului sau a declarației solemne, martorului i se va aduce la
+cunoștință în condiţiile art. 120, printre altele, dreptul de a nu declara fapte și
+împrejurări de fapt care, dacă ar fi cunoscute, l-ar incrimina. Organul judiciar este
+obligat să-i aducă la cunoștință acest drept înainte de fiecare audiere [alin. (1)].
+
+Având acest drept, martorul care face afirmaţii mincinoase ori nu spune tot ce știe în
+legătură cu faptele sau împrejurările care l-ar incrimina nu va săvârși infracţiunea de
+mărturie mincinoasă, fiind incidentă cauza justificativă prevăzută de art. 21 alin. (1)
+Cod penal (exercitarea unui drept).
+
+De asemenea, conform alin. (2), probele obținute cu încălcarea prevederilor alin. (1)
+sunt nelegale, se exclud (trimiterea la art. 102 alin. (3) C.proc.pen.) și nu vor putea fi
+folosite împotriva martorului în niciun proces penal. Totodată, prin trimiterea la art.
+102 alin. (4) C.proc.pen. se reglementează faptul că și probele derivate se exclud dacă
+au fost obținute în mod direct din acestea şi nu puteau fi obținute în alt mod.
+
+Tot ca o garanţie a aceluiași drept, la alin. (3) se preia dispoziţia actuală a art. 118,
+astfel că dacă martorul a fost audiat cu respectarea prevederilor alin. (1), iar acesta
+declară în cunoștință de cauză fapte/împrejurări de fapt care îl incriminează,
+declarația nu va putea fi folosită împotriva sa, însă probele derivate din aceasta vor
+putea fi folosite împotriva martorului.
+
+Alin. (4) al art. 118 prevede că dacă martorul se prezintă la audiere însoțit de un avocat,
+
+## Pagina 16
+
+acesta poate asista la audiere, instituindu-se astfel o garanție suplimentară a dreptului
+martorului la tăcere și la neautoincriminare.
+
+b) modificarea alin. (1) at art. 120 în sensul în care aducerea la cunoștință a drepturilor
+și obligaţiilor să aibă loc după depunerea jurământului/declarației solemne, iar nu
+anterior acestui moment (cum rezultă de lege lata din dispoziţiile art. 121 alin. (1)
+C.proc.pen.), avându-se în vedere în acest sens par. 85 al Decizia nr. 236/2020. Textul
+este modificat și pentru a prevedea expres între drepturile martorului - la lit. e) a alin.
+(1)- dreptul martorului de a nu declara fapte și împrejurări de fapt care, dacă ar fi
+cunoscute, l-ar încrimina (drept dezvoltat în conținutul său la art. 118). Plasarea acestui
+drept la lit. e) nu este întâmplătoare, ci are sensul de a sublinia că martorul va fi
+încunoștințat despre acest drept după ce a fost încunoștințat despre obligația de a da
+declaraţii conforme cu realitatea (obligația de a declara adevărul fiind asumată sub
+prestare de jurământ sub rezerva că faptele și împrejurările nu îl incriminează). Astfel,
+pentru garantarea dreptului martorului la neautoincriminare, acest drept ar trebui să fie
+ultimul care i se aduce la cunoștință înainte de audiere.
+
+În fine, la alin. (2) al art. 120 se reglementează faptul că despre aducerea la cunoștință
+a drepturilor și obligațiilor prevăzute la alin. (1) se va face menţiune în cuprinsul
+declaraţiei.
+
+c) modificarea art. 121 alin. (1) în sensul că depunerea jurământului sau a declarației
+solemne va avea loc după ce martorului î se aduce la cunoștință obiectul cauzei și i se
+pun întrebările privitoare la relațiile cu părțile și subiecții procesuali principali; de
+asemenea, în cazul persoanelor afiate în ipotezele de la art. 117 lit. a) - c), depunerea
+jurământului va avea loc numai dacă acestea sunt de acord să dea declarații ca martor
+(concluzie ce rezultă din coroborarea art. 119 alin. (2), art. 121 alin. (1) şi art. 117 alin.
+(2) și (3), în noua redactare propusă).
+
+7. La art. 102, având în vedere Decizia nr. 22/2018, se propune introducerea, după
+alineatul (3), a unui nou alineat, alin. (31), cu următorul cuprins:
+
+„(3") Mijlocul de probă care conţine proba exclusă va fi înlăturat din dosarul cauzei, în
+întregime sau în partea corespunzătoare probei excluse. Când înlăturarea în întregime a
+mijlocului de probă ar aduce atingere drepturilor sau intereselor legitime ale persoanei
+în favoarea căreia s-a dispus excluderea ori ale altui subiect procesual principal, iar
+înlăturarea sa în partea corespunzătoare probei excluse nu este posibilă, organul
+judiciar care a dispus excluderea stabileşte limitele în care mijlocul de probă urmează a
+fi avut în vedere la soluţionarea cauzei, indicând probele cuprinse în acesta care nu au
+fost excluse.”.
+
+8. La art. 117 alin. (1) se propune reglementarea, prin introducerea unei noi litere, lit.
+c), a faptului că au dreptul de a refuza să fie audiate în calitate de martor și
+„persoanele care au stabilit relaţii asemănătoare acelora dintre soți sau acelora dintre
+părinți și copii, dacă dovedesc că au conviețuit sau conviețuiesc cu suspectul sau
+inculpatul”; dispoziția vizează punerea în acord a Codului de procedură penală cu
+Constituția așa cum a fost aceasta interpretată prin Decizia nr. 562/2017.
+
+Cu privire la existenţa unor astfel de relaţii martorul va fi întrebat de organul judiciar,
+sens în care se propune modificarea corespunzătoare a art. 119 alin. (2). Astfel,
+martorului i se comunică obiectul cauzei, faptele sau împrejurările de fapt pentru
+dovedirea cărora a fost propus ca martor și apoi este întrebat, între altele, dacă a
+stabilit relaţii asemănătoare acelora dintre soţi sau dintre părinţi și copii ori se află în
+relaţii de prietenie sau de dușmănie cu suspectul, inculpatul, persoana vătămată ori cu
+
+16
+
+## Pagina 17
+
+celorlalte părți din procesul penal.
+
+9. Pentru o mai bună sistematizare a procedurii aplicabile în cazul persoanelor care au
+dreptul de a refuza să fie audiate în calitate de martor, la art. 117 se propune
+modificarea alin. (2) și (3).
+
+Potrivit modificării propuse la alin. (2), în cazul persoanelor aflate în situaţiile de la art.
+117 alin (1) organul judiciar face mai întâi aplicarea dispozițiilor art. 119 (respectiv
+adresează întrebările privind persoana martorului), iar apoi - dacă subzistă vreuna dintre
+situațiile de la lit. a)-c) - comunică persoanei dreptul de a nu da dectaraţii ca martor. De
+asemenea, conform modificării propuse la alin. (3), dacă persoana aflată într-una din
+situaţiile prevăzute la art. 117 alin. (1) este de acord să dea declaraţii ca martor,
+organul judiciar face aplicarea art. 120, aducându-i la cunoștință - după depunerea
+jurământului sau a declaraţiei solemne - drepturile și obligaţiile ce-i revin în calitate de
+martor, Dispoziţiile art. 117 sunt corelate astfel cu cele art. 120 și art. 121 în noua
+redactare propusă prin prezentul proiect.
+
+10. La art. 126, pentru punerea în acord cu Decizia nr. 248/2019 se propune
+modificarea alin. (6), reglementându-se faptul că măsurile de protecţie a martorilor
+dispuse în cursul urmăririi penale se verifică din oficiu - în procedura de cameră
+preliminară o singură dată, în termen 15 zile de la primirea dosarului, iar în cursul
+judecății, înainte de începerea cercetării judecătorești, precum și înainte de fiecare
+audiere; judecătorul de cameră preliminară, respectiv instanța de judecată verifică dacă
+mai subzistă temeiurile care au determinat luarea acestora, și dispune prin încheiere,
+după caz, menținerea sau încetarea lor, prevederile art. 128 alin. (4) - (6) și (7) teza
+întâi (referitoare la soluţionarea în camera de consiliu, cu participarea obligatorie a
+
+procurorului, prin încheiere motivată care nu este supusă niciunei căi de atac și care se
+păstrează în condiţii de confidenţialitate) aplicându-se în mod corespunzător.
+
+11. Având în vedere Decizia nr. 244/2017 se propune:
+
+a) modificarea art. 145, pentru claritate și pentru o mai bună sistematizare a
+reglementării. Singura modificare de conţinut față de dispozițiile aflate în vigoare se
+regăsește în partea introductivă a alin. (3), procurorul putând să amâne motivat
+informarea/prezentarea continutului proceselor-verbale de redare/suportului cel mai
+târziu până la soluționarea cauzei (iar nu „până la terminarea urmăririi penale sau până
+la clasarea cauzei” - cum prevede în prezent art. 145 alin. (5 C.proc.pen.), formula
+propusă fiind mai exactă.
+
+Pentru corelarea cu această modificare a art. 145, se propune modificarea art. 147
+alin. (8), pentru a trimite ia art. 145 alin. (3) (care preia reglementarea actuală a art.
+145 alin. (4) şi (5) C.proc.pen.).
+
+]b) introducerea unui articol nou, art. 145, care va reglementa plângerea împotriva
+măsurilor de supraveghere tehnică
+
+Această procedură - necesară potrivit Decizia nr. 244/2017 - va fi accesibilă atât
+persoanelor cu privire la care s-a dispus sau confirmat o măsură de supraveghere
+tehnică și care nu au dobândit în acea cauză calitatea de parte, cât şi inculpatului față
+de care s-a dispus clasarea sau renunțarea la urmărirea penală [alin. (1)] (întrucât în
+cazul renunţării la urmărirea penală judecătorul de cameră preliminară chemat să
+confirme soluţia procurorului nu are competenţa de a verifica legalitatea administrării
+
+17
+
+## Pagina 18
+
+probelor și a efectuării actelor de urmărire penală, iar în cazul clasării pot exista situații
+în care nici înculpatul nu este interesat să formuleze plângere în temeiul art. 341
+C.proc.pen., deoarece este de acord cu temeiul clasării, nici alte persoane nu o
+formulează, în aceste ipoteze nu se va putea ajunge în procedura de cameră
+preliminară, așa încât singura procedură în care poate fi verificată legalitatea
+dispunerii și a punerii în executare a măsurilor de supraveghere tehnică este cea nou-
+reglementată).
+
+Potrivit dispozițiilor alin. (2), îndată după soluționarea cauzei procurorul încunoștințează
+în scris persoana supravegheată cu privire la emiterea rechizitoriului sau a ordonanţei de
+clasare ori renunțare la urmărirea penală.
+
+Persoana supravegheată are la dispoziție 20 de zile pentru formularea plângerii. Dacă
+informarea și prezentarea conținutului proceselor-verbale/suporturilor s-au realizat în
+cursul urmăririi penale termenul de formulare a plângerii va curge de la primirea
+încunoștinţării scrise cu privire la emiterea rechizitoriului/ordonanţei de
+clasare/renunțare la urmărire penală [alin. (3) lit. a)], îar dacă procurorul a amânat
+până la soluționarea cauzei informarea sau prezentarea conţinutului proceselor-verbale
+de redare/suporturilor, termenul curge de la primirea acesteia sau, după caz, de la data
+prezentării conținutului suporturilor [alin. (3 lit. b)].
+
+Plângerea se adresează instanței de judecată căreia i-ar reveni, potrivit legii,
+competenţa să judece cauza în primă instanţă și se soluţionează de judecătorul de
+cameră preliminară [alin. (4)], iar dacă este greșit îndreptată se trimite pe cale
+administrativă instanței competente și se consideră valabilă dacă a fost introdusă în
+termen la organul judiciar necompetent [alin. (5)].
+
+Plângerea se soluţionează în camera de consiliu, cu participarea procurorului și cu
+citarea petentului [alin. (6)].
+
+Judecătorul de cameră preliminară verifică legalitatea măsurii de supraveghere tehnică,
+precum și a modului de punere în executare a acesteia în raport de dispozițiile art. 139 -
+144, pe baza lucrărilor și a materialului din dosarul de urmărire penală și a oricăror alte
+mijloace de probă [alin. (7)].
+
+Judecătorul se pronunță asupra plângerii în camera de consiliu, prin încheiere motivată,
+care nu este supusă niciunei căi de atac, putând:
+
+(î) respinge plângerea ca inadmisibilă (dacă este formulată mai înainte de soluționarea
+cauzei sau de o altă persoană decât cea vizată de măsura de supraveghere tehnică), ca
+tardivă [dacă este formulată după împlinirea termenului prevăzut la alin. (3)] sau ca
+neîntemeiată [alin. (8) lit. a)] sau ,
+
+(îi) admite plângerea și constata nelegalitatea măsurii de supraveghere tehnică, dacă
+aceasta a fost dispusă, confirmată, prelunsită ori, după caz, pusă în executare în mod
+nelegal [alin. (8) lit. b)].
+
+Încheierea are autoritate de lucru judecat numai față de petent [alin. (9)].
+
+În cazul admiterii plângerii, judecătorul dispune distrugerea datelor și a înregistrărilor
+rezultate din activităţile de supraveghere tehnică nelegal efectuate, care privesc strict
+persoana petentului [alin. (10)]. Dacă distrugerea parțială nu este posibilă, iar
+datele și înregistrările rezultate din activităţile de supraveghere privesc fapte care fac
+obiectul unei cauze penale, acestea se păstrează la sediul parchetului, în locuri speciale,
+în condiţii de confidențialitate, dispoziţiile art. 142 alin. (5) și (6) - referitoare la
+posibilitatea folosirii lor în alte cauze decât cea în care s-a dispus măsura de
+supraveghere tehnică şi la condiţiile distrugerii lor - aplicându-se în mod corespunzător.
+c) introducerea în Capitolul VI din Titlul IV al Părţii speciale - dedicat procedurii
+reparării pagubei materiale sau a daunei morale în caz de eroare judiciară sau în alte
+
+## Pagina 19
+
+cazuri - a unui articol nou, art. 539!, ce vizează reglementarea dreptului la repararea
+pagubei în cazul măsurilor de supraveghere tehnică dispuse nelegal.
+
+Potrivit propunerii, va beneficia de acest drept orice persoană față de care s-a dispus,
+confirmat, prelungit ori, după caz, s-a pus în executare în mod nelegal o măsură de
+supraveghere tehnică, (indiferent dacă a avut sau nu calitatea de parte sau subiect
+procesual în cauza în care s-a dispus respectiva măsură).
+
+Caracterul nelegal al măsurii de supraveghere tehnică se stabilește prin încheierea de
+admitere a plângerii formulate în temeiul art. 145! (nou-introdus) sau, după caz, prin
+încheierea definitivă a judecătorului de cameră preliminară pronunţată în temeiul art.
+341 alin. (7) pct. (2) (asupra plângerii împotriva soluţiei de clasare dispuse față de
+inculpat) sau al art. 345 alin. (2) (atunci când instanţa a fost sesizată cu rechizitoriu, iar
+nelegalitatea s-a constatat în camera preliminară).
+
+d) modificarea art. 540 alin. (1) - (3), precum și a art. 541 alin. (1) și (2), pentru a
+reglementa felul și întinderea reparației, respectiv condițiile de exercitare a acţiunii în
+repararea pagubei pentru acest nou caz de despăgubire ;
+
+e) instituirea unor dispoziții tranzitorii pentru a permite formularea plângerii și
+împotriva măsurilor de supraveghere tehnică dispuse în cauzele penale soluționate de
+procuror anterior intrării în vigoare a legii, dacă aceste măsuri se aflau în curs de
+executare la data de 6 iulie 2017 ori au fost dispuse și puse în executare între această
+dată și data intrării în vigoare a legii. Astfel, față de efectul obligatoriu pentru viitor al
+Deciziei nr. 244/2017, orice persoană care după dată publicării deciziei - 6 iulie 2017 - a
+fost vizată de o măsură de supraveghere tehnică trebuie să aibă dreptul de a formula
+plângere împotriva acesteia, dacă măsura nu a făcut deja obiectul unei hotărâri
+judecătorești definitive în ceea ce privește legalitatea sa.
+
+De asemenea, orice persoană vizată de o astfel de măsură, care anterior intrării în
+vigoare a legii a obţinut o hotărâre judecătorească definitivă privind nelegalitatea
+acesteia, trebuie să poată exercita acțiunea în despăgubiri.
+
+12. Pentru a pune în acord dispozițiile art. 146' cu Constituţia așa cum a fost aceasta
+interpretată prin Decizia nr. 421/2020, se propune modificarea alin. (8) și abrogarea
+alin. (9), pentru a face aplicabile dispoziţiile art. 145 și art, 145! și în cazul metodei
+speciale de supraveghere constând în obținerea datelor privind tranzacțiile financiare
+ale unei persoane.
+
+13, La art. 174 se propune modificarea denumirii marginale și introducerea unui
+alineat nou, alin. (5), prin raportare la Decizia nr. 87/2019. Urmare acestor modificări,
+prevederile art. 174 alin. (1) și (4), referitoare la cazurile de incompatibilitate,
+abținerea și recuzarea experților, vor deveni aplicabile și în cazul specialiștilor
+prevăzuţi la art. 172 alin. (10) C.proc.pen.
+
+14, Având în vedere Decizia nr. 17/2017, la art, 213 se propune modificarea alin. (2),
+prin introducerea unei teze potrivit căreia plângerea formulată de inculpat împotriva
+măsurii controlului judiciar dispuse de procuror se soluţionează de judecătorul de
+drepturi și libertăți în termen de 5 zile de la înregistrare.
+
+15, La art. 215", pentru punerea în acord cu Constituţia așa cum a fost aceasta
+interpretată prin Decizia nr. 79/2018, se propune modificarea alin. (8) în sensul
+reglementării faptului că în cursul judecății durata totală a controlului judiciar nu poate
+depăși un termen rezonabil și, în nicio situație, nu poate depăși 5 ani de la momentul
+
+19
+
+## Pagina 20
+
+trimiterii în judecată. De asemenea, pentru corelare se propune modificarea art. 241
+alin. (1) lit. a), în sensul că măsurile preventive încetează de drept „la expirarea
+termenelor prevăzute de lege sau stabilite de organele judiciare ori la împlinirea
+duratei maxime prevăzute de lege”.
+
+16. Pentru punerea în acord cu Constituţia așa cum a fost aceasta interpretată prin
+Decizia nr. 22/2017, la art. 223 se propune introducerea unui nou alineat, alin. (3),
+pentru a reglementa faptul că față de inculpatul care, în aceeași cauză, în cursul
+urmăririi penale, al procedurii de cameră preliminară sau al judecății, a mai fost arestat
+preventiv sau față de care s-a dispus anterior arestul la domiciliu, se poate dispune
+măsura arestării preventive numai dacă au intervenit temeiuri noi care fac necesară
+privarea sa de libertate; urmare acestei modificări și având în vedere că art. 218 alin.
+(1) C.proc.pen. trimite la art. 223 C.proc.pen., dispoziția nou-introdusă va fi aplicabilă
+și în cazul arestului la domiciliu.
+
+De asemenea, pentru corelare se propune abrogarea art. 238 alin. (3), a cărui ipoteză
+va fi acoperită de art. 223 alin. (3).
+
+17, Având în vedere Decizia nr. 336/2015, la art. 235 se propune modificarea alin. (1)
+în sensul precizării faptului că în cursul urmăririi penale propunerea de prelungire a
+arestării preventive împreună cu dosarul cauzei se depun la judecătorul de drepturi și
+libertăți cu cel puţin 5 zile înainte de expirarea duratei arestării preventive, sub
+sancţiunea nulității absolute.
+
+18. Pentru punerea în acord cu Deciziei nr. 354/2018, la art. 252% se propune
+modificarea alin. (3) şi introducerea unui alineat nou, alin. (4), în sensul reglementării
+faptului că asupra valorificării bunurilor mobile sechestrate instanța se pronunță prin
+încheiere motivată, care este supusă contestației la instanța superioară, respectiv la
+completul competent al Înaltei Curți de Casaţie și Justiție, contestaţia putând fi
+formulată de către părți, custode, procuror, precum și de către orice altă persoană
+interesată.
+
+19. Întrucât în Decizia nr. 88/2019 Curtea Constituţională a reținut faptul că „prin
+instituirea unui termen înăuntrul căruia se poate ridica excepţia nulității absolute în
+cazul neasistării de către un apărător în faza procedurii camerei preliminare, deși legea
+prevedea obligativitatea acestui lucru, legiuitorul golește de conținut însuși dreptul
+fundamental la apărare, asigurat prin asistarea de către un avocat numit din oficiu, în
+cazurile expres prevăzute de lege” și că „deși nerespectarea obligaţiei de către organul
+judiciar este sancționată de legiuitor cu nulitatea absotută, sancţiunea aplicabilă apare
+ca fiind lipsită de eficiență în condițiile instituirii unui termen (încheierea procedurii în
+camera preliminară) până la care se poate invoca nulitatea absolută ce decurge din
+nerespectarea în faza camerei preliminare a dispoziției referitoare la obligativitatea
+asistării de către avocat”, la art. 281 se propune modificarea alin. (4) în sensul în care
+nulitatea absolută determinată de încălcarea dispoziţiilor privind asistenţa juridică
+obligatorie [alin. (1) lit. 1)] și a celor referitoare la prezenţa suspectului /inculpatului
+atunci când participarea sa este obligatorie [alin. (1) lit. e)] poate fi invocată până la
+încheierea procedurii în camera preliminară, dacă încălcarea a intervenit în cursul
+urmăririi penale [lit. a)], respectiv în orice stare a procesului, dacă încălcarea a
+intervenit în procedura de cameră preliminară sau în cursul judecății [lit. b)].
+
+## Pagina 21
+
+20. Pentru punerea sa în acord cu Constituţia aşa cum a fost aceasta interpretată prin
+Decizia nr. 554/2017, se propune modificarea alin. (2) al art. 282 astfel încât
+nulitatea relativă să poată fi invocată nu doar de suspect, inculpat, celelalte părți sau
+persoana vătămată, atunci când există un interes procesual propriu în respectarea
+dispoziției legale încălcate, cât și de procuror, precum și, din oficiu, de judecătorul de
+drepturi și libertăți, judecătorul de cameră preliminară sau, după caz, de instanța de
+judecată.
+
+21. Având în vedere Decizia nr. 802/2017, la art. 345 se propune modificarea alin.
+(11) pentru a permite judecătorului de cameră preliminară, în soluționarea cererilor și
+excepțiilor formulate ori excepțiilor ridicate din oficiu, să administreze orice mijloace
+de probă, iar nu doar înscrisuri noi,
+
+De asemenea, întrucât și în procedura plângerii împotriva soluției de clasare dispuse față
+de inculpat judecătorul de cameră preliminară verifică legalitatea administrării probelor
+și a efectuării actelor de urmărire penală, asemenea celui sesizat cu rechizitoriu, având
+în vedere considerentele Deciziei nr. 802/2017, la art. 341 se propune modificarea
+alin. (5) în sensul reglementării faptului că atunci când clasarea s-a dispus față de
+înculpat [caz vizat de art. 341 alin. (7) C.proc.pen.] judecătorul de cameră preliminară
+verifică soluția atacată „pe baza lucrărilor și a materialului din dosarul de urmărire
+penală și a oricăror alte mijloace de probă”.
+
+22. Pentru punerea sa în acord cu Constituţia așa cum a fost aceasta interpretată prin
+Decizia nr. 243/2019, la art. 341 se propune modificarea alin. (9) după cum urmează :
+Atunci când judecătorul de cameră preliminară admite plângerea și dispune începerea
+judecății caz [prevăzut de art. 341 alin. (7) pct. 2. lit. c) C.proc.pen.] încheierea
+pronunțată de acesta poate fi contestată nu doar cu privire la modul de soluționare a
+excepțiilor privind legalitatea administrării probelor și a efectuării urmăririi penale, ci și
+cu privire la dispoziția de începere a judecății.
+
+23. Având în vedere Decizia nr. 21/2018 se propune:
+
+a) introducerea la art. 345, după alin. (1), a două noi alineate, atin. (1) și (12), pentru
+a reglementa modalitatea în care judecătorul de cameră preliminară trebuie să
+procedeze atunci când actul de sesizare se întemeiază pe probe ce constituie informații
+clasificate.
+
+Intervenţia este necesară față de considerentele de la par. 32 al Deciziei nr. 21/2018,
+unde Curtea arată că „nu instanța de fond - așa cum arată locul reglementării, (...) este
+aceea care trebuie să solicite, din oficiu, de urgență, după caz, declasificarea totală,
+declasificarea parțială sau trecerea într-un alt grad de clasificare și permiterea
+accesului la acestea de către apărătorul inculpatului. Problema informațiilor
+clasificate, esențiale pentru soluționarea cauzei, respectiv verificarea legalității
+administrării unor astfel de probe, trebuie să fi fost deja soluționată în camera
+preliminară, deci înainte de a se trece la faza procesuală a judecății în fond,
+întrucât, în această din urmă fază a procesului penal, nu au cum să mai existe probe
+constând în informații clasificate inaccesibile părților, fără a se încălca dispozițiile art.
+324-347 din Codul de procedură penală și jurisprudența Curţii Constituţionale în
+materia procedurii camerei preliminare.”
+
+Ținând deci seama de aceste considerente, la alin. (11) se reglementează faptul că
+
+## Pagina 22
+
+judecătorul de cameră preliminară, după caz:
+
+(i) solicită autorității competente, de urgenţă, declasificarea sau trecerea acestora la un
+nivel inferior de clasificare,
+
+(ii) acordă apărătorilor părţilor și ai persoanei vătămate accesul la informațiile
+clasificate, condiționat de deținerea autorizaţiei de acces prevăzute de lege, și (iii) ia,
+dacă este cazul, măsuri pentru desemnarea unor avocați din oficiu care dețin această
+autorizaţie.
+
+De asemenea, conform alin. (12), după consultarea autorității competente judecătorul
+de cameră preliminară poate refuza motivat accesul la informaţiile clasificate - dacă
+acesta ar putea conduce la periclitarea gravă a vieții sau a drepturilor fundamentale ale
+unei persoane sau dacă refuzul este strict necesar pentru apărarea securității naţionale
+ori a unui alt interes public important, iar în acest caz informațiile clasificate nu vor
+putea fi folosite ca probe în procesul penal.
+
+b) introducerea la art. 374, după alin. (10), a două noi alineate, alin. (11) și (12),
+conținând o reglementare identică celei propuse pentru art. 345 alin. (1!) și (12), ce va
+deveni incidentă atunci când în cursul cercetării judecătorești urmează a fi administrate
+probe ce constituie informaţii clasificate;
+
+c) abrogarea alin. (11) și (12) ale art. 352, reglementarea urmând să fie preluată de
+dispozițiile  nou-introduse la art. 345 alin. (11) şi (12) și art. 374 alin. (11) și (12);
+
+d) modificarea art. 375 alin. (3), art. 377 alin. (5) și a art. 421 alin. (1) pct. 2 lit. a)
+C.proc.pen., intervenţiile fiind necesare pentru corelare față de introducerea la art.
+374 a celor două alineate noi, alin. (11) și (12), normele de trimitere din articolele
+menționate urmând să fie corelate cu conţinutul acestor alineate noi.
+
+24. La art. 346 se propune modificarea alin. (1) pentru a asigura, în acord cu Decizia
+nr. 641/2014, oralitatea și contradictorialitatea procedurii de cameră preliminară și în
+ipoteza în care părţile și persoana vătămată nu formulează cereri și excepții până la
+termenul stabilit de judecător potrivit art. 344 alin. (2) (în forma modificată prin pct.
+40 din proiect).
+
+25. Având în vedere Decizia nr. 437/2017, se propune modificarea art. 348
+C.proc.pen. în sensul reglementării faptului că în procedura de cameră preliminară
+„asupra măsurilor preventive se pronunţă judecătorul de cameră preliminară de la
+instanța sesizată cu rechizitoriu. Soluţia este conformă atât cu considerentele deciziei
+menţionate, în care s-a reținut faptul că încheierile vizând măsurile preventive
+pronunţate în camera preliminară trebuie să fie supuse, în toate situațiile, unei căi de
+atac (în acest caz, este cea a contestaţiei), dar şi cu considerentele Deciziei Înaltei Curți
+de Casaţie și Justiţie - Completul competent să judece recursul în interesul legii nr.
+5/2014.
+
+26. Pentru punerea sa în acord cu Constituţia așa cum a fost aceasta interpretată prin
+Decizia nr. 250/2019 se propune:
+
+a) modificarea alin. (1) al art. 386 C.proc.pen. în sensul reglementării faptului că,
+atunci când dispune schimbarea încadrării juridice, instanţa este obligată să pună în
+vedere inculpatului că are dreptul să ceară lăsarea cauzei mai la urmă sau amânarea
+judecății pentru pregătirea apărării față de noua încadrare;
+
+b) modificarea alin. (4) al art. 377 C.proc.pen., urmând a reglementa faptul că
+
+22
+
+## Pagina 23
+
+dispoziţiile art. 386 C.proc.pen., astfel cum sunt modificate prin prezentul proiect, se
+aplică în mod corespunzător și în procedura de judecată accelerată (în cazul
+recunoașterii de către inculpat a învinuirii).
+
+27. Pentru punerea sa în acord cu Constituţia așa cum a fost aceasta interpretată prin
+Decizia nr. 651/2017 și Decizia nr. 573/2018, la art. 434 alin. (2) se propune
+abrogarea lit. e) și f), pentru ca recursul în casație să poată fi exercitat și împotriva
+soluțiilor pronunțate ca urmare a aplicării procedurii privind recunoașterea învinuirii
+(procedura de judecată accelerată), respectiv împotriva hotărârilor pronunţate ca
+urmare a admiterii acordului de recunoaștere a vinovăției.
+
+28. Având în vedere Decizia nr. 2/2017, la art. 453 se propune modificarea alin. (3) și
+(4) astfel încât cazul de revizuire prevăzut de art. 453 alin. (1) lit. a) C.proc.pen. să
+poată fi invocat și în defavoarea celui achitat, a persoanei condamnate sau a celei față
+de care s-a dispus renunțarea la aplicarea pedepsei, amânarea aplicării pedepsei ori
+încetarea procesului penal, dacă pe baza faptelor sau împrejurărilor noi se poate dovedi
+netemeinicia hotărârii de achitare, condamnare, de renunțare la aplicarea pedepsei, de
+amânare a aplicării pedepsei ori de încetare a procesului penal.
+
+De asemenea, la art. 457 se propune modificarea alin. (2) C.proc.pen., pentru a
+reglementa termenul în care poate fi introdusă cererea de revizuire și momentul de la
+care curge acesta atunci când cazul de revizuire de la art. 453 alin. (1) lit. a)
+C.proc.pen. este invocat în defavoarea condamnatului, a celui achitat sau a celui față de
+care s-a încetat procesul penal.
+
+29. Pentru punerea sa în acord cu Constituţia așa cum a fost aceasta interpretată prin
+Decizia nr. 590/2019, la art. 469 se propune modificarea alin. (7) pentru a se
+reglementa expres faptul că:
+
+(i) admiterea cererii de redeschidere a procesului penal atrage desființarea de drept a
+hotărârii sau, după caz, a hotărârilor pronunţate în lipsa persoanei condamnate (de
+exemplu, dacă judecata a avut loc în lipsa celui condamnat inclusiv în procedura de
+cameră preliminară, vor fi desfiinţate ca urmare a admiterii cererii de redeschidere a
+procesului penal și încheierile pronunțate în camera preliminară)
+
+şi că
+
+(îi) „judecata se reia din faza procesuală desfășurată în lipsa persoanei condamnate”.
+
+30. Pentru punerea sa în acord cu Constituţia așa cum a fost aceasta interpretată prin
+Decizia nr. 102/2018, la art. 505 se propune modificarea alin. (1) și abrogarea alin.
+(2). Potrivit textului astfel modificat, citarea părinţilor ori, după caz, a tutorelui,
+curatorului sau persoanei în îngrijirea ori supravegherea căreia se află temporar minorul,
+precum şi citarea direcției generală de asistență socială și protecţie a copilului urmând
+să se realizeze în mod obligatoriu indiferent dacă minorul a împlinit sau nu vârsta de 16
+ani. De asemenea, dacă prezența acestor persoane ar afecta interesul superior al
+minorului sau desfășurarea procesului penal, vor deveni aplicabile prevederile actuale
+ale art. 505 alin. (12) - (1%) C.proc.pen. (citarea se va face către un alt adult care este
+desemnat de minor și acceptat în această calitate de organul judiciar, iar dacă minorul
+nu desemnează sau adultul desemnat nu este acceptat de organul judiciar, citarea se
+face către o altă persoană aleasă de organul judiciar, ținând seama de interesul superior
+al minorului).
+
+23
+
+## Pagina 24
+
+31. Pentru punerea sa în acord cu Constituţia așa cum a fost aceasta înterpretată prin
+Decizia nr. 136/2021, se propune modificarea art. 539 C.proc.pen. pentru a
+reglementa dreptul la despăgubiri și în favoarea persoanei care, deși a fost privată legal
+de libertate în cursul procesului penal, ulterior, pentru infracțiunea care a justificat
+luarea măsurii, s-a dispus - în temeiul art, 16 alin. (1) lit. a) - d) - clasarea sau achitarea,
+cu excepția cazului în care soluţia s-a dispus ca urmare a dezincriminării faptei săvârșite
+[art. 539 alin. (1) lit. b)].
+
+Privarea injustă de libertate se dovedește prin ordonanța procurorului de clasare sau,
+după caz, prin hotărârea judecătorească definitivă de achitare [art. 539 alin. (2)].
+Persoana nu este îndreptățită să ceară repararea de către stat a pagubei suferite dacă,
+prin declarații mincinoase ori în orice alt fel, au determinat luarea măsurii preventive
+privative de libertate, în afara cazurilor în care a fost obligată să procedeze astfel [art.
+539 alin. (3)].
+
+De asemenea, pentru corelare cu modificările aduse art. 539 C.proc.pen., prin proiect se
+propune modificarea art. 542 C.proc.pen., având ca obiect acțiunea în regres.
+
+32. Având în vedere considerentele Deciziei nr. 535/2019 (în special par. 40 și 41), la
+art. 589 alin. (1) se propune modificarea lit. b) pentru a permite acordarea unei
+amânări a executării pedepsei privative de libertate tuturor persoanelor condamnate,
+indiferent de sex, care au un copil mai mic de un an.
+
+33. Având în vedere Decizia nr. 651/2018, se propune:
+
+a) modificarea denumirii marginale a art. 595 C.proc.pen. pentru a se referi și la
+intervenirea unei decizii a Curţii Constituţionale ca un caz de înlăturare sau modificare
+a pedepsei;
+
+b) introducerea la art. 595 C.proc.pen. a unui nou alineat, alin. (11), pentru a
+reglementa expres faptul că instanța de executare ia măsuri pentru aducerea la
+îndeplinire a prevederilor art. 4 și 6 din Codul penal si în cazul admiterii unei excepţii de
+neconstituționalitate, dacă decizia Curţii Constituționale are ca efect dezincriminarea
+faptei pentru care s-a pronunțat condamnarea sau dacă determină reducerea limitei
+maxime a pedepsei sau măsurii prevăzute de lege, iar pedeapsa sau măsura care se
+execută ori urmează a se executa depășește acest maxim;
+
+c) modificarea alin. (2) al art. 595 C.proc.pen. pentru a trimite şi la alin. (1'), nou-
+introdus.
+
+Secțiunea a 3-a Impactul socioeconomic al proiectului de act normativ
+
+1, Impactui
+macroeconomic
+
+11. Impactul asupra
+mediului concurenţial
+și domeniului
+ajutoarelor de stat
+
+## Pagina 25
+
+2. Impactul asupra:
+mediului de afaceri
+
+2'. Impactul asupra
+sarcinilor -
+administrative
+
+22. Impactul asupra
+întreprinderilor mici
+şi mijlocii
+
+3. Impactul social
+
+4. Impactul asupra
+mediului
+
+5. Alte informaţii
+
+Secţiunea a 4-a Impactul financiar asupra bugetului general consolidat, atât pe
+termen scurt, pentru anul curent, cât și pe termen lung (pe 5 ani)
+
+Indicatori Anul curent Următorii 4 ani Media i 5
+
+„Modificări ale
+nicula bugetare,
+plus/minus, din care:
+a) buget de stat, din
+acesta:
+
+DO a IRI RR RE E
+
+ION 00 IRI RR RI E
+ENE 2 IRI RR RR E E
+DOE a IRI RR RR RR E
+
+bugetul
+Oigurăritor sociale de
+stat:
+
+(î) contribuții
+asigurări
+
+Modificări
+cheltuielilor
+bugetare,
+plus/minus, din care:
+a) buget de stat, din
+acesta:
+
+## Pagina 26
+
+(i) cheltuieli de
+personal
+
+b) bugete locale:
+
+(î) cheltuieli de
+personal
+
+(îi) bunuri și servicii
+
+c) bugetul
+asigurărilor sociale de
+stat:
+
+(î) cheltuieli de
+personal
+
+(i) bunuri și servicii. | bunuri și servicii
+
+mea Su
+aus mins, din care:
+
+a) la) buget destat | de stat
+
+CE RP RP
+
+4. Propuneri pentru
+acoperirea creșterii
+cheltuielilor bugetare
+
+5. Propuneri pentru a
+compensa reducerea
+veniturilor bugetare
+
+6, Calcule detaliate
+privind
+fundamentarea
+modificărilor
+veniturilor și/sau
+cheltuietilor bugetare
+
+ZAeinermaţi |
+
+Sectiunea a 5-a Efectele proiectului ce act normativ asupra legislației în vigoare
+
+26
+
+## Pagina 27
+
+1. Măsuri normative
+necesare pentru
+aplicarea
+prevederilor
+proiectului de act
+normativ:
+
+a) acte normative în
+vigoare ce vor fi
+modificate sau
+abrogate, ca urmare
+a intrării în vigoare a
+proiectului de act
+normativ;
+
+b) acte normative ce
+urmează a fi
+elaborate în vederea
+implementării noilor
+dispoziţii.
+
+11. Compatibilitatea
+proiectului de act
+normativ cu legislația
+în domeniul
+achizițiilor publice
+
+2. Conformitatea
+proiectului de act
+normativ cu legisiația
+comunitară în cazul
+proiectelor ce
+transpun prevederi
+comunitare
+
+3. Măsuri normative
+necesare aplicării
+directe a actelor
+normative
+comunitare
+
+4. Hotărâri ale Curţii
+de Justiție a Uniunii
+Europene
+
+5, Alte acte
+normative . și/sau
+documente
+internaționale din
+care decurg
+angajamente
+
+27
+
+## Pagina 28
+
+6. Alte informații
+
+Secțiunea a 6-a Consultăriie efectuate în vederea elaborării proiectului de act
+normativ
+
+1. informații privind
+procesul de
+consultare Cu
+organizații
+neguvernamentale,
+instituite de
+cercetare și alte
+organisme implicate
+
+2. Fundamentarea
+alegerii organizațiilor
+cu care a avut loc
+consultarea, precum
+și a modului în care
+activitatea acestor
+organizații este
+legată de obiectul
+proiectului de act
+normativ
+
+3. Consultările
+organizate cu
+autoritățile
+
+administrației publice
+locale, în situaţia în
+care proiectul de act
+normativ are ca
+obiect activități ale
+acestor autorități, în
+condițiile Hotărârii
+Guvernului nr,
+521/2005 privind
+procedura de
+consultare a
+structurilor asociative
+ale autorităților
+administrației publice
+locale la elaborarea
+proiectelor de acte
+normative
+
+28
+
+## Pagina 29
+
+4. Consultările
+desfășurate în cadrul
+consiliilor
+interministeriale, în
+conformitate cu
+prevederile Hotărârii
+Guvernului nr.
+750/2005 privind
+constituirea
+consiliilor
+interministeriale
+permanente
+
+5. Informații privind
+avizarea de către:
+a) Consiliul Legislativ
+
+b) Consiliul Suprem
+de Apărare a Țării
+
+c) Consiliul Economic
+și Social
+
+d) Consiliul
+Concurenţei
+
+e) Curtea de Conturi
+
+6. Alte informații
+
+Secțiunea a 7-a Activități de informare publică privind elaborarea și implementarea
+proiectului de act normativ
+
+1. Informarea
+societății civile cu
+privire la necesitatea
+elaborării proiectului
+de act normativ
+
+2. Informarea
+societății civile cu
+privire la eventualul
+impact asupra
+mediului în urma
+implementării
+
+proiectului de act
+normativ, precum și
+efectele asupra
+sănătăţii și securității
+cetățenilor sau
+diversităţii biologice
+
+## Pagina 30
+
+3. Alte informaţii
+
+Secțiunea a 8-a Măsuri de implementare
+
+1. Măsurile de punere
+în aplicare a
+proiectului de act
+normativ de către
+
+autoritățile
+administraţiei publice
+centrale și/sau locale
+- înfiinţarea unor noi
+organisme sau
+extinderea “
+
+competențelor
+instituţiilor existente
+
+2. Alte informații
+
+Faţă de cele prezentate, a fost elaborat prezentul proiect de Lege pentru modificarea și
+completarea Legii nr. 135/2010 privind Codul de procedură penală, precum și a altor
+acte normative.
+
+Inițiatori,
+
+Stelian-Cristian ION _—
+
+Silviu DEHELEAN
+
+30
+
+## Pagina 31
+
+Lista susținătorilor
+Proiect de Lege pentru modificarea şi completarea Legii 135/2010 privind Codul de
+procedură penală, precum şi a altor acte normative
+
+i 2 0 Ra
+IN 2 a A sa
+
+Tacsle BENI AN CS
+|_* | Give Aoa44 | (se
+NEDCU_ ENIOA - ELENA  99P_
+_* |fofana fst | TEZA
+7. 227 Te ZOR | LAS
+*] Sheba Panel Sorin 2/30
+hu APOSTOL 8.
+CRISTIAN BEN USR
+|] BO07F 7 Mal Cf Ii Pl V/SEe
+VS
+MuRARIJ OA USR
+
+US.
+
+SLAGA Mull SE.
+USR
+
+sp
+” vâx
+__* |seta cps catea. | Uz
+va
+|*|Dan Barna | (SA
+use,
+
+## Pagina 32
+
+Lista susținătorilor
+Proiect de Lege pentru modificarea și completarea Legii 135/2010 privind Codul de
+procedură penală, precum și a altor acte normative
+
+Oro EA Coserre Use.
+
+FZACTIARI Ene. | ysa
+|*|SPenp E Dino usR—
