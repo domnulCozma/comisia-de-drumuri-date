@@ -14,7 +14,7 @@ pentru uz oficial, consultați pagina de pe cdep.ro din care provine fiecare în
 | `markdown/` | Documentele PDF convertite în text. Cele obținute prin **OCR** au un antet care o spune: textul OCR e failibil și nu se citează ca text nativ. |
 | `db/monitor-public.db` | Baza SQLite cu datele extrase (proiecte, inițiatori, parcurs, comisii, ședințe, parlamentari). Fiecare rând derivat are `source_url` și/sau `raw_page_id`, deci duce la fișierul din `raw/`. |
 
-Cifre la ultimul export: `bill` 1254, `person` 1393, `committee_meeting` 433, `bill_document` 4787, `raw_page` 2588.
+Cifre la ultimul export: `bill` 1255, `person` 1393, `committee_meeting` 487, `bill_document` 4790, `raw_page` 2806.
 
 ## Ce NU conține
 
