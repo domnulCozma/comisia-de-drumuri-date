@@ -1,0 +1,90 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2023-06-20 · sinteza lucrărilor
+<!-- memorie {"tip": "sedinta", "meeting_id": 194, "raw_page_id": 2599, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0620.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/comisii/transport/pdf/2023/pv0620.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-06-20 · sinteza lucrărilor · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 194, "raw_page_id": 2599, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0620.pdf"} -->
+Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+Tel. 021.414.1238 e-mail cp26@cdep.ro
+Data: 20.06.2023
+Nr. 4c-4/168/
+PROCES-VERBAL
+al lucrărilor ședinței Comisiei pentru transporturi și infrastructură
+din data de 20 iunie 2023
+Comisia pentru transporturi și infrastructură și-a desfășurat lucrările ședinței în data de
+20 iunie 2023.
+La  ședința  organizată  în  data  de  20  iunie  2023  și-au  înregistrat  prezența  următorii
+deputați: Drulă Cătălin (USR), Andrei Alexandru-Ioan (PNL), Banias Mircea-Marius (PNL),
+Marian  Mina  (PSD),  Mircea  Florin  (PSD),  Benedek  Zacharie  (UDMR),  Laurențiu-Daniel
+Marin  (PSD),  Emil  Florin  Albotă  (PSD),  Lorincz  Stefan-Iulian  (USR),  Dumitru-Lucian
+Lungoci (PSD), Cristian-Paul Ichim (Neafiliați), Ion-Marian Lazăr (USR), Paraschiv Rodica
+(PSD), Cristina-Camelia Rizea (Neafiliați), George Șișcu (PNL), Toma Vasilică (PSD).
+Înlocuitori: domnul deputat Marculescu Dumitru a participat în locul domnului deputat
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-06-20 · sinteza lucrărilor · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 194, "raw_page_id": 2599, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0620.pdf"} -->
+Bode Lucian (PNL) și domnul deputat Dorel Gheorghe Acatrinei a participat in locul domnului
+deputat Ciprian-Titi Stoica (AUR).
+1
+Lucrările ședinței au fost conduse de vicepreședintele comisiei, domnul deputat Catalin
+Drula.
+Pe ordinea de zi a ședinței au figurat următoarele puncte:
+1.  PLx 247/2021 – Proiect de Lege privind transmiterea unei părți dintr-un teren situat în
+orașul Teiuș, din proprietatea publică a orașului Teiuș și din administrarea Consiliului
+Local al Orașului Teiuș, județul Alba, în proprietatea privată a orașului Teiuș privind
+transmiterea unui teren din domeniul public al statului și din administrarea Ministerului
+Transporturilor,  aflat  în  concesiunea  Companiei  Nationale  de  Căi  Ferate  “C.F.R.”  –
+S.A.,  în  domeniul  public  al  orașului  Teiuș  și  în  administrarea  Consiliului  Local  al
+Orașului Teiuș, județul Alba;
+2.  PLx 319/2023 – Proiect de Lege pentru aprobarea Ordonanței de urgență a Guvernului
+nr.  23/2023  privind  instituirea  unor  măsuri  de  simplificare  și  digitalizare  pentru
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-06-20 · sinteza lucrărilor · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 194, "raw_page_id": 2599, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0620.pdf"} -->
+gestionarea fondurilor europene aferente Politicii de Coeziune 2021-2027;
+3.  PLx 362/2023 – Proiect de Lege pentru aprobarea Ordonantei de urgență a Guvernului
+nr.28/2023 privind stabilirea unor măsuri în derularea Programului național de investiții
+“Anghel Saligny”.
+4.  Diverse
+La începutul ședinței, domnul președinte Cătălin Drulă a solicitat confirmarea întrunirii
+cvorum-ului  necesar  pentru  desfășurarea  ședinței.  Cvorum-ul  fiind  îndeplinit  au  început
+lucrările comisiei.
+Domnul  președinte  Cătălin  Drulă  a  supus  la  vot  aprobarea  ordinii  de  zi.  Nefiind
+observații sau propuneri din partea membrilor comisiei cu privire la structura ordinii de zi,
+aceasta a fost aprobată cu unanimitate de voturi.
+.
+2
+La primul punct al ordinii de zi (PLx 247/2021), domnul președinte Cătălin Drulă a
+prezentat  obiectul  de  reglementare  și  parcursul  legislativ  al  proiectului  de  Lege.  A  adăugat
+faptul că, fiind un proiect de lege declarat neconstituțional de către Curtea Constituțională a
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-06-20 · sinteza lucrărilor · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 194, "raw_page_id": 2599, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0620.pdf"} -->
+României, propune supunerea la vot a unui raport de respingere a proiectlui de Lege.
+În consecință, domnul președinte Cătălin Drulă a propus supunerea la vot a unui raport
+preliminar de respingere, acesta fiind adoptat cu unanimitate de voturi.
+La al doilea punct al ordinii de zi (PLx 319/2023), domnul președinte Cătălin Drulă a
+prezentat obiectul de reglementare și parcursul legislativ al proiectului de Lege.
+În continuare, domnul președinte a propus supunerea la vot a unui aviz favorabil, acesta
+fiind adoptat cu unanimitate de voturi.
+La al treilea punct al ordinii de zi (PLx 362/2023), domnul președinte Cătălin Drulă
+a prezentat obiectul de reglementare și parcursul legislativ al proiectului de Lege.
+Ulterior, domnul președinte a propus supunerea la vot a unui aviz favorabil, acesta fiind
+adoptat cu unanimitate de voturi.
+La  al  patrulea  punct  al  ordinii  de  zi  (Diverse),  domnul  președinte  Cătălin  Drulă  a
+prezentat  o  serie  de  aspecte  privind  desfășurarea  activității  comisiei  pe  perioada  vacanței
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-06-20 · sinteza lucrărilor · text nativ (continuare 5)
+<!-- memorie {"tip": "sedinta", "meeting_id": 194, "raw_page_id": 2599, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0620.pdf"} -->
+parlamentare  (Iulie-August  2023),  respectiv  organizarea  zilelor  de  activitate  a  comisiei  în
+perioadele 3-6 iulie 2023, respectiv 28-31 august 2023.
+Nemaifiind alte înscrieri la cuvânt și nici subiecte pe ordinea de zi, domnul președinte
+Catalin Drula a declarat ședința închisă.
+PREȘEDINTE,
+Catalin Drula
+SECRETAR,
+Zacharie Benedek
+3
+Anca Lazăr, consilier

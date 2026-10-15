@@ -1,0 +1,73 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2025-05-27 · ordinea de zi
+<!-- memorie {"tip": "sedinta", "meeting_id": 136, "raw_page_id": 818, "text_status": "converted", "source_url": "https://www.cdep.ro/ords/co/docs?F728292180/OZ052725.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/ords/co/docs?F728292180/OZ052725.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-05-27 · ordinea de zi · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 136, "raw_page_id": 818, "text_status": "converted", "source_url": "https://www.cdep.ro/ords/co/docs?F728292180/OZ052725.pdf"} -->
+,Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+ORDINEA DE ZI
+a lucrărilor comisiei din data de 27 mai 2025 - etaj P1, camera 29, ora 13.00- Hibrid
+|      |      |                                        |     |     | Competența   |       |     |            |     |
+| ---- | ---- | -------------------------------------- | --- | --- | ------------ | ----- | --- | ---------- | --- |
+|      | Nr.  | Denumirea inițiativei legislative sau  |     |     |              | Data  |     |            |     |
+| Nr.  |      |                                        |     |     | CD potrivit  |       |     | Termen de  |     |
+înregistrare  a problemei înscrise pe ordinea de  sesizării  Scopul sesizării  Observații
+| crt.  |        |                                 |     |     | art.75 din  |           |     | soluționare  |     |
+| ----- | ------ | ------------------------------- | --- | --- | ----------- | --------- | --- | ------------ | --- |
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-05-27 · ordinea de zi · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 136, "raw_page_id": 818, "text_status": "converted", "source_url": "https://www.cdep.ro/ords/co/docs?F728292180/OZ052725.pdf"} -->
+|       | la CD  | zi și menționarea raportorilor  |     |     |             | comisiei  |     |              |     |
+Constituție
+FONDURI
+1  Proiect  de  Lege  pentru  completarea  Cameră  01.02.2021  Fond  25.02.2021  Ministerul Transporturilor și
+PLx 50/2021
+art.3  din  Legea  nr.95/2008  privind  decizională  Infrastructurii
+Statutul personalului aeronautic tehnic
+|     |     | nenavigant  | din  aviația  | civilă  din  |     |     |     |     |     |
+| --- | --- | ----------- | ------------- | ------------ | --- | --- | --- | --- | --- |
+România
+https://www.cdep.ro/pls/proiecte/upl_p
+ck2015.proiect?cam=2&idp=19073
+2.  PLx 371/2021  Proiect  de  Lege  pentru  modificarea  Cameră  20.09.2021  Fond comun cu: Com. Industrii, 1 9.10.2021  Invitați: Ministerul  Afacerilor
+art.1062 din OUG nr.195/2002 privind  decizională  Com. Juridică, Com. Apărare  Interne
+|     |     | circulația pe drumurile publice.  |     |     |     |     |     |     |     |
+| --- | --- | --------------------------------- | --- | --- | --- | --- | --- | --- | --- |
+https://www.cdep.ro/pls/proiecte/upl_
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-05-27 · ordinea de zi · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 136, "raw_page_id": 818, "text_status": "converted", "source_url": "https://www.cdep.ro/ords/co/docs?F728292180/OZ052725.pdf"} -->
+pck2015.proiect?cam=2&idp=19265
+AVIZE
+3.  PLx 298/2023  Proiect  de  Lege  pentru  modificarea  Cameră  02.05.2023  Aviz  pentru  Com.Juridică,    Invitați:  Ministerul  Mediului,
+Apelor și Pădurilor
+|     |     | art.68 alin.(21) din Legea nr.46/2008 -  |                  |             | decizională  |     | Com. Agricultură, Com. Mediu  |     |     |
+| --- | --- | ---------------------------------------- | ---------------- | ----------- | ------------ | --- | ----------------------------- | --- | --- |
+|     |     | Codul                                    | silvic,  precum  | și  pentru  |              |     |                               |     |     |
+modificarea Legii nr.171/2010 privind
+|     |     | stabilirea  | și  | sancționarea  |     |     |     |     |     |
+| --- | --- | ----------- | --- | ------------- | --- | --- | --- | --- | --- |
+contravențiilor silvice
+https://www.cdep.ro/pls/proiecte/upl_p
+ck2015.proiect?cam=2&idp=20901
+4. PLx 466/2024 Proiect de Lege privind aprobarea Cameră 06.05.2025 Aviz pentru Invitați: Ministerul Energiei,
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-05-27 · ordinea de zi · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 136, "raw_page_id": 818, "text_status": "converted", "source_url": "https://www.cdep.ro/ords/co/docs?F728292180/OZ052725.pdf"} -->
+Ordonanței de urgențã a Guvernului decizională Com.Administrație, Com. Ministerul Transporturilor și
+nr.91/2024 pentru modificarea și Juridică Infrastructurii, Ministerul
+completarea Ordonanței de urgență a Dezvoltarii, Lucrarilor Publice
+Guvernului nr.60/2022 privind stabilirea si Administratiei
+cadrului instituțional și financiar de
+implementare și gestionare a fondurilor
+alocate României prin Fondul pentru
+modernizare, precum și pentru
+modificarea și completarea unor acte
+normative
+https://www.cdep.ro/pls/proiecte/upl_p
+ck2015.proiect?cam=2&idp=21937
+Diverse
+PREȘEDINTE,
+Lucian-Nicolae BODE

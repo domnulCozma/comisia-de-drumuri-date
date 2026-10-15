@@ -1,0 +1,117 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2026-06-30 · sinteza lucrărilor
+<!-- memorie {"tip": "sedinta", "meeting_id": 94, "raw_page_id": 1856, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz062930.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/comisii/transport/pdf/2026/sz062930.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2026-06-30 · sinteza lucrărilor · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 94, "raw_page_id": 1856, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz062930.pdf"} -->
+Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+Tel:021.316.0337 E-mail: cp26@cdep.ro
+Data: 30.06.2026
+7c-4/94/2026
+SINTEZA LUCRĂRILOR COMISIEI
+din zilele de 29 și 30 iunie 2026
+Comisia pentru transporturi și infrastructură a Camerei Deputaților și-a
+desfășurat lucrările în ziua de 30 iunie 2026, cu prezență fizică și online, începând
+cu ora 13:00.
+Lucrările ședinței din data de 30 iunie a.c., au fost conduse de domnul deputat
+Lucian-Nicolae Bode, președinte al Comisiei pentru transporturi și infrastructură.
+La dezbaterile asupra inițiativelor legislative au participat în calitate de
+invitați:
+- doamna Mocanu Mihaela- director, Ministerul Transporturilor și
+Infrastructurii;
+- domnul Bocșe Mihai- director, Ministerul Transporturilor și
+Infrastructurii;
+- domnul Ciuleanu Florin- ofițer specialist, Inspectoratul General al Poliției
+Române;
+- domnul Holban Andrei- ofițer specialist, Inspectoratul General al Poliției
+Române.
+1
+Pe ordinea de zi a ședinței au figurat următoarele puncte:
+
+## Ședința Comisia pentru transporturi și infrastructură din 2026-06-30 · sinteza lucrărilor · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 94, "raw_page_id": 1856, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz062930.pdf"} -->
+1. Plx 591/2025- Propunere legislativă privind amenajarea de locuri de joacă
+pentru copii în aeroporturi și gări;
+2. Plx 267/2026- Propunere legislativă pentru modificarea și completarea și
+completarea Ordonanței de Urgență a Guvernului nr.195/2002 privind circulația pe
+drumurile publice;
+3. PLx 38/2026- Proiect de Lege pentru aprobarea Ordonanței de urgență a
+Guvernului nr.77/2025 privind unele măsuri fiscal-bugetare;
+4. Plx 459/2026- Propunere legislativă privind regimul juridic al identificării,
+deținerii, circulației și prevenirii faptelor ilicite referitoare la ambarcațiuni de
+agrement și motoare de ambarcațiuni.
+La punctul 1 al ordinii de zi, membrii comisiei au hotărât, cu majoritate de voturi, să
+transmită către cealaltă comisie sesizată în fond, un raport preliminar de respingere.
+La punctul 2 al ordinii de zi, membrii comisiei au hotărât, cu majoritate de voturi, să
+transmită către celelalte comisii sesizate în fond, un raport de preliminar de
+respingere.
+La punctul 3 al ordinii de zi, membrii comisiei au hotărât, cu majoritate de voturi, să
+
+## Ședința Comisia pentru transporturi și infrastructură din 2026-06-30 · sinteza lucrărilor · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 94, "raw_page_id": 1856, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz062930.pdf"} -->
+acorde un aviz favorabil proiectului de lege.
+La punctul 4 al ordinii de zi, membrii comisiei au hotărât, cu majoritate de voturi, să
+acorde un aviz negativ propunerii legislative.
+În urma dezbaterii și a opiniilor exprimate asupra inițiativelor legislative
+aflate pe ordinea de zi si a stabilirii programului pentru perioada vacanței
+parlamentare, ședința Comisiei a fost declarată închisă de domnul deputat Lucian-
+Nicolae Bode, președintele Comisiei pentru transporturi și infrastructură.
+Nr. Nume și prenume Prezență la ședința din data 30.06.2026
+Crt.
+1. Bode Lucian-Nicolae Prezent
+2. Cojocaru Petru-Bogdan Prezent
+3. Crușoveanu Marian Prezent
+4. Gál Károly Prezent
+5. Hristu Cosmin Prezent
+6. Groza Călin -Florin Prezent
+7. Popa Maricel Prezent
+8. Puscașu Petre Prezent
+9. Amet Varol Prezent online
+10. Andrei Alexandru-Ioan Prezent online
+2
+| 11.  Badea Nelu-Valentin       |     |     | Prezent         |     |     |
+| ------------------------------ | --- | --- | --------------- | --- | --- |
+| 12.  Băișanu Ștefan Alexandru  |     |     | Prezent online  |     |     |
+
+## Ședința Comisia pentru transporturi și infrastructură din 2026-06-30 · sinteza lucrărilor · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 94, "raw_page_id": 1856, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz062930.pdf"} -->
+| 13.  Caragață Florin           |     |     | Prezent         |     |     |
+| 14.                            |     |     | Prezent online  |     |     |
+Chirilă Virgil-Alin
+| 15.  Cîrligea Florin-Eugen      |     |     | Prezent         |     |     |
+| ------------------------------- | --- | --- | --------------- | --- | --- |
+| 16.  Dolineaschi Andrei         |     |     | Prezent         |     |     |
+| 17.  Drulă Cătălin              |     |     | Prezent online  |     |     |
+| 18.  Gheorghiu Andrei – Florin  |     |     | Prezent         |     |     |
+| 19.                             |     |     | Prezent online  |     |     |
+Hagiu Augustin-Florin
+| 20.  Jianu Iosif-Florin            |     |     | Prezent online  |     |     |
+| ---------------------------------- | --- | --- | --------------- | --- | --- |
+| 21.  Mîndrescu Nicolae             |     |     | Prezent         |     |     |
+| 22.  Moisin Radu-Marin             |     |     | Prezent online  |     |     |
+| 23.  Paraschivescu Ovidiu Romulus  |     |     | Prezent         |     |     |
+
+## Ședința Comisia pentru transporturi și infrastructură din 2026-06-30 · sinteza lucrărilor · text nativ (continuare 5)
+<!-- memorie {"tip": "sedinta", "meeting_id": 94, "raw_page_id": 1856, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz062930.pdf"} -->
+| 24                                 |     |     | Prezent online  |     |     |
+| Priceputu Vasilică                 |     |     |                 |     |     |
+| 25.  Răducea Gheorghe-Valentin     |     |     | Prezent online  |     |     |
+| 26.  Rusu Sebastian-Mihai          |     |     | Prezent online  |     |     |
+| 27.  Samoilă Ion                   |     |     | Prezent         |     |     |
+| 28.  Stoica Ștefan-Bucur           |     |     | Prezent online  |     |     |
+| 29.                                |     |     | Absent          |     |     |
+| Vidra Vlad-Andrei                  |     |     |                 |     |     |
+În ziua de 29 iunie a.c., comisia a desfășurat activități de documentare și consultare
+pe marginea proiectelor aflate pe agenda de lucru a comisiei.
+|     | PREȘEDINTE, |     | SECRETAR, |     |     |
+| --- | ----------- | --- | --------- | --- | --- |
+| Lucian-Nicolae BODE |     |     | Maricel POPA |     |     |
+| ------------------- | --- | --- | ------------ | --- | --- |
+
+## Ședința Comisia pentru transporturi și infrastructură din 2026-06-30 · sinteza lucrărilor · text nativ (continuare 6)
+<!-- memorie {"tip": "sedinta", "meeting_id": 94, "raw_page_id": 1856, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz062930.pdf"} -->
+|                     |     |     |              |     |     |
+Consilier parlamentar, Ruxandra Dragne
+3

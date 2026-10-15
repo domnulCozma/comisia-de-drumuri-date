@@ -1,0 +1,75 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2025-05-21 · ordinea de zi
+<!-- memorie {"tip": "sedinta", "meeting_id": 135, "raw_page_id": 817, "text_status": "converted", "source_url": "https://www.cdep.ro/ords/co/docs?F1097800400/OZ052125.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/ords/co/docs?F1097800400/OZ052125.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-05-21 · ordinea de zi · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 135, "raw_page_id": 817, "text_status": "converted", "source_url": "https://www.cdep.ro/ords/co/docs?F1097800400/OZ052125.pdf"} -->
+,Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+ORDINEA DE ZI
+a lucrărilor comisiei din data de 21 mai 2025 - etaj P1, camera 29, ora 13.00- Hibrid
+|      |      |                                        |     | Competența   |         |            |     |
+| ---- | ---- | -------------------------------------- | --- | ------------ | ------- | ---------- | --- |
+|      | Nr.  | Denumirea inițiativei legislative sau  |     |              | Data    |            |     |
+| Nr.  |      |                                        |     | CD potrivit  |         | Termen de  |     |
+înregistrare  a problemei înscrise pe ordinea de  sesizării  Scopul sesizării  Observații
+| crt.  |        |                                 |     | art.75 din  |           | soluționare  |     |
+| ----- | ------ | ------------------------------- | --- | ----------- | --------- | ------------ | --- |
+|       | la CD  | zi și menționarea raportorilor  |     |             | comisiei  |              |     |
+Constituție
+FONDURI
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-05-21 · ordinea de zi · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 135, "raw_page_id": 817, "text_status": "converted", "source_url": "https://www.cdep.ro/ords/co/docs?F1097800400/OZ052125.pdf"} -->
+1  Proiect  de  Lege  privind  modificarea  Cameră  13.02.2023  Fond comun cu: Com. Industrii, 0 1.03.2023
+| PLx 61/2023  |     |     |     |     |     |     | Invitați: Ministerul  Afacerilor  |
+| ------------ | --- | --- | --- | --- | --- | --- | --------------------------------- |
+Ordonanței  de  urgență  a  Guvernului  decizională  Com. Juridică, Com. Apărare  Interne
+|     |     | nr.195/2002  privind  | circulația  | pe  |     |     |     |
+| --- | --- | --------------------- | ----------- | --- | --- | --- | --- |
+drumurile publice
+https://www.cdep.ro/pls/proiecte/upl_p
+ck2015.proiect?cam=2&idp=20326
+2.  Plx  122/2025  Proiect  de  Lege  pentru  ratificarea  Prima  06.05.2025  Fond   22.05.2025
+Invitați:  Ministerul  Afacerilor
+|     |     | Protocolului semnat la Ashgabat la 20  |               | Camera  |     |     | Externe  |
+| --- | --- | -------------------------------------- | ------------- | ------- | --- | --- | -------- |
+|     |     | ianuarie  2025,                        | de  amendare  | a       |     |     |          |
+Acordului între Guvernul României și
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-05-21 · ordinea de zi · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 135, "raw_page_id": 817, "text_status": "converted", "source_url": "https://www.cdep.ro/ords/co/docs?F1097800400/OZ052125.pdf"} -->
+|     |     | Guvernul  Turkmenistanului  |     | în  |     |     |     |
+| --- | --- | --------------------------- | --- | --- | --- | --- | --- |
+domeniul transporturilor internaționale
+rutiere de persoane și mărfuri, semnat
+la București la 16 noiembrie 1994
+https://www.cdep.ro/pls/proiecte/upl_
+pck2015.proiect?cam=2&idp=22323
+AVIZE
+3.  PLx 332/2024  Propunere  legislativă  pentru  Cameră  27.05.2024  Aviz pentru Com. Industrii    Invitați: Ministerul Dezvoltării,
+completarea Legii nr.10/1995 privind  decizională  Lucrarilor  Publice  și
+Administrației
+calitatea în construcții
+https://www.cdep.ro/pls/proiecte/upl_p
+ck2015.proiect?cam=2&idp=21559
+4.  PLx 125/2025  Proiect  de  Lege  privind  aprobarea  Cameră  06.05.2025  Aviz pentru    Invitați:  Ministerul
+Transporturilorși Infrastructurii,
+| Ordonanței  | de  | urgență  a  | Guvernului  | decizională  | Com.Administrație, Com.  |
+| ----------- | --- | ----------- | ----------- | ------------ | ------------------------ |
+nr.18/2025  pentru  modificarea  art.5  Juridică  Ministerul Finanțelor
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-05-21 · ordinea de zi · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 135, "raw_page_id": 817, "text_status": "converted", "source_url": "https://www.cdep.ro/ords/co/docs?F1097800400/OZ052125.pdf"} -->
+alin.(51) și art.12 alin.(11) din Legea
+| nr.255/2010  |             | privind  exproprierea  |           |     |     |
+| ------------ | ----------- | ---------------------- | --------- | --- | --- |
+| pentru       | cauză       | de  utilitate          | publică,  |     |     |
+| necesară     | realizării  | unor  obiective        | de        |     |     |
+interes național, județean și local
+https://www.cdep.ro/pls/proiecte/upl_p
+ck2015.proiect?cam=2&idp=22325
+                                                                                                                                  Diverse
+     PREȘEDINTE,
+    Lucian-Nicolae BODE

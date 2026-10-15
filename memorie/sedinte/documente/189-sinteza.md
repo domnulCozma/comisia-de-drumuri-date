@@ -1,0 +1,124 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2023-05-09 · sinteza lucrărilor
+<!-- memorie {"tip": "sedinta", "meeting_id": 189, "raw_page_id": 2610, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0509.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/comisii/transport/pdf/2023/pv0509.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-05-09 · sinteza lucrărilor · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 189, "raw_page_id": 2610, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0509.pdf"} -->
+Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+Tel. 021.414.1238 e-mail cp26@cdep.ro
+Data: 17.05.2023
+Nr. 4c-4/138/
+PROCES-VERBAL
+al lucrărilor ședinței Comisiei pentru transporturi și infrastructură
+din ziua de 9 mai 2023
+Comisia pentru transporturi și infrastructură și-a desfășurat lucrările ședinței în data de
+09 mai 2023.
+La  ședință  și-au  înregistrat  prezența  următorii  deputați:  Cătălin  Drulă  (USR),  Andrei
+Alexandru-Ioan  (PNL),  Banias  Mircea  Marius  (PNL),  Marian  Mina  (PSD),  Mircea  Florin
+(PSD), Amet Varol (Minoritati nationale), Laurențiu-Daniel Marin (PSD), Emil Florin Albotă
+(PSD),  Crușoveanu  Marian  (PNL),  Folescu  Cornel-Vasile  (PSD),  Dumitru-Lucian  Lungoci
+(PSD),  Cristian-Paul  Ichim  (Neafiliați),  Ion-Marian  Lazăr  (USR),  Cristina  Camelia  Rizea
+(Neafiliați),  Serban  Ciprian-Constantin  (PSD),  George  Șișcu  (PNL),  Toba  Francisc
+(Neafiliati).
+Înlocuitori: domnul deputat Bilcea Ovidiu-Sergiu a participat în locul domnului deputat
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-05-09 · sinteza lucrărilor · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 189, "raw_page_id": 2610, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0509.pdf"} -->
+Bode Lucian-Nicolae (PNL), domnul deputat Ilie-Alin Coleșa a participat în locul domnului
+deputat Darius Pop (AUR).
+1
+                 La lucrările comisiei au participat, în calitate de invitați, din partea:
+➢  Ministerul  Afacerilor  Interne:  domnul  Robert  Bistriceanu,  ofițer  specialist
+Inspectoratul General al Poliției Române (IGPR).
+Lucrările  ședinței  au  fost  conduse  de  președintele  comisiei,  domnul  deputat  Cătălin
+Drulă.
+Pe ordinea de zi a ședinței au figurat următoarele puncte:
+1.  PLx  594/2018  –  Proiect  de  Lege  pentru  modificarea  și  completarea  Ordonanței  de
+urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice;
+2.  PLx 599/2022 - Proiect de Lege pentru modificarea art. 8 din Ordonanța de urgență a
+Guvernului nr. 195/2002 privind circulația pe drumurile publice;
+3.  PLx  218/2023  -  Proiect  de  Lege  pentru  modificarea  și  completarea  Ordonanței  de
+urgență a Guvernului nr.111/2011 privind comunicațiile electronice;
+4.  Plx 213/2023 - Proiect de Lege privind aprobarea Ordonanței Guvernului nr.18/2023
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-05-09 · sinteza lucrărilor · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 189, "raw_page_id": 2610, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0509.pdf"} -->
+pentru  modificarea  și  completarea  Ordonanței  de  urgență  a  Guvernului  nr.47/2022
+privind
+ajustarea
+prețurilor
+contractelor
+de
+achiziție
+publică/contractelor
+sectoriale/contractelor de concesiune/acordurilor-cadru.
+La începutul ședinței, domnul președinte Cătălin Drulă a solicitat confirmarea întrunirii
+cvorum-ului  necesar  pentru  desfășurarea  ședinței.  Cvorum-ul  fiind  îndeplinit  a  început
+desfășurarea ședinței.
+Domnul președinte Cătălin Drulă a supus la vot aprobarea ordinii de zi. Nefiind observații
+sau propuneri din partea membrilor comisiei cu privire la structura ordinii de zi, aceasta a fost
+aprobată în unanimitate.
+La primul punct al ordinii de zi (PLx 594/2018), domnul președinte Cătălin Drulă a
+prezentat  obiectul  de  reglementare  și  parcursul  legislativ  al  proiectului  de  lege.  Domnul
+președinte  a  oferit  cuvântul  domnului  Robert  Bistriceanu,  ofițer  specialist  IGPR,  pentru
+2
+exprimarea punctului de vedere din partea Guvernului (Ministerul Afacerilor Interne). Acesta
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-05-09 · sinteza lucrărilor · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 189, "raw_page_id": 2610, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0509.pdf"} -->
+a  declarat  că  Guvernul  susține  proiectul  de  lege  cu  observațiile  deja  transmise  Comisiei
+Juridice, de Disciplină și Imunități, precum și Comisiei pentru Transporturi și Infrastructură.
+În  ceea  ce  privește  observațiile  transmise,  acesta  a  făcut  referire  la  punctul  marginal  5  din
+raportul preliminar întocmit de Comisia Juridică, de Disciplină și Imunități unde se propune
+eliminarea sintagmei „obstacolelor” deoarece se realizeaza o dublă reglementare deoarece este
+deja menționată la art. 5, alin. 2. De asemenea, punctul marginal 10 din același raport, prin care
+se urmărește introducerea alineatelor 21 si 2 este considerat inoportun întrucât sediul materiei
+privind  regulile  ce  vizează  administrarea  probei  în  cercetarea  la  fața  locului  este  deja
+reglementată în Codul de Procedura Penală. A mai adaugat o observație la punctul marginal
+13, unde se instituie dreptul titularului permisului de conducere de a obține informații cu privire
+la numărul punctelor de penalizare, mentionând că aceasta a  rămas fără obiect întrucât a fost
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-05-09 · sinteza lucrărilor · text nativ (continuare 5)
+<!-- memorie {"tip": "sedinta", "meeting_id": 189, "raw_page_id": 2610, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0509.pdf"} -->
+deja reglementată prin Legea nr. 385/2022, având același obiect.
+În  continuare,  domnul  președinte  Cătălin  Drulă  a  supus  la  vot  eliminarea  punctelor
+marginale 13 și 16, aceasta fiind adoptata cu unanimitate de voturi.
+Domnul  președinte  Cătălin  Drulă  a  supus  la  vot  un  raport  preliminar  de  adoptare  cu
+amendamente admise și amendamente respinse, votul fiind în unanimitate pentru.
+La al doilea punct al ordinii de zi (PLx 599/2022), domnul președinte Cătălin Drulă a
+prezentat obiectul de reglementare și parcursul legislativ al proiectului de lege. Președintele
+comisiei  a  oferit  cuvântul  domnului  Robert  Bistriceanu  în  vederea  expunerii  punctului  de
+vedere cu privire la proiectul de lege dezbătut.
+Domnul Robert Bistriceanu a declarat că actul normativ propus este susținut de Guvern
+în forma votată în Senat.
+Domnul  președinte  a  supus  la  vot  un  raport  de  adoptare  în  forma  Senatului,  raportul
+fiind adoptat cu unanimitate de voturi.
+3
+La al treilea punct al ordinii de zi (PLx 218/2023), domnul președinte Cătălin Drulă
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-05-09 · sinteza lucrărilor · text nativ (continuare 6)
+<!-- memorie {"tip": "sedinta", "meeting_id": 189, "raw_page_id": 2610, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0509.pdf"} -->
+a prezentat obiectul de reglementare și parcursul legislativ al proiectului de lege.
+Domnul presedinte a supus la vot un aviz favorabil al proiectului, rezultatul fiind de 4
+abțineri și 12 voturi pentru.
+La al patrulea punct al ordinii de zi (PLx 213/2023), domnul președinte Cătălin Drulă
+a prezentat obiectul de reglementare și parcursul legislativ al proiectului de lege. Președintele
+comisiei  a  oferit  cuvântul  domnului  deputat  George  Șișcu  din  partea  Grupului  Parlamentar
+PNL, în vederea expunerii punctului de vedere cu privire la amendamentul depus.
+După  intervenția  domnului deputat  George  Șișcu,  domnul  președinte  Cătălin  Drulă  a
+supus la vot adoptarea amendamentului depus, acesta fiind adoptat cu majoritate de voturi.
+Domnul  președinte  a  supus  în  continuare  la  vot  un  aviz  favorabil  cu  amendamentul
+adoptat al proiectului, rezultatul fiind de 1 vot de abținere și 15 voturi pentru.
+Nemaifiind alte înscrieri la cuvânt și nici subiecte pe ordinea de zi a ședinței, domnul
+președinte Cătălin Drulă a declarat ședința închisă.
+PREȘEDINTE,
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-05-09 · sinteza lucrărilor · text nativ (continuare 7)
+<!-- memorie {"tip": "sedinta", "meeting_id": 189, "raw_page_id": 2610, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0509.pdf"} -->
+Cătălin Drulă
+SECRETAR,
+Zacharie Benedek
+Anca Lazăr, consilier
+4

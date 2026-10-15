@@ -1,0 +1,68 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2021-06-23 · sinteza lucrărilor
+<!-- memorie {"tip": "sedinta", "meeting_id": 254, "raw_page_id": 2814, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2021/sz062324.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/comisii/transport/pdf/2021/sz062324.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2021-06-23 · sinteza lucrărilor · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 254, "raw_page_id": 2814, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2021/sz062324.pdf"} -->
+Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+Tel:021.316.0337 Fax: 021.414.1991 e-mail: cp26@cdep.ro
+Data: 25.06.2021
+SINTEZA LUCRĂRILOR COMISIEI
+din zilele de 23 și 24 iunie
+Comisia pentru transporturi și infrastructură și-a desfășurat lucrările ședinței
+în data de 23 iunie 2021, în sistem mixt.
+La  lucrările  comisiei,  în  calitate  de  invitați,  au  participat:  din  partea
+Ministerului Transporturilor și Infrastructurii, domnul Ionel Scrioșteanu; din partea
+Companiei  Naționale  de  Administrare  a  Infrastructurii  Rutiere,  domnul  Cristian
+Andrei,  director  siguranța  circulației  și  monitorizare  trafic,  doamna  Alexandra
+Dumitrescu,  șef direcția tehnică, domnul Bogdan Rădulescu, șef direcția încasări
+comerciale și venituri, doamna Raluca Palii, consilier juridic departament avizare.
+Pe ordinea de zi a ședinței au figurat următoarele puncte:
+1.  PLx  239/2021  –  Proiect  de  Lege  pentru  modificarea  art.27  alin.(4)  din
+Ordonanța Guvernului nr.43/1997 privind regimul drumurilor;
+
+## Ședința Comisia pentru transporturi și infrastructură din 2021-06-23 · sinteza lucrărilor · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 254, "raw_page_id": 2814, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2021/sz062324.pdf"} -->
+2.  PLx  444/2020  -  Proiect  de  Lege  privind  aprobarea  Ordonanței  de  urgență  a
+Guvernului  nr.105/2020  pentru  completarea  Legii  nr.291/2018  privind
+aprobarea  obiectivului  de  investiții  Autostrada  Iași-Târgu  Mureș,  Autostrada
+Unirii;
+3.  PLx  33/2019  -  Proiect  de  Lege  pentru  modificarea  anexei  3  la  Ordonanța
+Guvernului  nr.15/2002  privind  aplicarea  tarifului  de  utilizare  și  a  tarifului  de
+trecere pe rețeaua de drumuri naționale din România;
+1
+4.  COM(2020)240  -    COMUNICARE  A  COMISIEI  CĂTRE  PARLAMENTUL
+EUROPEAN,  CONSILIU,  COMITETUL  ECONOMIC  ȘI  SOCIAL
+EUROPEAN ȘI COMITETUL REGIUNILOR privind o nouă abordare pentru
+o  economie  albastră  durabilă  în  UE.  Transformarea  economiei  albastre  a  UE
+pentru un viitor durabil;
+5.  COM(2020)400  -  COMUNICARE  A  COMISIEI  CĂTRE  PARLAMENTUL
+EUROPEAN,  CONSILIU,  COMITETUL  ECONOMIC  ȘI  SOCIAL
+EUROPEAN ȘI COMITETUL REGIUNILOR. Calea către o planetă sănătoasă
+pentru toți Plan de acțiune al UE: „Către reducerea la zero a poluării aerului,
+apei și solului”.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2021-06-23 · sinteza lucrărilor · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 254, "raw_page_id": 2814, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2021/sz062324.pdf"} -->
+La punctul 1 al ordinii de zi, membrii comisiei au hotărât, cu majoritate de
+voturi, adoptarea proiectului de lege, în forma Senatului.
+La  punctul  2  al  ordinii  de  zi,  membrii  comisiei  au  votat  în  majoritate
+pentru transmiterea unui raport de adoptare cu amendamente al actului normativ.
+La punctul 3 al ordinii de zi, membrii comisiei au decis, cu majoritate de
+voturi, adoptarea cu amendamente a proiectului de lege.
+La  punctul  4  al  ordinii  de  zi,  membrii  comisiei  au  votat  în  unanimitate
+pentru  transmiterea  unui  proiect  de  opinie  favorabil  către  Comisia  pentru  afaceri
+europene.
+La  punctul  5  al  ordinii  de  zi,  membrii  comisiei  au  hotărât,  unanim,
+transmiterea  către  Comisia  pentru  afaceri  europene  a  unui  proiect  de  opinie
+favorabil.
+În ziua de 24 iunie, membrii comisiei au avut activitate de studiu individual
+asupra proiectelor repartizate comisiei.
+PREȘEDINTE,
+SECRETAR,
+Ciprian - Constantin Șerban
+Benedek Zacharie
+Consultant, Stratan Valeria
+2

@@ -1,0 +1,141 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2025-06-03 · sinteza lucrărilor
+<!-- memorie {"tip": "sedinta", "meeting_id": 137, "raw_page_id": 1869, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz060203.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/comisii/transport/pdf/2025/sz060203.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-06-03 · sinteza lucrărilor · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 137, "raw_page_id": 1869, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz060203.pdf"} -->
+Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+Tel:021.316.0337 E-mail: cp26@cdep.ro
+Data:03.06.2025
+4c-4/85/2025
+SINTEZA LUCRĂRILOR COMISIEI
+din perioada 2 -5 iunie 2025
+Comisia pentru transporturi și infrastructură și-a desfășurat lucrările ședinței
+în data de 3 iunie 2025, cu prezență fizică și online, începând cu ora 13.00.
+Lucrările ședinței din data de 3 iunie a.c., au fost conduse de domnul deputat
+Lucian-Nicolae Bode, președinte al Comisiei pentru transporturi și infrastructură.
+La dezbaterile asupra inițiativelor legislative aflate pe ordinea de zi, au
+participat în calitate de invitați:
+- domnul Butuza Cosmin- secretar de stat, Ministerul Mediului, Apelor și
+Pădurilor;
+- domnul Budescu Gabriel- director , Compania Națională de Investiții
+Rutiere;
+- domnul Alban Marius- consilier, Ministerul Transporturilor și
+Infrastructurii;
+Pe ordinea de zi a ședinței au figurat următoarele puncte:
+1
+1. PLx 39/2019- Proiect de Lege pentru modificarea și completarea art.47 din
+Ordonanța Guvernului nr.43/1997 privind regimul drumurilor;
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-06-03 · sinteza lucrărilor · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 137, "raw_page_id": 1869, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz060203.pdf"} -->
+2. PLx 166/2019-Proiect de Lege privind aprobarea obiectivului de investiții
+Autostrada Brașov-Bacău;
+3. PLx 465/2024- Proiect de Lege privind aprobarea Ordonanței de urgențã a
+Guvernului nr.88/2024 pentru modificarea și completarea unor acte normative
+în domeniul mediului și schimbărilor climatice;
+4. PLx 48/2025- Proiect de Lege privind aprobarea Ordonanței de urgență a
+Guvernului nr.148/2024 pentru prorogarea unor termene și pentru modificarea
+unor acte normative;
+5. PLx 170/2025- Propunere legislativă pentru completarea Ordonanței de
+urgență nr.195/2002 privind circulația pe drumurile publice;
+6. Diverse.
+La punctul 1 al ordinii de zi, membrii comisiei au hotărât, cu unanimitate de
+voturi, să propună plenului Camerei Deputaților un raport de respingere.
+La punctul 2 al ordinii de zi, membrii comisiei au hotărât, cu majoritate de
+voturi, să propună plenului Camerei Deputaților un raport de respingere.
+La punctul 3 al ordinii de zi, respectivul proiect de lege a fost avizat favorabil,
+cu majoritate de voturi.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-06-03 · sinteza lucrărilor · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 137, "raw_page_id": 1869, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz060203.pdf"} -->
+La punctul 4 al ordinii de zi, respectivul proiect de lege a fost avizat favorabil,
+cu unanimitate de voturi.
+La punctul 5 al ordinii de zi, respectivul proiect de lege a fost avizat favorabil,
+cu majoritate de voturi.
+La punctul „Diverse”, domnul vicepreședinte Gál Károly a prezentat în sumar
+concluziile asupra Raportului special privind siguranța rutieră în România,
+eveniment organizat de Avocatul Poporului, la care domnia sa a participat în calitate
+de reprezentant al comisiei. Concluzia generală a raportului a fost că România are
+una dintre cele mai periculoase rețele rutiere din UE, investițiile în infrastructură
+sunt lente, fragmentate și adesea întârziate, impunându-se o planificare strategică pe
+termen lung, cu prioritizarea siguranței în toate fazele proiectelor de transport.
+De asemenea, domnul secretar Groza Călin a prezentat concluziile participării
+sale ca reprezentant al comisiei în cadrul evenimentului Black Sea Security Forum
+2025 ce a avut loc la Odessa, Ucraina, în perioada 30 mai – 1 iunie. Evenimentul a
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-06-03 · sinteza lucrărilor · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 137, "raw_page_id": 1869, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz060203.pdf"} -->
+reunit factori de decizie politică, experți în securitate și oficiali preponderent din
+statele riverane Mării Negre care au discutat provocările de securitate din regiune,
+în contextul agresiunii Rusiei asupra Ucrainei.
+2
+Nr.  Nume și prenume  Prezență la ședința din data de 03.06.2025
+Crt.
+| 1.  | Prezent  |     |
+| --- | -------- | --- |
+Bode Lucian Nicolae
+| 2.  Crușoveanu Marian  | Prezent          |     |
+| ---------------------- | ---------------- | --- |
+| 3.  Gál Károly         | Prezent          |     |
+| 4.  Mina Marian        | Prezent online   |     |
+| 5  Mîndrescu Nicolae  | Prezent   |     |
+| --------------------- | --------- | --- |
+| 6.  | Prezent  |     |
+| --- | -------- | --- |
+Groza Călin -Florin
+| 7.  Popa Maricel  | Prezent   |     |
+| ----------------- | --------- | --- |
+| 8.  Puscașu Petre  | Prezent   |     |
+| ------------------ | --------- | --- |
+| 9.  Amet Varol  | Prezent  |     |
+| --------------- | -------- | --- |
+| 10.  Andrei Alexandru-Ioan  | Prezent   |     |
+| --------------------------- | --------- | --- |
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-06-03 · sinteza lucrărilor · text nativ (continuare 5)
+<!-- memorie {"tip": "sedinta", "meeting_id": 137, "raw_page_id": 1869, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz060203.pdf"} -->
+| 11.                         | Prezent   |     |
+Badea Nelu-Valentin
+| 12.  Băișanu Ștefan Alexandru  | Prezent         |     |
+| ------------------------------ | --------------- | --- |
+| 13.  Caragață Florin           | Prezent         |     |
+| 14.  Chirilă Virgil-Alin       | Prezent online  |     |
+| 15.  Cîrligea Florin-Eugen  | Prezent online  |     |
+| --------------------------- | --------------- | --- |
+Prezent online
+| 16.  Dolineaschi Andrei  |           |     |
+| ------------------------ | --------- | --- |
+| 17.  Drulă Cătălin       | Prezent   |     |
+| 18.  Gheorghiu Andrei – Florin  | Prezent  |     |
+| ------------------------------- | -------- | --- |
+| 19.  Hagiu Augustin-Florin  | Prezent  |     |
+| --------------------------- | -------- | --- |
+| 20.            | Prezent  |     |
+| -------------- | -------- | --- |
+| Hristu Cosmin  |          |     |
+Prezent
+21.  Jianu Iosif-Florin
+| 22.  Mircea Florin  | Prezent   |     |
+| ------------------- | --------- | --- |
+| 23.  Moisin Radu-Marin  | Prezent online  |     |
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-06-03 · sinteza lucrărilor · text nativ (continuare 6)
+<!-- memorie {"tip": "sedinta", "meeting_id": 137, "raw_page_id": 1869, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz060203.pdf"} -->
+| ----------------------- | --------------- | --- |
+| 24.  Paraschivescu Ovidiu Romulus  | Prezent  |     |
+| ---------------------------------- | -------- | --- |
+| 25.                   | Prezent online  |     |
+| --------------------- | --------------- | --- |
+| Rusu Sebastian-Mihai  |                 |     |
+| 26.  Samoilă Ion      | Prezent         |     |
+| 27.  Stoica Ștefan-Bucur  | Prezent online  |     |
+| ------------------------- | --------------- | --- |
+În zilele de 2, 4 și 5 iunie a.c., comisia a desfășurat activități de documentare,
+consultare și analiză pe marginea proiectelor aflate pe agenda de lucru a comisiei.
+PREȘEDINTE, SECRETAR,
+Lucian-Nicolae BODE Maricel POPA
+Consilier parlamentar, Ruxandra Dragne
+3

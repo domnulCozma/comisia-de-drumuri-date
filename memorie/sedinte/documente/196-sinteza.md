@@ -1,0 +1,192 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+Tel. 021.414.1238 e-mail cp26@cdep.ro
+Data: 13.09.2023
+Nr. 4c-4/198/2023
+PROCES-VERBAL
+al lucrărilor ședinței Comisiei pentru transporturi și infrastructură
+din ziua de 13 septembrie 2023
+Comisia  pentru  transporturi  și  infrastructură  și-a  desfășurat  lucrările  ședinței  în  data  de  13
+septembrie 2023.
+La  ședință  și-au  înregistrat  prezența  următorii  deputați:  Drulă  Cătălin  (USR),  Andrei
+Alexandru-Ioan (PNL),  Banias Mircea-Marius (PNL), Marian Mina (PSD), Amet  Varol (Minorități
+Naționale), Benedek Zacharie (UDMR), Laurențiu-Daniel Marin (PSD), Acatrinei Dorel – Gheorghe
+(AUR), Emil Florin Albotă (PSD), Marian Crușoveanu (PNL), Folescu Cornel-Vasile (PSD), Lorincz
+Stefan-Iulian  (USR),  Dumitru-Lucian  Lungoci  (PSD),  Paraschiv  Rodica  (PSD),  Cristina-Camelia
+Rizea (Neafiliați), Stoica Stefan-Bucur (PNL), Șerban Ciprian-Constantin (PSD), George Șișcu (PNL),
+Toma Vasilică (PSD).
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+Înlocuitori: domnul deputat Victor Ilie a participat în locul domnului deputat Ion Marian Lazar
+(USR) și domnul deputat Ciprian Titi-Stoica a participat în locul domnului deputat Darius Pop (AUR).
+1
+          La lucrările comisiei au participat, în calitate de invitați, din partea:
+➢  Ministerului Dezvoltării, Lucrărilor Publice și Administrației: doamna Vali Baciu, director
+general și doamna Iulia Hertzog, director;
+➢  Ministerului Transporturilor si Infrastructurii: domnul Ion Popa, secretar de stat, doamna
+Gabriela  Murgeanu,  director,  doamna  Ramona  Stănescu,  consilier,    doamna  Mihaela
+Mocanu, director, doamna Emilia Margineanu, consilier;
+➢  Ministerului Finanțelor: domnul Alin-Marius Andrieș, secretar de stat, doamna Boni Cucu,
+director general și Anne-Marie Năstase, șef serviciu.
+Lucrările ședinței au fost conduse de președintele comisiei, domnul deputat Cătălin Drulă.
+Pe ordinea de zi a ședinței au figurat următoarele puncte:
+1.  PLx 105/2022 –  Proiect de Lege  privind  aprobarea  Ordonanței  de urgență a Guvernului nr.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+6/2022  privind  modificarea  Legii  serviciilor  publice  de  transport  persoane  în  unitățile
+administrativ-teritoriale nr. 92/2007;
+2.  PLx  460/2023  –  Proiect  de  Lege  privind  aprobarea  Ordonanței  de  Urgență  a  Guvernului
+nr.41/2023  privind  transferul  rețelei  sanitare  a  Ministerului  Transporturilor  și  Infrastructurii
+către  alte  ministere  și  instituții  cu  rețele  sanitare  proprii  așa  cum  sunt  reglementate  la  art.4
+alin.(2) din Legea nr.95/2006 privind reforma în domeniul sănătății;
+3.  PLx  462/2023  -  Proiect  de  Lege  privind  aprobarea  Ordonanței  de  urgență  a  Guvernului
+nr.46/2023 pentru modificarea și completarea art.8 din Legea nr.315/2004 privind dezvoltarea
+regională în România;
+4.  PLx 468/2023 – Proiect de Lege pentru modificarea și completarea unor acte normative pentru
+întărirea disciplinei autorizării construcțiilor;
+5.  PLx 473/2023 – Proiect de Lege pentru aprobarea Contractului de finanțare – Autostrada A7 –
+Cofinanțare  aferentă  Mecanismului  de  redresare  și  reziliență  –  dintre  România  și  Banca
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+Europeană de Investiții, semnat la București la 12 iunie 2023 și la Luxemburg la 14 iunie 2023.
+La începutul ședinței, domnul președinte Cătălin Drulă a solicitat confirmarea întrunirii cvorum-
+ului necesar pentru desfășurarea ședinței. Cvorum-ul fiind îndeplinit a început desfășurarea ședinței.
+2
+Domnul  președinte  Cătălin  Drulă  a  supus  la  vot  aprobarea  ordinii  de  zi.  Nefiind  observații  sau
+propuneri din partea membrilor comisiei cu privire la structura ordinii de zi, aceasta a fost aprobată în
+unanimitate.
+La primul punct al ordinii de zi (PLx 105/2022), domnul președinte Cătălin Drulă a prezentat
+obiectul de reglementare și parcursul legislativ al proiectului de Lege. Președintele comisiei a oferit
+cuvântul domnului Ion Popa, secretar de stat în cadrul Ministerului Transporturilor și Infrastructurii în
+vederea expunerii punctului de vedere al Guvernului cu privire la proiectul de lege dezbătut. Acesta a
+exprimat un punct de vedere de sustinere a proiectului de Lege în forma adoptată de Senat, enumerând
+o serie de argumente în favoarea acestuia.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor · text nativ (continuare 5)
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+În continuare, domnul președinte Cătălin Drulă a dat cuvântul domnului deputat Vasilică Toma
+care  a  solicitat  o  diferențiere  clară  în  textul  proiectului  de  Lege  între  termenii  “compensare”  și
+“subvenție”,  întrucât  subvenția  se  acordă  persoanelor  (călătorilor),  iar  compensarea  se  acordă
+operatorilor  de  transport.  În  acest  sens  și-a  exprimat  dorința  de  a  depune  un  amendament  care  să
+reglementeze  clar  diferența  între  cei  2  termeni  amintiți,  acesta  fiind  supus  dezbaterii  și  votului
+membrilor comisie. Pentru a clarifica oportunitatea amendamentului propus a luat cuvântul doamna
+Vali Baciu, director general în cadrul Ministerului Dezvoltării, Lucrărilor Publice și Administrației,
+care a declarat că observația este corectă și amendamentul poate fi formulat în acest sens, menționând
+care sunt articolele vizate de modificarea propusă de domnul deputat Vasilică Toma.
+În consecință, domnul președinte Cătălin Drulă a supus la vot amendamentul depus de Grupul
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor · text nativ (continuare 6)
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+Parlamentar PSD, rezultatul votului fiind de unanimitate pentru admiterea acestuia.
+În continuare, domnul președinte a supus la vot un raport de adoptare a proiectului de Lege, cu
+amendamente admise, rezultatul votului fiind de unanimitate pentru.
+La  al  doilea  punct  al  ordinii  de  zi  (PLx  460/2023),  domnul  președinte  Cătălin  Drulă  a
+prezentat obiectul de reglementare și parcursul legislativ al proiectului de Lege. Președintele comisiei
+a menționat că sunt depuse o serie de amendamente la acest proiect de lege, de către domnul deputat
+Adrian  Wiener  (USR).  Ulterior,  a  oferit  cuvântul  doamnului  Ion  Popa,  secretar  de  stat  în  cadrul
+Ministerului Transporturilor șiInfrastructurii în vederea expunerii punctului de vedere al Guvernului
+cu privire la proiectul de Lege dezbătut. Acesta a declarat că Guvernul nu susține primul amendament
+propus la art.1, alin.1 din proiectul de Lege, dar le susține pe celelalte care au fost propuse.
+3
+Domnul  președinte  l-a  invitat  pe  domnul  deputat  Adrian  Wiener  din  partea  Grupului
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor · text nativ (continuare 7)
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+Parlamentar  USR,  să  prezinte  amendamentele,  în  calitate  de  autor  al  acestora.  Acesta  a  dorit  să
+sublineze că în ceea ce privește art.1, alin1 din proiectul de Lege transferul unităților spitalicești de la
+Ministerul  Transporturilor  și  Infrastructurii  ar trebui  să contribuie la o infrastructura deja  existentă,
+deoarece există spitale județene care au deficit de spațiu și de personal, care știu să folosească optim
+infrastructura. Astfel, a adăugat că în virtutea pricipiului descentralizării, decizia trebuie să fie cât mai
+apropiată de nevoile votanților, de decidentul local, iar transferul spitalelor sau policlinicilor trebuie
+făcut către unitățile administrativ-teritoriale, cu drept de preempțiune, acestea având deja în gestiune
+spitale  și  au  cunoștințe  de  management  spitalicesc,  au  strategii  locale  care  pot  integra  ușor  noile
+structuri. Tot referitor la amendamentul depus a mai dorit să sublinieze obligativitatea de a nu schimba
+destinația în urma transferului și, ca ultim punct, adaugarea în lista criteriilor de selecție a unui plan de
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor · text nativ (continuare 8)
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+investiții și de dezvoltare.
+Domnul deputat Andrei Alexandru a intervenit și a solicitat punctul de vedere al Guvernului
+referitor la nesusținerea  amendamentului  privind dreptul de  preempțiune  al unităților administrativ-
+teritoriale  la  preluarea  unităților  sanitare.  Domnul  Ion  Popa,  secretar  de  stat  în  cadrul  Ministerului
+Transporturilor și Infrastructurii a declarat că au fost deja stabilite criteriile și adăugarea dreptului de
+preempțiune nu este agreat nici de minister și nici de Secretariatul General al Guvernului.
+Domnul președinte Cătălin Drulă a intervenit și a dorit să dea citire listei cu entitățile care pot
+prelua unitățile spitalicești, conform proiectului de lege, respectiv:
+•  Ministerul Apărării Naționale;
+•  Ministerul Afacerilor Interne;
+•  Ministerul Justiției;
+•  Ministerul Transporturilor și Infrastructurii;
+•  Serviciul Român de Informații;
+•  Serviciul de Informații Externe;
+•  Serviciul de Telecomunicații Speciale;
+•  Academia Română;
+•  Autoritățile Administrației Publice Locale;
+•  Universități de Medicină și Farmacie acreditate.
+4
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor · text nativ (continuare 9)
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+Doamna  deputat  Rodica  Paraschiv  a  dorit  să  adauge  o  observație,  menționând  că  demersul
+transferului nu privește în niciun fel principiul descentralizării. A adăugat că atât timp cât o unitate
+sanitară poate fi preluată de un alt minister, nu se discută despre descentralizare, motiv pentru care
+termenul “descentralizare” nu apare în textul ordonanței.
+Domnul deputat Mircea Banias a luat cuvântul și a declarat faptul că introducerea dreptului de
+preempțiune prin amendamentul depus nu înseamnă că restul criteriilor nu trebuie satisfacute și faptul
+că unele entități au drept de preempțiune nu semnifică o scutire de la îndeplinirea restului criteriilor.
+În continuare, domnul președinte Cătălin Drulă a supus la vot amendamentul privind dreptul la
+preempțiune, rezultatul fiind de 5 voturi împotrivă, 6 abțineri și 6 voturi pentru,  amendamentul fiind
+respins.
+Ulterior,    domnul  președinte  Cătălin  Drulă  a  supus  la  vot  celelalte  două  amendamente
+(neschimbarea destinației și existența unui plan de investiții), ambele fiind adoptate cu unanimitate de
+voturi.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor · text nativ (continuare 10)
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+Domnul președinte Cătălin Drulă a continuat prezidarea dezbaterilor supunând la vot un raport
+preliminar  de  adoptare  cu  1  amendament  respins  și  2  amendamente  admise,  rezultatul  fiind  de
+unanimitate pentru.
+La  al  treilea  punct  al  ordinii  de  zi  (PLx  462/2023),  domnul  președinte  Cătălin  Drulă  a
+prezentat obiectul de reglementare și parcursul legislativ al proiectului de Lege. Președintele comisiei
+a oferit cuvântul domnei Iulia Hertzog, director în cadrul Ministerul Dezvoltării, Lucrărilor Publice și
+Administrației  în  vederea  expunerii  punctului  de  vedere  cu  privire  la  proiectul  de  Lege  dezbătut.
+Aceasta  a  subliniat  importanța  aprobării  proiectului  de  Lege  pentru  gestionarea  programului  de
+cooperare  teritorială  europeană  în  exercițiul  de  programare  2021-2027  și  faptul  că  ar  permite
+consolidarea cadrului de implementare pentru asigurarea gestionării eficiente a programelor și alinierea
+la noile dispoziții impuse de Regulamentul nr. 1059, art.46, alin. 3 si 8.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor · text nativ (continuare 11)
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+În  continuare, domnul președinte a propus supunerea la vot  a unui  aviz favorabil, rezultatul
+votului fiind de unanimitate pentru adoptare.
+La  al  patrulea  punct  al  ordinii  de  zi  (PLx  468/2023),  domnul  președinte  Cătălin  Drulă  a
+prezentat  obiectul  de  reglementare  și  parcursul  legislativ  al  proiectului  de  Lege.  Având  în  vedere
+absența  reprezentanților  Ministerului  Dezvoltării,  Lucrărilor  Publice  și  Administrației,  domnul
+5
+președinte a propus supunerea la vot a amânării dezbaterii proiectului de Lege, rezultatul votului fiind
+de unanimitate pentru amânare.
+La  al  cincilea  punct  al  ordinii  de  zi  (PLx  473/2023),  domnul  președinte  Cătălin  Drulă  a
+prezentat obiectul de reglementare și parcursul legislativ al proiectului de Lege. În continuare, domnul
+președinte a propus supunerea la vot a unui aviz favorabil, rezultatul votului fiind de unanimitate pentru
+adoptare.
+Nemaifiind alte înscrieri la cuvânt și nici subiecte pe ordinea de zi a ședinței, domnul președinte
+Cătălin Drulă a declarat ședința închisă.
+PREȘEDINTE,
+Catalin DRULĂ
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-09-13 · sinteza lucrărilor · text nativ (continuare 12)
+<!-- memorie {"tip": "sedinta", "meeting_id": 196, "raw_page_id": 2597, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0913.pdf"} -->
+SECRETAR,
+Zacharie Benedek
+Anca Lazăr, consilier
+6

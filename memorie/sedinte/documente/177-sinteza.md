@@ -1,0 +1,360 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+Tel. 021.414.1238 e-mail cp26@cdep.ro
+Data: 15.02.2023
+Nr. 4c-4/52/
+PROCES-VERBAL
+al lucrărilor ședinței Comisiei pentru transporturi și infrastructură
+din ziua de 15 februarie 2023
+Comisia pentru transporturi și infrastructură și-a desfășurat lucrările ședinței în data de
+15 februarie 2023.
+                 La lucrările comisiei au participat, în calitate de invitați, din partea:
+➢  Ministerului  Transporturilor  și  Infrastructurii:  domnul  Gabor  Sandor,  secretar  de
+stat, doamna Mariana Ioniță, secretar general, domnul Urtoi Cătălin, domnul Alban
+Marius, consilier;
+➢  Autorității Rutiere Române: domnul Lucian Lambru, director;
+➢  Companiei  Naționale  de  Administrare  a  Infrastructurii  Rutiere:  domnul  Ion
+Cupanache,  șef  departament,  domnul  Krall  Mazilu  Ion,  șef  departament,  Ștefan
+1
+Victor Cristian, șef department, domnul Horia Nicolae, șef departament și doamna
+Palii Raluca, șef serviciu;
+➢   Registrului Auto Român: domnul Uță Cristian, șef serviciu.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+➢  Consiliului  Concurenței:  domnul  domnul  Eugen  Șusu,  secretar  general,  Daniel
+Anghel, șef serviciu și doamna Nicoleta Petre, inspector de concurență;
+➢  Ministerului Mediului, Apelor și Pădurilor; domnul Danuț Iacob, director;
+➢  Ministerului  Afacerilor  Interne:  domnul  Adrian  Voican,  secretar  de  stat,  domnul
+Florentin Brăcea, director general, DGPCÎ,  domnul  Alexandru Popa,  șef  serviciu,
+Inspectoratul General al Poliției Române;
+➢  Ministerului  Energiei:  doamna  Daia  Miruna  Veronica,  director,  doamna  Lenuța
+Andreea Radu, consilier.
+➢  Federației Operatorilor Români de Transport (FORT): domnul Augustin Hagiu,
+➢  Confederația  Operatorilor  și  Transportatorilor  Autorizați  din  România  (COTAR):
+domnul  Vasile  Ștefănescu,  președinte,  domnul  Cobrescu  Ilie,  vicepreședinte  și
+domnul Oțet Gabriel, vicepreședinte;
+➢   Asociației Victimelor Accidentelor de Circulație (AVAC): domnul Cătălin Codescu
+și domnul Nicu Crăcea;
+➢  Confederației  Patronale  Concordia:  doamna  Roxana  Ilie  și  doamna  Andreea
+Zalomiri;
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+➢  Patronatul  Operatorilor  de  Service  Auto  (POSA):  domnul  Dan  Barbu,  domnul
+Georgian Gheorghe și domnul Alexandru Solomon;
+➢  FlixBus România: domnul Adrian Rasoiu și domnul Radu Pop;
+➢  Asociației Operatorilor de Transport Suceava: domnul Beniamin Lucescu;
+➢  SC Continental Fast Line SRL: domnul Mircea Fartais.
+La ședința organizată în data de 15 februarie 2023 și-au înregistrat prezența următorii
+deputați:  Cătălin  Drulă  (USR),  Mircea  Marius  Banias  (PNL),  Marian  Mina  (PSD),  Mircea
+Florin (PSD), Amet Varol (Minorități), Benedek Zacharie (UDMR), Laurențiu-Daniel Marin
+2
+(PSD), Emil Florin Albotă (PSD), Marian Crușoveanu (PNL), Cornel-Vasile Folescu (PSD),
+Cristian-Paul  Ichim  (Neafiliați),  Ion-Marian  Lazăr  (USR),  Ștefan  Iulian  Lőrincz  (USR),
+Dumitru-Lucian  Lungoci  (PSD),  Lucian-Florin  Pușcașu  (AUR),  Cristina  Camelia  Rizea
+(Neafiliați),  Ștefan-Bucur  Stoica  (PNL),  Ciprian-Constantin  Șerban  (PSD),  George  Șișcu
+(PNL), Vasilică Toma (PSD).
+Înlocuitori: domnul deputat Bîlcea Ovidiu-Sergiu a participat în locul domnului deputat
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+Lucian  Nicolae  Bode  (PNL),  domnul  Toader  Bogdan  Andrei  a  participat  în  locul  doamnei
+deputat Rodica Paraschiv (PSD).
+Lucrările  ședinței  au  fost  conduse  de  președintele  comisiei,  domnul  deputat  Cătălin
+Drulă.
+Pe ordinea de zi a ședinței au figurat următoarele puncte:
+1. PLx 783/2022 - Proiect de Lege privind accesul titularilor permisului de conducere la
+istoricul sancțiunilor privind regimul circulației pe drumurile publice (dezbatere pe fond);
+2. Plx 224/2022 - Proiect de Lege privind aprobarea Ordonanței de urgențã a Guvernului
+nr.26/2022 pentru modificarea și completarea unor acte normative în domeniul investițiilor
+publice (dezbatere pe fond);
+3. Plx 85/2022 - Proiect de Lege privind registrul electronic al istoricului vehiculelor rutiere
+înmatriculate sau înregistrate în România (dezbatere pe fond);
+4. Plx 12/2023 - Proiect de Lege pentru modificarea și completarea Ordonanței Guvernului
+nr.27/2011 privind transporturile rutiere (dezbatere pe fond);
+5.  Plx  125/2022  -  Proiect  de  Lege  privind  aprobarea  Ordonanței  Guvernului  nr.12/2022
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 5)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+pentru modificarea și completarea unor acte normative din domeniul transporturilor rutiere
+(dezbatere pe fond);
+6.  Plx  622/2022  -  Proiect  de  Lege  pentru  aprobarea  Ordonanței  Guvernului  nr.27/2022
+privind reglementarea unor măsuri financiare prin instituirea schemei de ajutor de minimis
+în vederea tranziției către economia circulară (dezbatere în vederea avizării);
+3
+7. Plx 522/2022 - Proiect de Lege privind aprobarea Ordonanței de urgențã a Guvernului
+nr.97/2022  pentru  modificarea  și  completarea  Ordonanței  de  urgență  a  Guvernului
+nr.66/2011 privind prevenirea, constatarea și sancționarea neregulilor apărute în obținerea
+și  utilizarea  fondurilor  europene  și/sau  a  fondurilor  publice  naționale  aferente  acestora
+(dezbatere în vederea avizării);
+8.  COM(2022)652  -  COMUNICARE  A  COMISIEI  CĂTRE  PARLAMENTUL
+EUROPEAN,  CONSILIU,  COMITETUL  ECONOMIC  ȘI  SOCIAL  EUROPEAN  ȘI
+COMITETUL REGIUNILOR „Strategia 2.0 privind dronele pentru un ecosistem inteligent
+și durabil al aeronavelor fără pilot la bord în Europa”;
+9. Diverse.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 6)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+La  începutul  ședinței,  domnul  președinte  Cătălin  Drulă  a  solicitat  dnului  Benedek
+Zacharie,  secretar  al  Comisiei  pentru  transporturi  și  infratsructură,  confirmarea  întrunirii
+cvorum-ului  necesar  pentru  desfășurarea  ședinței.  Cvorum-ul  fiind  îndeplinit  a  început
+desfășurarea ședinței.
+Domnul președinte Cătălin Drulă a supus la vot aprobarea ordinii de zi. Nefiind observații
+sau propuneri din partea membrilor comisiei cu privire la structura ordinii de zi, aceasta a fost
+aprobată cu unanimitate de voturi.
+La  începutul  ședinței,  în  conformitate  cu  prevederile  art.  46  alin.  (6)  și  (11)  din
+Regulamentul  Camerei  Deputaților,  republicat,  cu  modificările  și  completările  ulterioare,
+președintele comisiei, domnul Cătălin Drulă a propus membrilor Comisiei pentru transporturi
+și  infrastructură    supunerea  la  vot  a  înlocuirii  dnului  Lazăr  Ion-Marian,  Grup  Parlamentar
+Uniunea  Salvați  România  (USR)  cu  domnul  deputat  Mircea  Florin,  potrivit  nominalizării
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 7)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+transmisă de Grupul Parlamentar al Partidului Social Democrat  (PSD), înregistrată la nivelul
+Comisiei pentru transporturi și infrastructură cu nr. 4c-4/13/2023.
+4
+Membrii comisiei au votat cu unanimitate de voturi pentru înlocuirea domnului
+deputat Lazăr Ion-Marian cu dnul Mircea Florin în funcția de vicepreședinte al Comisiei
+pentru transporturi și infrastructură.
+De  asemenea,  domnul  Cătălin  Drulă,  președintele  comisiei,  a  propus  membrilor
+Comisiei  pentru  transporturi  și  infrastructură    supunerea  la  vot  a  propunerii  Grupului
+Parlamentar  al  Partidului  Social  Democrat    (PSD),  înregistrată  la  nivelul  Comisiei  pentru
+transporturi și infrastructură cu nr. 4c-4/45/2023, de înlocuire a domnului deputat Vasile Toma
+din funcția de secretar, cu domnul deputat Marin Laurențiu-Daniel.
+Membrii comisiei au votat cu unanimitate de voturi pentru înlocuirea domnului
+deputat Vasile Toma cu dnul Marin Laurențiu-Daniel în funcția de secretar al Comisiei
+pentru transporturi și infrastructură.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 8)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+La primul punct al ordinii de zi (PLx 783/2022), domnul președinte Cătălin Drulă a
+prezentat obiectul de reglementare și parcursul legislativ al  proiectului de lege. Președintele
+comisiei  a  oferit  cuvântul  domnului  Adrian  Voican,  secretar  de  stat  în  cadrul  Ministerului
+Afacerilor  Interne,  în  vederea  expunerii  punctului  de  vedere  al  Guvernului  cu  privire  la
+proiectul de lege dezbătut.
+Dnul secretar de stat Adrian Voican a menționat faptul că Guvernul nu susține adoptarea
+propunerii  legislative  având  în  vedere  că  potrivit  Legii  nr.  385/2022  pentru  modificarea  si
+completarea  O.U.G.  nr  195/2002,  privind  circulatia  pe  drumurile  publice,  publicată  în
+Monitorul Oficial al României, titularul permisului de conducere are dreptul să obțină istoricul
+sancțiunilor prin una dintre următoarele modalități:
+➢  de pe site-ul Inspectoratului General al Poliției Române sau
+➢  de la orice structură a Poliției Rutiere.
+Acesta  a  declarat  faptul  că,  potrivit  aceluiași  act  normativ,  în  termen  de  90  de  zile  de  la
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 9)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+publicarea legii în Monitorul Oficial al României, Inspectoratul General al Poliției Române are
+obligația  creării  pe  un  site  propriu  a  unei  pagini  speciale  privind  istoricul  sancțiunilor.  În
+5
+concluzie,  a  subliniat  că  propunerile  incluse  în  propunerea  legislativă  supusă  dezbaterii  se
+regăsește în Legea nr. 385/2022, menționată anterior.
+Domnul președinte Cătălin Drulă a propus membrilor comisiei votarea unui raport de
+respingere a proiectului de lege. Rezultatul votului a fost de 5 voturi împotrivă, 2 abțineri și 15
+voturi pentru, fiind adoptat un raport preliminar de respingere a proiectului de Lege privind
+accesul titularilor permisului de conducere la istoricul sancțiunilor privind regimul circulației
+pe drumurile publice, cu amendamente respinse.
+La punctul doi al ordinii de zi (PLx 224/2022), președintele comisiei Cătălin Drulă a
+prezentat obiectul de reglementare și parcursul legislativ ale actului normativ.
+Președintele comisiei a oferit cuvântul domnului Gabor Sandor, secretar de stat în cadrul
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 10)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+Ministerului  Transporturilor  și  Infrastructurii,  în  vederea  expunerii  punctului  de  vedere  al
+Guvernului cu privire la proiectul de lege dezbătut.
+Domnul secretar de stat Gabor Sandor a menționat faptul că Ministerul Transporturilor
+și Infrastructurii susține proiectul de act normativ împreună cu amendamentele aprobate deja
+la nivelul Comisiei pentru Industrii și Servicii.
+Domnul președinte Cătălin Drulă a propus membrilor comisiei votarea unui raport de
+adoptare  a  proiectului  de  lege.  Votul  a  fost  de  21  de  voturi  pentru  și  1  abtinere  în  sensul
+transmiterii  unui  raport  preliminar  de  adoptare  a  proiectului  de  Lege  privind  aprobarea
+Ordonanței de urgențã a Guvernului nr.26/2021 pentru modificarea și completarea unor acte
+normative în domeniul investițiilor publice cu amendamente admise și amendamente respinse.
+La  punctul  trei  al  ordinii  de  zi  (PLx  85/2022),  domnul  președinte  Cătălin  Drulă  a
+prezentat obiectul de reglementare al actului normativ și parcursul său legislativ.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 11)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+Președintele comisiei a oferit cuvântul domnului Gabor Sandor, secretar de stat în cadrul
+Ministerului  Transporturilor  și  Infrastructurii,  în  vederea  expunerii  punctului  de  vedere  al
+Guvernului cu privire la proiectul de lege dezbătut.
+6
+Domnul secretar de stat Gabor Sandor a prezentat principalele prevederi ale initiațivei
+legislative și a menționând că Guvernul susține proiectul de lege în forma adoptată de Senat,
+împreună cu amendamentele cuprinse în punctul de vedere transmis de Guvern.
+Președintele  comisiei  a  oferit  cuvântul  domnului  Adrian  Voican,  secretar  de  stat  în
+cadrul Ministerului Afacerilor Interne, în vederea expunerii punctului de vedere al instituției
+pe  care  o  reprezintă  cu  privire  la  proiectul  de  lege  dezbătut.  Acesta  a  confirmat  susținerea
+formei legislative adoptată de Senat împreuna cu amendamentele transmise de Guvern.
+În continuare, președintele comisiei a oferit cuvantul domnului Dan Barbu, reprezentant
+al Patronatului Operatorilor de Service Auto, care a declarat că proiectul este oportun și trebuie
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 12)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+implementat,  dar  cu  câteva  amendamente.  În  primul  rând  a  subliniat  necesitatea  de  a  fi
+identificată  o  soluție  pentru  ca  toate  autovehiculele  să  fie  reparate  în  service-uri  autorizate,
+momentan estimând că doar 35% din reparații sunt făcute în cadrul acestora.
+Domnul deputat Marian-Ion Lazăr a intervenit și a întrebat invitatul dacă, în cazul în
+care un autovehicul ajunge pentru reparații la un service autorizat și se înlocuiește o piesă cu
+altă  piesă  la  mâna  a  doua,  această  intervenție  mai  este  una  autorizată  sau  nu.  Domnul  Dan
+Barbu a confirmat că reparatția este considerată autorizată chiar și în aceste condiții.
+Domnul  președinte  Cătălin  Drulă  a  invitat  membrii  comisiei  să  fie  parcursă  lista
+amendamentelor propuse de Guvern pentru acest proiect de lege. Au fost menționate punctual
+fiecare  amendament.  Nu  au  existat  observații  cu  privire  la  acestea,  fiind  adoptate  în
+unanimitate.
+Domnul președinte Cătălin Drulă a propus membrilor comisiei unanimitate de voturi,
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 13)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+transmiterea  unui  raport  preliminar  de  adoptare  a  proiectului  de  Lege  privind  registrul
+electronic  al  istoricului  vehiculelor  rutiere  înmatriculate  sau  înregistrate  în  România  cu
+amendamente admise și amendamente respinse.
+La punctul patru de pe ordinea de zi (Plx 12/2023), președintele comisiei a prezentat
+proiectul de lege, menționând că Consiliul Concurenței a avut deja un punct de vedere negativ
+asupra proiectului.
+7
+Domnul  președinte  Cătălin  Drulă  a  dat  cuvântul  în  continuare  domnului  Eugen  Sușu
+secretar general, Consiliul Concurenței care a declarat faptul că în ceea ce privește licențele de
+transport interjudețene pentru persoane au fost făcute solicitări pe parcursul timpului în vederea
+stopării prelungirii acestora, toate acestea fiind în interesul călătorilor. Acesta a menționat că
+regulile concurenței se pot manifesta doar la momentul în care piața este deschisă, procedurile
+sunt  transparente  și  nediscriminatorii,  actorii  care  participă  în  piață  au  condiții  egale,
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 14)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+nediscriminatorii, proporționale cu obiectivul urmărit, obiectivul fiind asigurarea serviciilor de
+transport la nivel național în condiții de confort și de eficiență economică.
+Pentru a exprima punctul de vedere al Guvernului, domnul presședinte Cătălin Drulă l-
+a  invitat  să  ia  cuvântul  pe  domnul  Gabor  Sandor,  secretar  de  stat  în  cadrul  Ministerului
+Transporturilor și Infrastructurii.
+Domnul Gabor Sandor a menționat că proiectul de act normativ care a fost elaborat în
+urma  consultărilor,  inclusiv  cu  patronatele  și  care  au  vizat  clarificarea  tuturor  aspectelor  de
+ordin  procedural  și  de  fezabilitate  pentru  a  nu  bloca  acest  serviciu.  A  subliniat  că  proiectul
+reprezintă o soluție care respectă exigențele curente ale pieței și în același timp nu bulversează
+piața  transportului  rutier  în  materie.  Având  în  vedere  aspectele  menționate,  a  comunicat  că
+Guvernul susține forma proiectului adoptată de Senat.
+Domnul  președinte  Cătălin  Drulă  a  oferit  în  continuare  posibilitatea  invitaților  să  își
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 15)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+exprime punctele de vedere în legatură cu proiectul de lege aflat în dezbatere,  astfel:
+➢  domnul  Augustin  Hagiu,  reprezentant  al  Federatiei  Operatorilor  Romani  de
+Transport (FORT) a declarat că susține proiectul de lege.
+➢  domnul Adrian Rasoiu, reprezentantul din partea Flixbus Romania a declarat că
+susține liberalizarea pieței și a solicitat să fie luate în considerare amendamentele
+depuse, care susțin acest aspect.
+➢  doamna  Roxana  Ilie,  reprezentant  al  Confederației  Patronale  Concordia  a
+declarat ca asociația pe care o reprezintă dorește ca forma actuală a proiectului
+de  lege  să  țină  cont  de  amendamenetele  depuse  de  ei,  care  prin  adoptare  vor
+elimina clauzele de neconcurență din proiectul inițial.
+8
+➢  domnul  Beniamin  Lucescu,  reprezentant  al  Asociației  Transportatorilor  din
+Suceva,  a  declarat  că  susține  proiectul  în  forma  adoptată  de  Senat,  dar  cu  un
+amendament, depus de aceștia, care se referă la eliminarea celor 60 de minute
+diferență, specificare pentru stațiile intermediare de pe traseu.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 16)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+➢  domnul  Mircea  Fartais,  reprezentant  al  Continental  Fast  Line,  a  declarat  că
+susține proiectul de lege în forma actuală.
+➢  domnul  Cobrescu
+Ilie,
+reprezentant  al  Confederației  Operatorilor  și
+Transportatorilor  Autorizați  din  România  (COTAR)  a  menționat  că  susține
+proiectul de lege în forma adoptată de Senat.
+În  vederea  susținerii  amendamentelor  depuse,  domnul  președinte  Cătălin Drulă  a  dat
+cuvantul în continuare domnului deputat Cristian Ichim (Neafiliați).
+Domnul Cristian Ichim și-a început discursul menționând că în realitate discutțile sunt
+despre monopol și faptul că se încearcă prelungirea actualelor licențe de transport persoane. În
+plus, a susținut că există firme de transport care dețin trasee de peste 30 ani de zile, timp în care
+nu a crescut calitatea transportului de persoane. O piață concurențiala presupune licitații la care
+participă mai multe firme, pe principii de competiție.
+Domnul  deputat  Toma  Vasilica  (PSD)  a  subliniat  că  în  ceea  ce  privește  calitatea
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 17)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+serviciilor de transport, media vechimii mijloacelor de transport este asemănătoare cu cea din
+Europa, aceasta fiind de 12 ani. În context european, proiectul de lege aflat în discuție este unul
+inspirat din legislatia altor țări, mai exact din modelul aplicat în Italia, cu mențiunea că perioada
+de tranziție aleasă în  România a fost de 3 ani, versus 5 ani  în Italia. În privința liberalizarii
+pieței transporturtului de călători,  domnul deputat Toma Vasilica a subliniat că în România
+este  necesară  o  deschidere  a  pieței  într-o  formă  reglementată  care  să  asigure  pe  de  o  parte
+accesibilitatea călătorilor pe toate rutele din România, și pe de altă parte de a coagula piața, de
+a evita falimentele companiilor de transport. A mai adaugat ca în cazul unei deschideri integrale
+a pieței fără nicio reglementare, toate firmele existente vor solicita licențe doar pentru traseele
+care sunt profitabile, acestea reprezentând doar 25%-30% din traseele existente, restul traseelor
+neprofitabile fiind evitate de companiile de transport.
+9
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 18)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+Domnul  președinte  Cătălin Drulă  a  continuat  prin  exprimarea  punctului  de  vedere  al
+grupului parlamentar USR, susținând că acesta este împotriva proiectului de lege, un proiect
+care  perpetuează  situația  actuală,  operatorii  vechi  urmând  să-și  păstreze  traseele,  licențele
+transformându-se  doar  în  autorizații  și  în  realitate  este  o  lege  care  își  propune  conservarea
+monopolul deja existent pe rutele profitabile. Companiile nefiind supuse unor reglementări de
+calitate sau de concurență, cei care suferă sunt cetățenii.
+Domnul  președinte  Cătălin  Drulă  a  supus  la  vot  amendamentele  depuse  de  domnul
+deputat  Cristian  Ichim  și  rezultatul  a  fost  de  5  voturi  pentru,  1  abținere  și  14  împotrivă,
+amendamentele fiind respinse.
+În continuare a fost supus la vot setul de amendamente depuse de domnul deputat Toma
+Vasilică, rezultatul fiind de 7 voturi împotrivă și 13 pentru, amendamentele fiind admise.
+În urma votului exprimat (5 voturi impotriva, 1 abtinere si 14 voturi pentru), s-a decis
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 19)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+transmiterea  unui  raport  preliminar  de  adoptare  a  proiectului  de  Lege  pentru  modificarea  și
+completarea Ordonanței Guvernului nr.27/2011 privind transporturile rutiere cu amendamente
+admise și amendamente respinse.
+La punctul cinci de pe ordinea de zi (Plx 125/2022) președintele comisiei a prezentat
+obiectul de reglementare și parcursul legislativ ale actului normativ.
+Președintele comisiei a oferit cuvântul domnului Gabor Sandor, secretar de stat în cadrul
+Ministerului  Transporturilor  și  Infrastructurii,  în  vederea  expunerii  punctului  de  vedere  al
+Guvernului cu privire la proiectul de lege dezbătut.
+Domnul Gabor Sandor a menționat că O.G. 12/2022 transpune o serie de directive și
+regulamente  europene  modificate,  denumite  generic  pachetul  de  mobilitate,  actul  normativ
+intervenind în sensul reglementărilor în vigoare. A solicitat scoaterea amendamentului referitor
+la microbuzele școlare, întrucât acest aspect este deja reglementat prin O.U.G. nr. 136/2022,
+declarând că Guvernul susține actul normativ în forma adoptată de Senat.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 20)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+În continuare a fost supus la vot:
+10
+➢  setul de amendamente depus de dnul deputat Zacharie Benedek, rezultatul fiind
+dupa cum urmează:
+✓
+✓
+✓
+amendament 1: 19 abțineri și 1 vot pentru;
+amendament 2: 19 abțineri și 1 vot pentru;
+amendament 3: 11 abțineri și 9 voturi pentru.
+➢  amendamentul  depus  de  domnul  deputat  Vasilică  Toma,  rezultatul  fiind  de  7
+abțineri și 13 voturi pentru, amendamentul fiind admis.
+Domnul  președinte  Cătălin  Drulă  a  supus  la  vot  un  raportul  de  adoptare,
+rezultatul fiind de 1 vot împotrivă, 3 abțineri și 16 voturi pentru, fiind decisă astfel transmiterea
+unui  raport  preliminar  de  adoptare  a  proiectului  de  Lege  privind  aprobarea  Ordonanței
+Guvernului nr.12/2022 pentru modificarea și completarea unor acte normative din domeniul
+transporturilor rutiere cu amendamente admise și amendamente respinse.
+În  final  s-a  votat  cu  unanimitate  de  voturi  amânarea  urmatoarelor  puncte  aflate  pe
+ordinea de zi, respectiv: punctul 6. - PLx nr 622/2022, punctul 7. - PLx522/2022 și punctul 8.
+- COM (2022)652.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-02-15 · sinteza lucrărilor · text nativ (continuare 21)
+<!-- memorie {"tip": "sedinta", "meeting_id": 177, "raw_page_id": 2687, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0215.pdf"} -->
+Nemaifiind alte înscrieri la cuvânt și nici alte subiecte aflate pe ordinea de zi a ședinței,
+domnul președinte Cătălin Drulă a declarat ședința închisă.
+PREȘEDINTE,
+Cătălin Drulă
+SECRETAR,
+Zacharie Benedek
+11
+Anca Lazăr, consilier
+12

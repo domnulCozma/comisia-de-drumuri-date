@@ -1,0 +1,122 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2025-03-11 · sinteza lucrărilor
+<!-- memorie {"tip": "sedinta", "meeting_id": 125, "raw_page_id": 1874, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz031011.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/comisii/transport/pdf/2025/sz031011.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-03-11 · sinteza lucrărilor · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 125, "raw_page_id": 1874, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz031011.pdf"} -->
+Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+Tel:021.316.0337 E-mail: cp26@cdep.ro
+Data: 12.03.2025
+4c-4/51/2025
+SINTEZA LUCRĂRILOR COMISIEI
+din perioada 10 -13 martie 2025
+Comisia pentru transporturi și infrastructură și-a desfășurat lucrările ședinței
+în data de 11 martie 2025, cu prezență fizică și online.
+Lucrările ședinței din data de 11 martie a.c., au fost conduse de domnul
+deputat Lucian-Nicolae Bode, președinte al Comisiei pentru transporturi și
+infrastructură.
+La lucrările ședinței au participat în calitate de invitați:
+- domnul Bunduc Gabriel- secretar de stat, Ministerul Transporturilor și
+Infrastructurii;
+- domnul Mașala Ionuț- director economic, Compania Națională de
+Administrare a Infrastructurii Rutiere;
+Pe ordinea de zi a ședinței au figurat următoarele puncte:
+1. PLx 439/2019- Proiect de Lege pentru constituirea și utilizarea Fondului
+special al autostrăzilor;
+2. PLx 556/2023- Proiect de Lege privind unele măsuri ca urmare a Deciziei
+Curții Constituționale a României nr.16/2023;
+1
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-03-11 · sinteza lucrărilor · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 125, "raw_page_id": 1874, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz031011.pdf"} -->
+3.  Plx 224/2023- Propunere legislativă pentru completarea art.60 din Legea
+nr.227/2015 privind Codul fiscal;
+4.  PLx 415/2023- Proiect de Lege pentru aprobarea Ordonanței de urgențã a
+Guvernului nr.34/2023 privind unele măsuri fiscal-bugetare, prorogarea unor
+termene, precum și pentru modificarea și completarea unor acte normative;
+5.  Plx  430/2023-  Propunere  legislativă  pentru  modificarea  și  completarea
+Ordonanței privind stabilirea unor normative de cheltuieli pentru autoritățile
+administrației publice și instituțiile publice nr.80/2001;
+6.
+Diverse.
+  La punctul 1 al ordinii de zi, membrii comisiei prezenți la lucrări au hotărât,
+cu  majoritate  de  voturi, să propună  plenului Camerei  Deputaților  un  raport de
+respingere.
+  La punctul 2 al ordinii de zi, membrii comisiei prezenți la lucrări au hotărât,
+cu majoritate de voturi, să propună plenului Camerei Deputaților un raport comun
+de respingere.
+  La punctul 3 al ordinii de zi, respectiva propunere legislativă fost avizată
+| negativ, cu majoritate de voturi.   |     |     |     |     |     |
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-03-11 · sinteza lucrărilor · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 125, "raw_page_id": 1874, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz031011.pdf"} -->
+| ----------------------------------- | --- | --- | --- | --- | --- |
+  La punctul 4 al ordinii de zi, respectivul proiect de lege a fost avizat favorabil,
+| cu majoritate  de voturi.  |     |     |     |     |     |
+| -------------------------- | --- | --- | --- | --- | --- |
+  La punctul 5 al ordinii de zi, respectiva propunere legislativă a fost avizată
+| negativ, cu majoritate de voturi.   |     |     |     |     |     |
+| ----------------------------------- | --- | --- | --- | --- | --- |
+Nr.  Nume și prenume  Prezență la ședința din data de 11.03.2025
+Crt.
+| 1.  Bode Lucian Nicolae  |     |     | Prezent  |     |     |
+| ------------------------ | --- | --- | -------- | --- | --- |
+| 2.  Crușoveanu Marian    |     |     | Prezent  |     |     |
+| 3.                       |     |     | Absent   |     |     |
+Gál Károly
+| 4.  Mina Marian          |     |     | Prezent         |     |     |
+| ------------------------ | --- | --- | --------------- | --- | --- |
+| 5  Mîndrescu Nicolae     |     |     | Prezent online  |     |     |
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-03-11 · sinteza lucrărilor · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 125, "raw_page_id": 1874, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz031011.pdf"} -->
+| 6.  Groza Călin -Florin  |     |     | Prezent online  |     |     |
+| 7.  Popa Maricel         |     |     | Prezent         |     |     |
+| 8.                       |     |     | Prezent online  |     |     |
+Puscașu Petre
+| 9.  Amet Varol                 |     |     | Prezent         |     |     |
+| ------------------------------ | --- | --- | --------------- | --- | --- |
+| 10.  Andrei Alexandru-Ioan     |     |     | Prezent         |     |     |
+| 11.  Badea Nelu-Valentin       |     |     | Prezent online  |     |     |
+| 12.  Băișanu Ștefan Alexandru  |     |     | Prezent online  |     |     |
+2
+| 13.  Caragață Florin  | Prezent  |     |
+| --------------------- | -------- | --- |
+| 14.  Chirilă Virgil-Alin    | Prezent online  |     |
+| --------------------------- | --------------- | --- |
+| 15.  Cîrligea Florin-Eugen  | Absent          |     |
+| 16.                         | Prezent         |     |
+| Dolineaschi Andrei          |                 |     |
+| 17.  Drulă Cătălin          | Prezent         |     |
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-03-11 · sinteza lucrărilor · text nativ (continuare 5)
+<!-- memorie {"tip": "sedinta", "meeting_id": 125, "raw_page_id": 1874, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz031011.pdf"} -->
+| 18.  Gheorghiu Andrei – Florin  | Prezent  |     |
+| ------------------------------- | -------- | --- |
+| 19.  Hagiu Augustin-Florin  | Prezent  |     |
+| --------------------------- | -------- | --- |
+| 20.  Hristu Cosmin  | Prezent online  |     |
+| ------------------- | --------------- | --- |
+| 21.  | Prezent   |     |
+| ---- | --------- | --- |
+Mircea Florin
+| 22.  Moisin Radu-Marin  | Prezent online  |     |
+| ----------------------- | --------------- | --- |
+| 23.  Paraschivescu Ovidiu Romulus  | Prezent  |     |
+| ---------------------------------- | -------- | --- |
+| 24  Rusu Sebastian-Mihai           | Prezent  |     |
+| 25.  Samoilă Ion                   | Prezent  |     |
+| 26.                  | Prezent online  |     |
+| -------------------- | --------------- | --- |
+| Stoica Ștefan-Bucur  |                 |     |
+În zilele de 10, 12 și 13 martie a.c., comisia a desfășurat activități de documentare,
+consultare și analiză pe marginea proiectelor aflate pe agenda de lucru a comisiei.
+PREȘEDINTE, SECRETAR,
+Lucian-Nicolae BODE Maricel POPA
+
+## Ședința Comisia pentru transporturi și infrastructură din 2025-03-11 · sinteza lucrărilor · text nativ (continuare 6)
+<!-- memorie {"tip": "sedinta", "meeting_id": 125, "raw_page_id": 1874, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2025/sz031011.pdf"} -->
+Consilier parlamentar, Ruxandra Dragne
+3

@@ -1,0 +1,128 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2023-06-27 · sinteza lucrărilor
+<!-- memorie {"tip": "sedinta", "meeting_id": 195, "raw_page_id": 2598, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0627.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/comisii/transport/pdf/2023/pv0627.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-06-27 · sinteza lucrărilor · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 195, "raw_page_id": 2598, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0627.pdf"} -->
+Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+Tel. 021.414.1238 e-mail cp26@cdep.ro
+Data: 27.06.2023
+Nr. 4c-4/178
+PROCES-VERBAL
+al lucrărilor ședinței Comisiei pentru transporturi și infrastructură
+din ziua de 27 iunie 2023
+Comisia pentru transporturi și infrastructură și-a desfășurat lucrările ședinței în data de
+27 iunie 2023.
+La  ședința  organizată  în  data  de  27  iunie  2023  și-au  înregistrat  prezența  următorii
+deputați: Drulă Cătălin (USR), Andrei Alexandru-Ioan (PNL), Banias Mircea-Marius (PNL),
+Marian  Mina  (PSD),  Mircea  Florin  (PSD),  Amet  Varol  (Minorități  Naționale),  Benedek
+Zacharie  (UDMR),  Laurențiu-Daniel  Marin  (PSD),  Emil  Florin  Albotă  (PSD),  Marian
+Crușoveanu  (PNL),  Folescu  Cornel-Vasile  (PSD),  Lorincz  Stefan-Iulian  (USR),  Dumitru-
+Lucian Lungoci (PSD), Cristian-Paul Ichim (Neafiliați), Ion-Marian Lazăr (USR), Paraschiv
+1
+Rodica  (PSD),  Cristina-Camelia  Rizea  (Neafiliați),  Stoica  Ciprian-Titi  (AUR),  Șerban
+Ciprian-Constantin (PSD), George Șișcu (PNL), Toma Vasilică (PSD).
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-06-27 · sinteza lucrărilor · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 195, "raw_page_id": 2598, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0627.pdf"} -->
+Înlocuitori: domnul deputat Făgărășianu Valentin-Ilie a participat în locul domnului
+deputat  Bode  Lucian  (PNL)  și  domnul  deputat  Mărculescu  Dumitru  a  participat  în  locul
+domnului deputat Stoica Ștefan-Bucur (PNL).
+           La lucrările comisiei au participat, în calitate de invitați, din partea:
+➢  Ministerul  Transporturilor  si  Infrastructurii:  domnul  Ion  Pop,  secretar  de  stat,
+doamna Mihaela Mocanu, director , doamna Raluca Palii, șef serviciu și domnul
+Bogdan  Rădulescu,  șef  serviciu,  Compania  Națională  de  Administrare  Rutieră
+(CNAIR);
+➢  Ministerului Afacerilor Interne: domnul Adrian Petcu, subsecretar de stat și domnul
+Ciuleanu Eduard Florin, ofițer specialist Inspectoratul General al Poliției Române;
+➢  Banca de Import-Export a României Eximbank: Raluca Spaiuc, Director Directia
+Guvernanta  Corporativa  si  Secretariat  General  și  doamna  Silvia  Vlad  -  Sef
+Departament, Direcția Juridică.
+Lucrările  ședinței  au  fost  conduse  de  președintele  comisiei,  domnul  deputat  Cătălin
+Drulă.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-06-27 · sinteza lucrărilor · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 195, "raw_page_id": 2598, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0627.pdf"} -->
+Pe ordinea de zi a ședinței au figurat următoarele puncte:
+1.  PLx 683/2022 – Proiect de Lege pentru aprobarea Ordonantei de urgenta a Guvernului
+nr.132/2022 privind modificarea si completarea unor acte normative;
+2.  PLx 209/2022 – Proiect de Lege pentru modificarea art.118 alin.(4) din Ordonanta de
+urgenta nr.195/2002 privind circulatia pe drumurile publice;
+3.  PLx  456/2023  -  Proiect  de  Lege  privind  aplicarea  unor  tarife  rutiere  pe  rețeaua  de
+drumuri naționale din România.
+2
+La începutul ședinței, domnul președinte Cătălin Drulă a solicitat confirmarea întrunirii
+cvorum-ului  necesar  pentru  desfășurarea  ședinței.  Cvorum-ul  fiind  îndeplinit  a  început
+desfășurarea ședinței.
+Domnul președinte Cătălin Drulă a supus la vot aprobarea ordinii de zi. Nefiind observații
+sau propuneri din partea membrilor comisiei cu privire la structura ordinii de zi, aceasta a fost
+aprobată în unanimitate.
+La primul punct al ordinii de zi (PLx 683/2022), domnul președinte Cătălin Drulă a
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-06-27 · sinteza lucrărilor · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 195, "raw_page_id": 2598, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0627.pdf"} -->
+prezentat obiectul de reglementare și parcursul legislativ al proiectului de Lege. Președintele
+comisiei a oferit cuvântul domnei Alina Petre, director în cadrul Ministerului Finantelor, în
+vederea expunerii punctului de vedere a Guvernului cu privire la proiectul de lege dezbătut.
+Aceasta a exprimat punctul de vedere  potrivit căruia Guvernul sustine proiectul de lege în
+forma propusă.
+În continuare, domnul  președinte Cătălin Drulă a prezentat amendamentul depus de
+Grupul Parlamentar PSD care stipulează o derogare de la dispozițiile Ordonanței de urgeță a
+Guvernului  nr.  109/2011  privind  guvernanța  corporativă  a  întreprinderilor  publice  cu
+modificările și completările ulterioare, cu privire la modalitatea de  numire a consiliului de
+administrație a Eximbank SA. Doamna Alina Petre a luat cuvântul și a menționat faptul că
+Ministerul Finanțelor susține amendamentul.
+Domnul președinte Cătălin Drulă a subliniat faptul că din punctul acestuia de vedere,
+atât timp cât Ordonanța de urgeță a Guvernului nr. 109/2011 prevede limitele de remunerare,
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-06-27 · sinteza lucrărilor · text nativ (continuare 5)
+<!-- memorie {"tip": "sedinta", "meeting_id": 195, "raw_page_id": 2598, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0627.pdf"} -->
+structura  și  componența  consiliului  de  administrație,  procedura  de  selecție  a  membrilor
+consiliului de administrație, prin amendamentul depus se introduce o derogare care înseamnă,
+în fapt, neaplicarea acestui act normativ pentru  Eximbank SA.
+În consecință, domnul președinte Cătălin Drulă a supus la vot amendamentul depus de
+Grupul  Parlamentar  PSD,  rezultatul  fiind  de  respingere  a  acestuia,  cu  unanimitate  de
+voturi.
+3
+În  continuare,  domnul  președinte  a  supus  la  vot  un  raport  preliminar  de  adoptare  a
+proiectului de lege, cu amendamente admise și cu amendamente respinse, rezultatul votului
+fiind de 4 voturi împotriva și 19 voturi pentru.
+La al doilea punct al ordinii de zi (PLx 209/2022), domnul președinte Cătălin Drulă
+a prezentat obiectul de reglementare și parcursul legislativ al proiectului de Lege. Președintele
+comisiei a oferit cuvântul domnului Adrian Petcu, subsecretar de stat în cadrul Ministerului
+Afacerilor  Interne  în  vederea  expunerii  punctului  de  vedere  al  Guvernului  cu  privire  la
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-06-27 · sinteza lucrărilor · text nativ (continuare 6)
+<!-- memorie {"tip": "sedinta", "meeting_id": 195, "raw_page_id": 2598, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0627.pdf"} -->
+proiectul  de  lege  dezbătut.  Acesta  a  declarat  că  Guvernul  nu  mai  susține  această  inițiativă
+având  în  vedere  că  prevederile  propuse  prin  această  inițiativă  legislativă  sunt  deja
+reglementate prin Ordonanța Guvernului nr.1/2022.
+În continuare, domnul președinte a propus supunerea la vot a unui raport de respingere,
+rezultatul votului fiind de unanimitate de voturi pentru respingerea acestuia.
+La al treilea punct al ordinii de zi (PLx 456/2023), domnul președinte Cătălin Drulă
+a prezentat obiectul de reglementare și parcursul legislativ al proiectului de lege. Președintele
+comisiei  a  oferit  cuvântul  domnului  Ion  Popa,  secretar  de  stat  în  cadrul  Ministerului
+Transporturilor si Infrastructurii în vederea expunerii punctului de vedere al Guvernului cu
+privire la proiectul de lege dezbătut. Acesta a declarat ca Guvernul susține proiectul de lege
+în forma votată de Senatul României.
+Cu privire  la proiectul de lege dezbătut, domnul președinte Cătălin Drulă a dorit sa
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-06-27 · sinteza lucrărilor · text nativ (continuare 7)
+<!-- memorie {"tip": "sedinta", "meeting_id": 195, "raw_page_id": 2598, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv0627.pdf"} -->
+adauge faptul că o serie de instituții ale statului sunt scutite de la plata rovignetei și a taxelor
+de  drum,  neaplicandu-se  echitabil  principiul  prin  care  “poluatorul  plateste”  (ex:  CNAIR).
+Având în vedere acest aspect, domnul deputat Cătălin Drulă a menționat că USR se va abține
+de la vot.
+În continuare, domnul președinte a propus supunerea la vot a unui raport de adoptare,
+rezultatul votului fiind de 1 vot impotrivă, 4 abțineri și 17 voturi pentru.
+4
+Nemaifiind alte înscrieri la cuvânt și nici subiecte aflate pe ordinea de zi a ședinței,
+domnul președinte Cătălin Drulă a declarat ședința închisă.
+PREȘEDINTE,
+Catalin DRULĂ
+SECRETAR,
+Zacharie Benedek
+Anca Lazăr, consilier
+5

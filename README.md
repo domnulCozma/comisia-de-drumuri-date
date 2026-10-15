@@ -13,14 +13,16 @@ pentru uz oficial, consultați pagina de pe cdep.ro din care provine fiecare în
 | `raw_pages.jsonl` | Pentru fiecare fișier din `raw/`: URL-ul sursă, data descărcării, hash-ul. |
 | `markdown/` | Documentele PDF convertite în text. Cele obținute prin **OCR** au un antet care o spune: textul OCR e failibil și nu se citează ca text nativ. |
 | `db/monitor-public.db` | Baza SQLite cu datele extrase (proiecte, inițiatori, parcurs, comisii, ședințe, parlamentari). Fiecare rând derivat are `source_url` și/sau `raw_page_id`, deci duce la fișierul din `raw/`. |
+| `memorie/` | Fișe Markdown pe proiect/parlamentar/document/act/ședință, tăiate pe secțiuni — forma gata de indexat de [MemSearch](https://github.com/zilliztech/memsearch). Căutare semantică locală: `pip install "memsearch[onnx]"`, apoi indexează acest director cu propriul tău index; nu găzduim noi o căutare pe site. |
 
-Cifre la ultimul export: `bill` 1257, `person` 1393, `committee_meeting` 551, `bill_document` 14163, `raw_page` 3087.
+Cifre la ultimul export: `bill` 1262, `person` 1394, `committee_meeting` 590, `bill_document` 14275, `raw_page` 3382.
 
 ## Ce NU conține
 
-Analizele generate de model, notele și pozițiile echipei, conversațiile, identitățile și costurile
-apelurilor către model. Acelea sunt muncă privată și nu ies din stația de lucru. Temele atribuite
-de model (`method = 'llm'`) sunt scoase din `bill_topic`.
+Analizele generate de model (interpretarea AI a proiectelor), notele și pozițiile echipei,
+conversațiile, identitățile și costurile apelurilor către model. Acelea sunt muncă privată și nu
+ies din stația de lucru — inclusiv din `memorie/`, care duce doar tipurile derivate direct din
+cdep.ro. Temele atribuite de model (`method = 'llm'`) sunt scoase din `bill_topic`.
 
 ## Surse
 

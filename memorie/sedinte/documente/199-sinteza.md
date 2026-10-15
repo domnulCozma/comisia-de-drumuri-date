@@ -1,0 +1,206 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+Tel. 021.414.1238 e-mail cp26@cdep.ro
+Data: 04.10.2023
+Nr. 4c-4/223
+PROCES-VERBAL
+al lucrărilor ședinței Comisiei pentru transporturi și infrastructură
+din data de 4 octombrie 2023
+Comisia pentru transporturi și infrastructură și-a desfășurat lucrările ședinței în data de
+4 octombrie 2023.
+La ședința organizată în data de 4 octombrie 2023 și-au înregistrat prezența următorii
+deputați: Drulă Cătălin (USR), Andrei Alexandru-Ioan (PNL), Banias Mircea-Marius (PNL),
+Marian  Mina  (PSD),  Mircea  Florin  (PSD),  Amet  Varol  (Minorități  Naționale),  Benedek
+Zacharie  (UDMR),  Laurențiu-Daniel  Marin  (PSD),  Acatrinei  Dorel-Gheorghe  (AUR),  Emil
+Florin  Albotă  (PSD),  Marian  Crușoveanu  (PNL),  Folescu  Cornel-Vasile  (PSD),  Lorincz
+Stefan-Iulian (USR), Dumitru-Lucian Lungoci (PSD), Cristian-Paul Ichim (Neafiliați), Lazăr
+Ion-Marian (USR), Paraschiv Rodica (PSD), Cristina-Camelia Rizea (Neafiliați), George Șișcu
+(PNL), Toma Vasilică (PSD).
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+La lucrările comisiei au participat, în calitate de invitați, din partea:
+➢  Ministerului  Transporturilor  si  Infrastructurii:  domnul  Ion  Popa,  secretar  de  stat,
+doamna Cebanu Mirela, director, doamna Mihaela Al-Bashtawi, consilier, domnul
+Mircea  Apostol,  șef  departament  și  doamna  Oana  Cristescu,  consilier  în  cadrul
+Companiei Naționale de Administrare a Infrastructurii Rutiere (C.N.A.I.R.);
+1
+➢  Ministerului  Afacerilor  Interne:  domnul  Gheorghe  Sorescu,  subsecretar  de  stat,
+doamna Maria Dragnea, șef serviciu și  domnul Alexandru Popa, ofițer specialist,
+Inspectoratul General al Poliției Române (I.G.P.R.);
+➢  Autorității  de  Supraveghere  Financiară  (A.S.F.):  doamna  Dobrica  Simona,  șef
+serviciu, domnul Dumitrescu Dorin, specialist asigurări
+➢  Confederației  Operatorilor
+și  Transportatorilor  Autorizați  din  România
+(C.O.T.A.R.): domnul Vasile Ștefănescu și domnul Dan Minoiu;
+➢  Public Affairs Solutions: domnul Codrut Cîrligeanu, Senior Government Relations
+Associate.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+Lucrările  ședinței  au  fost  conduse  de  președintele  comisiei,  domnul  deputat  Cătălin
+Drulă.
+Pe ordinea de zi a ședinței au figurat următoarele puncte:
+1.  PLx 540/2023 – Proiect de Lege privind aprobarea Ordonanței Guvernului nr.31/2023
+pentru modificarea art.41 alin.(11) din Legea nr.10/1995 privind calitatea în construcții;
+2.  PLx 541/2023 – Proiect de Lege privind aprobarea Ordonanței Guvernului nr.37/2023
+pentru modificarea și completarea Ordonanței Guvernului nr.43/1997 privind regimul
+drumurilor;
+3.  Plx  118/2020  -  Propunere  legislativă  pentru  modificarea  și  completarea  Legii
+nr.132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii
+produse terților prin accidente de vehicule și tramvaie;
+4.  Plx 88/2022 - Propunere legislativă pentru modificarea și completarea Ordonanței de
+urgență a Guvernului nr.195/2002 privind circulația pe drumurile publice, republicată și
+pentru modificarea Legii nr.286/2009 privind Codul penal;
+5.  PLx 437/2023 - Proiect de Lege privind aprobarea Ordonanței de urgențã a Guvernului
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+nr.44/2023  pentru  stabilirea  unor  măsuri  necesare  optimizării  procesului  de
+implementare  a  proiectelor  de
+infrastructură
+finanțate  din
+fonduri  externe
+nerambursabile, precum și pentru modificarea și completarea unor acte normative;
+2
+6.  PLx 468/2023 - Proiect de Lege pentru modificarea și completarea unor acte normative
+pentru întărirea disciplinei autorizării construcțiilor;
+7.  PLx 523/2023 - Proiect de Lege privind stabilirea cadrului instituțional și a unor măsuri
+pentru punerea în aplicare a managementului gazelor fluorurate cu efect de seră.
+La începutul ședinței, domnul președinte Cătălin Drulă a solicitat confirmarea întrunirii
+cvorum-ului  necesar  pentru  desfășurarea  ședinței.  Cvorum-ul  fiind  îndeplinit  a  început
+desfășurarea ședinței.
+Domnul președinte Cătălin Drulă a supus la vot aprobarea ordinii de zi. Nefiind observații
+sau propuneri din partea membrilor comisiei cu privire la structura ordinii de zi, aceasta a fost
+aprobată în unanimitate.
+   La primul punct al ordinii de zi (PLx 540/2023), domnul președinte Cătălin Drulă a
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor · text nativ (continuare 5)
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+prezentat obiectul de reglementare și parcursul legislativ al proiectului de Lege. Președintele
+comisiei  a  oferit  cuvântul  domnului  Ion  Popa,  secretar  de  stat  și  doamnei  Mirela  Cebanu,
+director, din partea Ministerului Transporturilor și Infrastructurii pentru a prezenta punctul de
+vedere  al  Guvernului.  Doamna  Mirela  Cebanu  a  mentionat  faptul  că  prin  proiectul  aflat  în
+dezbatere  se  are  în  vedere  modificarea  art.  41  din  Legea  nr.  10/1995  privind  calitatea  în
+construcții, în sensul extinderii aplicabilității articolului care se referă la efectuarea recepțiilor
+la terminarea lucrărilor pentru infrastructura de transport. Astfel, în prezent, acest articol este
+aplicabil doar pentru infrastructura rutieră și feroviară, iar prin noul proiect se crează cadrul
+legal  astfel  încât  să  fie  extinsă  sfera  de  aplicabilitate  la  întreaga  infrastructură  de  transport,
+inclusiv cea navală, aeriana și de metrou.
+Ulterior, domnul președinte Cătălin Drulă a supus la vot a unui raport preliminar de
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor · text nativ (continuare 6)
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+adoptare a proiectului de lege, rezultatul votului fiind de unanimitate pentru.
+La al doilea punct al ordinii de zi (PLx 541/2023), domnul președinte Cătălin Drulă a
+prezentat obiectul de reglementare și parcursul legislativ al proiectului de Lege. Președintele
+comisiei a oferit cuvântul domnului Mircea Apostol, șef departament în cadrul C.N.A.I.R., în
+vederea  expunerii  punctului  de  vedere  cu  privire  la  proiectul  de  Lege  dezbătut.  Acesta  a
+3
+declarat că prin Ordonanta Guvernului nr. 37/2023 au fost instituite o serie de măsuri în sarcina
+administratorului  drumurilor  pornind  de  la  prevenirea  riscului  căderii  arborilor  pe  partea
+carosabilă.  În  plus,  mai  există  obligația  notificării  proprietarilor  sau  administratorilor
+terenurilor  în  vederea  luării  de  măsuri  de  extragere  și  tăiere  a  arborilor  pentru  a  se  evita
+pericolul  căderii  accidentale  a  acestora.  De  asemenea,  există  în  sarcina  administratorului
+drumurilor și obligația degajării imediate a arborilor în situația în care aceștia sunt căzuți pe
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor · text nativ (continuare 7)
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+partea carosabilă si transportării acestora la un ocol silvic. Prin aceast act normativ s-a urmărit
+crearea unei metodologii prin care să fie implicați toți factorii decidenți, atât cei de la nivelul
+ocolului silvic, cât și proprietarii de terenuri sau administratorii drumurilor.
+Domnul  deputat  Benedek  Zacharie  a  ținut  să  completeze  cele  spuse  cu  faptul  că  din
+punctul acestuia de vedere tot timpul se încearcă a se da vina pe altcineva. A adăugat că există
+drumuri naționale unde serviciile de toaletare și curățare a copacilor sunt realizate în condiții
+de trafic intens, în timpul săptămânii și nu în timpul weekend-ului. În aceste condiții, pentru
+disconfortul  creat  participanților  la  trafic,  administratorul  drumului  nu  plătește  nimic.  În
+schimb, a mai adăugat acesta, dacă un șofer nu observă un semn de circulație și intră pe un
+drum  blocat,  trebuie  să  plătească  amendă  pentru  asta.  Domnul  deputat  Benedek  Zacharie  a
+încheiat  prin  a  întreba  ce  măsuri  ia  C.N.A.I.R.  astefl  încât  în  perioada  de  iarnă  să  se  poată
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor · text nativ (continuare 8)
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+circula cu o viteza medie de 60-70 km/h, indiferent de condițiile meteo.
+Domnul Mircea Apostol a intervenit și a declarat că toate acțiunile de dezăpezire se fac
+în baza unor normative.
+Domnul președinte Cătălin Drulă a adăugat faptul că în anul 2021, în perioada în care a
+îndeplinit funcția de ministru al transporturilor și infratsructurii, a pilotat un contract de lucrări
+de  întretinere  care  s-a  aplicat  pe  drumul  național  DN6  și  care  presupunea  obligativitatea
+efectuării  lucrărilor  pe  parcursul  nopții  și  aplicarea  marcajelor  imediat  după  terminarea
+acestora. Acest contract este dat drept exemplu pentru buna funcționare a traficului pe parcursul
+lucrărilor de întreținere efectuate de C.N.A.I.R.
+Domnul  președinte  a  continuat  prin  supunerea  la  vot  a  unui  raport  preliminar  de
+adoptare a proiectului de lege, rezultatul fiind de unanimitate pentru.
+4
+La al treilea punct al ordinii de zi (Plx 118/2020), domnul președinte Cătălin Drulă a
+prezentat  obiectul  de  reglementare  și  parcursul  legislativ  al  propunerii  legislative.  În
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor · text nativ (continuare 9)
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+continuare,  prședintele  comisiei  a  oferit  cuvântul  doamnei  Dobrica  Simona,  șef  serviciu  în
+cadrul  A.S.F.,  în  vederea  expunerii  punctului  de  vedere  cu  privire  la  propunerea  legislativă
+supusă  dezbaterii.  Aceasta  a  menționat  că  A.S.F.  nu  susține  propunerea  legislative,  din  mai
+multe motive, unul dintre acestea fiind faptul că nu poate fi impus un preț de referință.
+În concluzie, domnul președinte Cătălin Drulă a supus la vot un raport preliminar de
+respingere, rezultatul votului fiind de adoptare cu majoritate de voturi (5 abțineri și 14
+voturi pentru).
+La al patrulea punct al ordinii de zi (Plx 88/2022), domnul președinte Cătălin Drulă
+a  prezentat  obiectul  de  reglementare  și  parcursul  legislativ  al  propunerii  legislative.  În
+continuare, președintele comisiei a oferit cuvântul domnului deputat Mihai Botez, în calitate
+de  inițiator,  în  vederea  prezentării  propunerii  legislative  supusă  dezbaterii,  precum  și  a
+amendamentelor  pe  care  le  are  la  acest  proiect  de  act  normativ.  Acesta  a  continuat  prin  a
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor · text nativ (continuare 10)
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+menționa că a inițiat propunerea legislativă deoarece în ultimii ani România a rămas în topul
+european cu cea mai ridicată rată de accidente rutiere, dar și în privința utilizării tehnologiei de
+înregistrare și posibilității de a fi puse la dispoziția organelor de poliție. Sistemul propus este
+utilizat la scara largă și în alte state europene, inclusiv în Marea Britanie, acolo de unde s-a
+inspirat si elaborarea propunerii legislative dezbătute.
+În  continuare,  domnul  președinte  Cătălin  Drulă  a  dat  cuvântul  domnului  Gheorghe
+Sorescu,  subsecretar  de  stat  în  cadrul  Ministerului  Afacerilor  Interne.  Acesta  a  solicitat
+amânarea  dezbaterii  propunerii
+legislative,  motivând  primirea
+în
+termen  scurt  a
+amendamentelor depuse de domnul deputat Mihai Botez.
+În  consecință,  domnul  președinte  Cătălin  Drulă  a  supus  la  vot  amânarea  dezbaterii
+propunerii legislative, rezultatul votului fiind de majoritate pentru (2 voturi împotrivă și
+17 voturi pentru).
+5
+La al cincilea punct al ordinii de zi (PLx 437/2023), domnul președinte Cătălin Drulă
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor · text nativ (continuare 11)
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+a prezentat obiectul de reglementare și parcursul legislativ al proiectului de Lege.
+Din  cauza  lipsei  reprezentanților  Ministerului  Dezvoltării,  Lucrărilor  Publice  și
+Administrației, domnul președinte Cătălin Drulă a supus la vot amânarea dezbaterii acestui
+punct, rezultatul votului fiind de unanimitate pentru.
+La al șaselea punct al ordinii de zi (PLx 468/2023), domnul președinte Cătălin Drulă
+a prezentat obiectul de reglementare și parcursul legislativ al proiectului de Lege.
+Din  cauza  lipsei  reprezentanților  Ministerului  Dezvoltării,  Lucrărilor  Publice  și
+Administrației, domnul președinte Cătălin Drulă a supus la vot amânarea dezbaterii acestui
+punct, rezultatul votului fiind de unanimitate pentru.
+La al șaptelea punct al ordinii de zi (PLx 523/2023), domnul președinte Cătălin Drulă
+a prezentat obiectul de reglementare și parcursul legislativ al proiectului de Lege.
+Din  cauza  lipsei  reprezentanților  Ministerului  Mediului,  Apelor  si  Padurilor,  domnul
+președinte Cătălin Drulă a supus la vot amânarea dezbaterii acestui punct, rezultatul votului
+
+## Ședința Comisia pentru transporturi și infrastructură din 2023-10-04 · sinteza lucrărilor · text nativ (continuare 12)
+<!-- memorie {"tip": "sedinta", "meeting_id": 199, "raw_page_id": 2512, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2023/pv1004.pdf"} -->
+fiind de unanimitate pentru.
+Nemaifiind alte înscrieri la cuvânt și nici subiecte pe ordinea de zi a ședinței, domnul
+președinte Cătălin Drulă a declarat ședința închisă.
+PREȘEDINTE,
+Cătălin DRULĂ
+SECRETAR,
+Zacharie Benedek
+Anca Lazăr, consilier
+6

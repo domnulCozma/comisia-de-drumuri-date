@@ -1,0 +1,113 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2018-04-17 · sinteza lucrărilor
+<!-- memorie {"tip": "sedinta", "meeting_id": 313, "raw_page_id": 3276, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2018/sz041719.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/comisii/transport/pdf/2018/sz041719.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2018-04-17 · sinteza lucrărilor · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 313, "raw_page_id": 3276, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2018/sz041719.pdf"} -->
+Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+Tel:021.316.0337 Fax: 021.414.1991 e-mail: cp26@cdep.ro
+           Data, 23.04.2018
+SINTEZA LUCRĂRILOR COMISIEI
+din zilele de 17 și 19 aprilie 2018
+Comisia  pentru  transporturi  și  infrastructură și-a desfășurat lucrările în zilele de
+17 și 19 aprilie 2018.
+Lucrările ședinței din acestă perioadă au fost conduse de domnul deputat Lucian
+Nicolae Bode, președinte al Comisiei pentru transporturi și infrastructură.
+                  La ședința comisiei din data de 17 aprilie a.c. au participat, în calitate de invitați
+din  partea:  Ministerului  Transporturilor:  domnul  Ionel  Minea-  secretar  de  stat,  doamna
+Carmen  Pop-  șef  serviciu,  domnul  Răzvan  Radu-  consilier  și  domnul  Cosmin  Cătălin
+Peșteșan- manager public.
+                  Pe ordinea de zi a ședinței din ziua de 17 aprilie, a figurat următorul punct:
+                  1.Dezbatere  privind  disfuncționalitățile  și  soluțiile  pe  termen  scurt  în  ceea  ce
+privește infrastructura aeroportuară.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2018-04-17 · sinteza lucrărilor · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 313, "raw_page_id": 3276, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2018/sz041719.pdf"} -->
+Domnul  Lucian  Nicolae  Bode,  președintele  comisiei,  a  început  discuțiile  amintind
+cele  două  întâlniri  anterioare  cu  Compania  Națională  Aeroporturi  București  și  îngrijorările
+înregistrate în ultimele luni pe subiecte care vizează în mod direct responsabilitatea acesteia:
+neaplicarea  Ordonanței  de  urgență  nr.109/2011  privind  guvernanța  corporativă,  stadiul
+realizării  programului  de  investiții,  dar  și  siguranța  zborurilor  și  a  pasagerilor.  Totodată,
+domnul  președinte  a  adus  în  discuție  raportul  Curții  de  Conturi  privind  infrastructura
+aeroportuară, unde au fost semnalate lipsa condițiilor eficiente pentru aterizare și decolare,
+lipsa  investițiilor,  problema  angajărilor  fictive.  O  problemă  importantă  ridicată  în  fața
+comisiei, a fost aceea a incidentelor înregistrate în iunie 2017 și martie 2018, când o serie de
+aeronave  au  întâmpinat  dificultăți  în  operarea  aterizărilor  din  cauza  calității  precare  a
+pistelor.  În  urma  acestor  semnalări,  domnul  Lucian  Nicolae  Bode  a  întrebat  punctual  dacă
+
+## Ședința Comisia pentru transporturi și infrastructură din 2018-04-17 · sinteza lucrărilor · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 313, "raw_page_id": 3276, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2018/sz041719.pdf"} -->
+există asumarea responsabilității pentru aceste incidente și dacă există o listă a reclamațiilor
+depuse de companii cu privire la starea aeroportului.
+În continuarea discuțiilor domnul deputat Ștefan Alexandru Băișanu a dorit explicații
+cu privire la firmele care s-au ocupat de asfaltarea pistelor și măsurile luate în ultimii 10 ani
+pentru acestea.
+Din  partea  Ministerului  Transporturilor,  domnul  secretar  de  stat  Ionel  Minea  a
+explicat  existența  unor  restricții  pentru  aeronavele  cu  patru  motoare  și  începerea  unor
+lucrări, după cum urmează: începând cu 12 aprilie au început lucrări la calea de rulare Oscar,
+au fost înlocuite pe suprafața Pistei 1 3000 mp de dale, urmând a fi înlocuiți încă 12.000mp;
+în 20 aprilie se vor demara lucrările pentru zona laterală a Pistei 1, cu termen de finalizare
+10 mai. Totodată, începând cu 20 iunie 2018 Pista 2 va fi operațională în procent de 100%,
+Pista 1 urmând a fi supusă ulterior reparațiilor capitale.
+Domnul  deputat  Marius  Bodea  a  avut  o  intervenție,  aducând  în  discuție  două
+
+## Ședința Comisia pentru transporturi și infrastructură din 2018-04-17 · sinteza lucrărilor · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 313, "raw_page_id": 3276, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2018/sz041719.pdf"} -->
+constatări, și anume: au fost operate zboruri pe cod de ceață pe Pista 1 în condițiile în care în
+raportul  preliminar  de  inspecție  al  Autorității  Aeronautice  Civile  Române  s-au  impus
+restricții  datorită  faptului  că  luminile  de  întoarcere  erau  nefuncționale;  aeronavele  mari  și
+grele sunt restricționate, însă aeronavele Airbus 330 și cele de categorie F pot opera. În urma
+acestor  evidențieri,  domnul  deputat  a  ridicat  o  serie  de  întrebări  referitoare  la  degradările
+constatate de Autoritatea Aeronautică Civilă Română, situația exfolierilor existente înca din
+2016, asumarea responsabilității având în vedere periclitarea imaginii Companiei Naționale
+Aeroporturi București.
+Domnul  deputat  Cătălin  Drulă  a  ridicat  ulterior  posibilitatea  reparației  pistelor  în
+contextul  profitului  brut pe 2017 de 389.7 milioane lei. Domnul deputat Ionuț Moșteanu a
+cerut  reprezentanților  să  detalieze  stadiul  recrutărilor  pe  Ordonanța  de  urgență  109/2011
+
+## Ședința Comisia pentru transporturi și infrastructură din 2018-04-17 · sinteza lucrărilor · text nativ (continuare 5)
+<!-- memorie {"tip": "sedinta", "meeting_id": 313, "raw_page_id": 3276, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2018/sz041719.pdf"} -->
+privind  guvernanța  corporativă.  Totodată,  el  a  cerut  răspunsuri  cu  privire  la  șansele  de
+operaționalizare a aeroportului Băneasa în termenii transmiși (31 decembrie 2018), situația
+Aeroportului  Aurel  Vlaicu,  în  contextul  existenței  unei  piste  de  3200  m  și  planul  strategic
+pentru  dezvoltarea  Aeroportului  Otopeni,  în  ceea  ce  privește  fluxurile  de  pasageri  și
+terminalul nou.
+În continuare, domnul deputat George Șișcu a ridicat problema lipsei contractelor de
+curățenie  în  2017  pe  Aeroportul  Henri  Coandă  și  a  cerut  detalii  cu  privire  la  investițiile
+realizate la Aeroportul Mihail Kogălniceanu din Constanța.
+Domnul deputat Zacharie Benedek a solicitat, în cadrul ședinței, o întâlnire ulterioară,
+programată pentru finalul lunii iunie, în scopul posibilității de a analiza situația aeroportului
+la data respectivă, conform promisiunilor de finalizare a lucrărilor necesare.
+Domnul deputat Marius Sorin Ovidiu Bota a ridicat o serie de întrebări cu privire la
+
+## Ședința Comisia pentru transporturi și infrastructură din 2018-04-17 · sinteza lucrărilor · text nativ (continuare 6)
+<!-- memorie {"tip": "sedinta", "meeting_id": 313, "raw_page_id": 3276, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2018/sz041719.pdf"} -->
+măsurile  în  scopul  reducerii  poluării  pe  Aeroportul  Otopeni,  conexiunea  de  transport  între
+aeroport  și  gară,  dar  și  calendarul  lucrărilor  în  vederea  asigurării  transportului  conform
+strategiilor anunțate în contextul Campionatului European de Fotbal 2020.
+Concluzionând, domnul președinte Lucian Nicolae Bode a reiterat faptul că siguranța
+navigației  nu  este  afectată  de  restricțiile  impuse  de  Autoritatea  Aeronautică.  Totodată  a
+subliniat promisiunile aduse de reprezentanții Ministerului Transporturilor, și anume faptul
+că în finalul lunii iunie 2018, pista 2 a Aeroportului Otopeni va fi operaționalizată în procent
+de 100%, iar Pista 1 va intra în reparații capitale. Nu în ultimul rând, amintind termenul de
+31  decembrie  2018,  reprezentând  operaționalizarea  Aeroportului  Băneasa,  domnul
+președinte a subliniat faptul că membrii comisiei au reținut angajamentele ministerului și vor
+urmări în continuare respectarea termenelor promise.
+La lucrările comisiei din zilele de 17 și 19 aprilie a.c. din totalul celor 19 membri au fost
+
+## Ședința Comisia pentru transporturi și infrastructură din 2018-04-17 · sinteza lucrărilor · text nativ (continuare 7)
+<!-- memorie {"tip": "sedinta", "meeting_id": 313, "raw_page_id": 3276, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2018/sz041719.pdf"} -->
+prezenți 18 deputați, după cum urmează:
+Bode Lucian Nicolae (PNL), Băișanu Ștefan Alexandru (ALDE), Bota Marius Sorin-Ovidiu
+(PSD), Rădulescu Cătălin-Marian (PSD), Bodea Marius (PNL), Suciu Matei (PSD), Achiței
+Vasile-Cristian  (PNL),  Banias  Mircea  Marius  (neafiliat),    Benedek  Zacharie  (UDMR),
+Căciulă  Aurel  (PSD),  Cristache  Cătălin  (PMP),  Cuc  Alexandru-Răzvan  (PSD),  Drulă
+Cătălin  (USR),  Moagher  Laura-Mihaela  (PSD),  Moșteanu  Liviu-Ionuț  (USR),  Rotaru
+Alexandru (PSD), Simonis Alfred Robert (PSD), Șișcu George (PNL).
+Domnul deputat Șova Lucian (PSD) nu a participat la lucrările comisiei.
+PREȘEDINTE,                                  SECRETAR,
+Lucian Nicolae Bode                            Marius Bodea
+Consilier parlamentar, Iulia Mircea
+Expert parlamentar, Ruxandra Chiriac

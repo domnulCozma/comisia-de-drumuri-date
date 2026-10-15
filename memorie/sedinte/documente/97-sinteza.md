@@ -1,0 +1,107 @@
+# Ședința Comisia pentru transporturi și infrastructură din 2026-06-16 · sinteza lucrărilor
+<!-- memorie {"tip": "sedinta", "meeting_id": 97, "raw_page_id": 1854, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz061626.pdf"} -->
+Text: text nativ. Sursa: https://www.cdep.ro/comisii/transport/pdf/2026/sz061626.pdf
+
+## Ședința Comisia pentru transporturi și infrastructură din 2026-06-16 · sinteza lucrărilor · text nativ
+<!-- memorie {"tip": "sedinta", "meeting_id": 97, "raw_page_id": 1854, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz061626.pdf"} -->
+Parlamentul României
+Camera Deputaților
+Comisia pentru transporturi și infrastructură
+Tel:021.316.0337 E-mail: cp26@cdep.ro
+Data: 22.06.2026
+7c-4/85/2026
+SINTEZA LUCRĂRILOR COMISIEI
+din perioada 15-18 iunie 2026
+Comisia pentru transporturi și infrastructură și-a desfășurat lucrările ședinței
+în data de 16 iunie 2026, cu prezență fizică și online, începând cu ora 13.00.
+Lucrările ședinței din data de 16 iunie a.c., au fost conduse de domnul deputat
+Lucian-Nicolae Bode, președinte al Comisiei pentru transporturi și infrastructură.
+La dezbaterile asupra inițiativelor legislative au participat în calitate de
+invitați:
+- domnul Bistriceanu Robert- ofițer specialist, Inspectoratul General al
+Poliției Române;
+- domnul Tache Victor- consilier, Ministerul Transporturilor și
+Infrastructurii;
+- domnul Blede Cristian- consilier, Ministerul Transporturilor și
+Infrastructurii.
+Pe ordinea de zi a ședinței au figurat următoarele puncte:
+1. Plx 513/2025- Propunere legislativă privind impozitul pe tonaj;
+1
+2. Plx 71/2026- Propunere legislativă pentru completarea Ordonanței
+
+## Ședința Comisia pentru transporturi și infrastructură din 2026-06-16 · sinteza lucrărilor · text nativ (continuare 2)
+<!-- memorie {"tip": "sedinta", "meeting_id": 97, "raw_page_id": 1854, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz061626.pdf"} -->
+Guvernului nr.43/1997 privind regimul drumurilor;
+3. Plx 345/2025- Propunere legislativă privind modificarea și completarea
+Legii nr.350/2001 în vederea promovării mobilității urbane sustenabile;
+4. PLx 286/2026- Proiect de Lege privind aprobarea Ordonanței de urgență
+a Guvernului nr.7/2026 pentru modificarea și completarea unor acte normative,
+precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a
+unităților administrativ-teritoriale;
+La punctul 1 al ordinii de zi, membrii comisiei au hotărât, cu majoritate de voturi, să
+transmită către cealaltă comisie sesizată în fond un raport preliminar de respingere.
+La punctul 2 al ordinii de zi, membrii comisiei au hotărât, cu majoritate de voturi, să
+propună plenului Camerei Deputaților un raport de respingere.
+La punctul 3 al ordinii de zi, membrii comisiei au hotărât, cu majoritate de voturi, să
+acorde un aviz negativ propunerii legislative.
+La punctul 4 al ordinii de zi, membrii comisiei au hotărât, cu majoritate de voturi, să
+acorde un aviz favorabil proiectului de lege.
+
+## Ședința Comisia pentru transporturi și infrastructură din 2026-06-16 · sinteza lucrărilor · text nativ (continuare 3)
+<!-- memorie {"tip": "sedinta", "meeting_id": 97, "raw_page_id": 1854, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz061626.pdf"} -->
+Nr. Nume și prenume Prezență la ședința din data 16.06.2026
+Crt.
+1. Bode Lucian-Nicolae Prezent
+2. Cojocaru Petru-Bogdan Prezent
+3. Crușoveanu Marian Prezent
+4. Gál Károly Prezent
+5. Hristu Cosmin Prezent
+6. Groza Călin -Florin Prezent online
+7. Popa Maricel Prezent
+8. Puscașu Petre Prezent
+9. Amet Varol Prezent
+10. Andrei Alexandru-Ioan Prezent online
+11. Badea Nelu-Valentin Prezent
+12. Băișanu Ștefan Alexandru Prezent online
+13. Caragață Florin Prezent
+14. Chirilă Virgil-Alin Prezent online
+15. Cîrligea Florin-Eugen Prezent
+16. Dolineaschi Andrei Prezent online
+17. Drulă Cătălin Prezent online
+18. Gheorghiu Andrei – Florin Prezent
+19. Hagiu Augustin-Florin Prezent online
+2
+| 20.  Jianu Iosif-Florin  |     |     | Prezent online  |     |
+| ------------------------ | --- | --- | --------------- | --- |
+| 21.  Mîndrescu Nicolae   |     |     | Prezent         |     |
+| 22.  Moisin Radu-Marin   |     |     | Prezent online  |     |
+| 23.                           |     |     | Prezent         |     |
+| ----------------------------- | --- | --- | --------------- | --- |
+
+## Ședința Comisia pentru transporturi și infrastructură din 2026-06-16 · sinteza lucrărilor · text nativ (continuare 4)
+<!-- memorie {"tip": "sedinta", "meeting_id": 97, "raw_page_id": 1854, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz061626.pdf"} -->
+| Paraschivescu Ovidiu Romulus  |     |     |                 |     |
+| 24  Priceputu Vasilică        |     |     | Prezent online  |     |
+| 25.  Răducea Gheorghe-Valentin  |     |     | Prezent online  |     |
+| ------------------------------- | --- | --- | --------------- | --- |
+| 26.  Rusu Sebastian-Mihai  |     |     | Prezent online  |     |
+| -------------------------- | --- | --- | --------------- | --- |
+| 27.  Samoilă Ion  |     |     | Prezent online  |     |
+| ----------------- | --- | --- | --------------- | --- |
+| 28.  |     |     | Prezent  |     |
+| ---- | --- | --- | -------- | --- |
+Stoica Ștefan-Bucur
+| 29.  Vidra Vlad-Andrei  |     |     | Prezent online  |     |
+| ----------------------- | --- | --- | --------------- | --- |
+În zilele de 15, 17 și 18 iunie a.c., comisia a desfășurat activități de documentare și
+consultare pe marginea proiectelor aflate pe agenda de lucru a comisiei.
+|     | PREȘEDINTE, |     | SECRETAR, |     |
+| --- | ----------- | --- | --------- | --- |
+| Lucian-Nicolae BODE |     |     | Maricel POPA |     |
+
+## Ședința Comisia pentru transporturi și infrastructură din 2026-06-16 · sinteza lucrărilor · text nativ (continuare 5)
+<!-- memorie {"tip": "sedinta", "meeting_id": 97, "raw_page_id": 1854, "text_status": "converted", "source_url": "https://www.cdep.ro/comisii/transport/pdf/2026/sz061626.pdf"} -->
+| ------------------- | --- | --- | ------------ | --- |
+|                     |     |     |              |     |
+Consilier parlamentar, Ruxandra Dragne
+3
