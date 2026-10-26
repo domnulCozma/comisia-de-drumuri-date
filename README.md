@@ -15,7 +15,7 @@ pentru uz oficial, consultați pagina de pe cdep.ro din care provine fiecare în
 | `db/monitor-public.db` | Baza SQLite cu datele extrase (proiecte, inițiatori, parcurs, comisii, ședințe, parlamentari). Fiecare rând derivat are `source_url` și/sau `raw_page_id`, deci duce la fișierul din `raw/`. |
 | `memorie/` | Fișe Markdown pe proiect/parlamentar/document/act/ședință, tăiate pe secțiuni — forma gata de indexat de [MemSearch](https://github.com/zilliztech/memsearch). Căutare semantică locală: `pip install "memsearch[onnx]"`, apoi indexează acest director cu propriul tău index; nu găzduim noi o căutare pe site. |
 
-Cifre la ultimul export: `bill` 1262, `person` 1394, `committee_meeting` 590, `bill_document` 14275, `raw_page` 3382.
+Cifre la ultimul export: `bill` 1263, `person` 1394, `committee_meeting` 646, `bill_document` 14283, `raw_page` 3597.
 
 ## Ce NU conține
 
