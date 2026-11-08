@@ -1,0 +1,1208 @@
+
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
+    <title>ORDONANTA      (A)     8 26/01/2011 - Portal Legislativ</title>
+    <link href="/Content/css?v=iKXncnEnzeZrcZDXQ4gyEFYtrgIhK9GqKaiZ1xjeUOQ1" rel="stylesheet"/>
+
+    <link href="/Content/themes/base/css?v=7T_tuS9RP8sQe2HxerJdL6STYU-qCHtjrExyjsSiYcQ1" rel="stylesheet"/>
+
+    <meta name="keywords" content="ORDONANTA      (A)     8 26/01/2011 - Portal Legislativ">
+    <meta name="description" content="ORDONANTA      (A)     8 26/01/2011 - Portal Legislativ">
+    <meta name="title" content="ORDONANTA      (A)     8 26/01/2011 - Portal Legislativ">
+    <link href="/Content/bootstrap-datepicker.css" rel="stylesheet" />
+    <link rel="icon" type="image/x-icon" href="/Content/Images/Site/temanoua/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="/Content/public.css" rel="stylesheet" />
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="/bundles/modernizr?v=qVODBytEBVVePTNtSFXgRX0NCEjh9U_Oj8ePaSiRcGg1"></script>
+
+    <script src="/bundles/jquery?v=UgyEMAYOuSB9Bb6HcOEVHpd6fIIp54yF086SRNVcdIY1"></script>
+
+    <script src="/bundles/jqueryui?v=O4Awnx3xYnFLmC1TAsxXigS8kLERW18heIHqD0bRSTE1"></script>
+
+    <script src="/bundles/bootstrap?v=WyYa2dIFje-38fhrXc_sQiaOB-lu9j8r45bVIBgtqrw1"></script>
+
+    <script type="text/javascript" language="JavaScript">
+        var backColor = '#f0ffff';
+        var actColor = 'white';
+        var brdColor = 'black';
+        function marcheaza(id_ttl, id) {
+            /*id.style.backgroundColor=backColor;
+            id_ttl.style.cursor='pointer';
+            id.style.borderColor=brdColor;
+            id.style.borderStyle='dashed';*/
+        }
+        function demarcheaza(id_ttl, id) {
+            /*id.style.backgroundColor='transparent';
+            id_ttl.style.cursor='default';
+            id.style.borderColor=actColor;
+            id.style.borderStyle='dotted';*/
+        }
+        function plusMinus(id1, id2) {
+            if (id1.style.display == 'none') {
+                id1.style.display = 'inline';
+                id2.style.display = 'none';
+            }
+            else {
+                id1.style.display = 'none';
+                id2.style.display = 'inline';
+            }
+        }
+        function setCursor(id, tipCursor) {
+            id.style.cursor = tipCursor;
+        }
+    </script>
+    <script>
+        function pozitioneaza(id) {
+            var id_nou = id.substring(0, id.length - 4);
+           //document.getElementById('toTop').click();
+            $("#toTop").trigger("click");
+ 
+        }
+ 
+
+    </script>
+
+
+
+</head>
+
+<body data-spy="scroll" data-target="#affix-nav" data-twttr-rendered="true">
+    <a name="top"></a>
+
+
+    <div id="toTop" class="toggle-menu menu-left"><a class="toggle-menu menu-left"><img src="/Content/Images/Site/temanoua/butonmeniu.png" alt="logo" /></a> </div>
+    <div id="masterwrapper page-content">
+        <div id="header_wrapper" class="navbar navbar-default">
+            <!--navbar-fixed-top-->
+            <header>
+                <div id="header">
+                    <div class="header_top">
+                        <div class="banner">
+                            <div class="row">
+                                <img class="img-responsive center-block pozawidth" id="logoportal" src="/Content/Images/Site/header_logo.png" style="width:85%;" alt="logo" />
+                            </div>
+                        </div>
+                        <div class="row margin0" id="textlogo">
+                            <center>
+                                <h4 class="reducerespatiu logo">Portal Legislativ</h4>
+
+                            </center>
+                            <!-- <div style="float:right; position:relative; right:0; margin-top:-23px;">
+                                <a data-toggle="modal" data-target="#mesajBetaModal" style="cursor:pointer;">
+                                    <img width="50" src="/Content/Images/Site/versiunebeta.png" alt="Versiune Beta 2.0" />
+                                </a>
+                            </div>-->
+                            <hr />
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="menu_wrapper navbar navbar-inverse" role="navigation" id="slide-nav">
+                        <div class="container">
+                            <div class="navbar-header">
+                                <a id="btnNavbar" class="navbar-toggle">
+                                    <span class="sr-only">Meniu</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </a>
+
+                            </div>
+                            <div id="slidemenu" style="cursor:pointer;">
+                                <div id="menu" onclick="pozitioneaza('')">
+                                    <a style=" cursor:pointer;" onclick="pozitioneaza('')">
+                                        <h3>Meniu</h3>
+                                    </a>
+                                    <ul></ul>
+                                    <ul class="mainmenu">
+ 
+        <li>
+            <a href="/Public/Acasa" class="main_link">
+
+                Acasă
+
+            </a>
+        </li>
+        <li>
+            <a href="/Public/NLEX" class="main_link">
+
+                Despre Proiect
+
+            </a>
+        </li>
+        <li>
+            <a href="/Public/Functionalitati" class="main_link">
+
+                Facilități Oferite 
+
+            </a>
+        </li>
+        <li>
+            <a href="/Public/LegaturiUtile" class="main_link">
+
+                Legături Utile
+
+            </a>
+        </li>
+<li>
+	<a href="https://www.just.ro/informatii-de-interes-public/protectia-datelor-cu-caracter-personal/" class="main_link" target="_blank" title="Protecţia datelor cu caracter personal">GDPR</a>
+</li>
+
+             
+                                    </ul>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </header>
+            <div class="meniunu">
+                <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left">
+                    <h3 style="padding-left:65px; margin-top:-5px;">Meniu</h3>
+                    <div id="meniutitlu"></div>
+                    <div id="meniupaginastart">
+ 
+        <li>
+            <a href="/Public/Acasa" class="main_link">
+
+                Acasă
+
+            </a>
+        </li>
+        <li>
+            <a href="/Public/NLEX" class="main_link">
+
+                Despre Proiect
+
+            </a>
+        </li>
+        <li>
+            <a href="/Public/Functionalitati" class="main_link">
+
+                Facilități Oferite 
+
+            </a>
+        </li>
+        <li>
+            <a href="/Public/LegaturiUtile" class="main_link">
+
+                Legături Utile
+
+            </a>
+        </li>
+<li>
+	<a href="https://www.just.ro/informatii-de-interes-public/protectia-datelor-cu-caracter-personal/" class="main_link" target="_blank" title="Protecţia datelor cu caracter personal">GDPR</a>
+</li>
+
+              <br />
+                        Prin portalul N-Lex se acorda acces gratuit la legislatiile nationale ale statelor membre, portalul fiind
+                        conceput pe baza unei tehnologii de comunicare interne, ce permite accesarea directa a bazelor de date legislative nationale,
+                        rezultatele cautarilor venind direct de la sursa.
+                    </div>
+                    <script>
+                        if (window.location.href.indexOf('DetaliiDocument') != -1) {
+                            $('#meniupaginastart').hide();
+                        }
+                        else {
+                            $('#meniupaginastart').show();
+                        }
+                    </script>
+                </nav>
+            </div>
+        </div>
+ 
+        <div id="page_content" style="margin-top:-15px;">
+            <div id="page_wrapper">
+                <div class="articole_wrapper">
+                    
+
+
+<style>
+    #masterwrapper, #page_content, #page_wrapper {
+        background-color: white;
+        background: white;
+    }
+
+    #document_info {
+        font-size: 15px;
+    }
+
+    #fisaact {
+        font-size: 14px;
+    }
+
+    .seincarca {
+        position: fixed;
+        z-index: 1100;
+        left: 45%;
+        /*	margin-top: -500px;*/
+        top: 45%;
+        height: 100px;
+        background-color: #ffffff;
+        -moz-box-shadow: 5px 5px 5px #400;
+        -webkit-box-shadow: 5px 5px 5px #400;
+        box-shadow: 5px 5px 5px #400;
+        border: 1px solid #dadada;
+        -moz-border-radius: 15px;
+        -webkit-border-radius: 15px;
+        -khtml-border-radius: 15px;
+        border-radius: 15px;
+    }
+
+    .cbsloader {
+        background-image: url(~/../../../Content/Images/Site/bar-circle.gif);
+        background-repeat: no-repeat;
+    }
+
+    #modal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: url('~/../../../Content/Images/Site/tint20.png') 0 0 repeat;
+        background: rgba(0,0,0,0.2);
+    }
+    #sidebar  {
+        &.affix;
+
+    {
+        top: 10px;
+        bottom: auto;
+    }
+
+    &.affix-top {
+        position: absolute;
+        top: 20px;
+    }
+
+    &.affix-bottom {
+        position: relative;
+        top: auto;
+        bottom: auto;
+    }
+
+    }
+
+</style>
+ <script>
+
+     function imgSIZE() {
+         $("#infoactinfoact img").one("load", function() {
+             try {
+                 var theImage = new Image();
+                 theImage.src = $(this).attr("src");
+                 var imgW = theImage.width;
+                 var imgH = theImage.height;
+                 // console.log($(this).attr("src") + "   - " + imgW + ", " + imgH);
+
+                 
+                 $(this).css("max-width", "100%");
+                 $(this).css("width", imgW+"px");
+                 
+             }
+             catch(e) {
+                 // console.log("horror> "+e);
+             }
+         });
+     }
+
+ </script>
+
+<div class="container bs-docs-container"  data-target="#sidebar">
+
+    <div class="row" id="textdocumentleg">
+        <div class="col-md-3" id="meniu">
+            <div class="bs-docs-sidebar affix-top meniuaffix" id="sidebar">
+                <div class="articole_wrapper">
+                    <div class="h1_articole">
+                        <h1>Cuprins</h1>
+                        <div class="spacer"></div>
+                    </div>
+                </div>
+                <div id="loaderDiv" class="seincarca" style="display: none; text-align: center; width: auto !important; height: auto !important; padding: 40px;">
+                    <div id="modal"></div>
+                    <progress max="100">
+                        <div class="cbsloader">
+                            <div style="color:#333; margin-top:-40px; margin-left:130px;">
+                            </div>
+                            <br>
+                            <div style="color:#333; margin-left:49px; margin-top:-5px;">
+                                <b>Se încarcă, vă rugăm asteptati.</b><br><br>
+                            </div>
+                        </div>
+                    </progress>
+                </div>
+                <div class="details_navigation">
+
+                    <input type="hidden" id="id_act" name="id_act" value="291682" />
+                    <div class="nav_header expanded" data-target="FormeAct" style="margin-left:-10px; font-weight: bold !important;">
+                            <span class="trigger plus">+</span>
+                             <b><span>Forme act</span></b>
+                    </div>
+                    <div class="nav_content expanded" data-target="FormeAct" style="margin-left: -10px;">
+                            <div class="forme_act">
+<input checked="checked" id="Formaconsolidata" name="FormeAct" onchange="SchimbareFormaAct();" type="radio" value="1" /><label for="Formaconsolidata">Forma consolidata</label>                                        <div class="forme_act_chk">
+                                            
+                                            
+                                        </div>
+                                            <div>
+                                                <div id="label_forme_actz" onclick="toggle_istoric_forme_actz()" style="cursor: pointer; margin-left: -5px; margin-top: 5px;">&nbsp;&nbsp;&nbsp;+&nbsp;istoric consolidări</div>
+                                                <div id="istoric_fa" class="nav_content expanded" style="display: none; margin-left: -8px;">
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title='Consolidarea din 11.12.2025' style='color:#428BCA' href='~/../../../Public/DetaliiDocument/304488'>11.12.2025</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title='Consolidarea din 17.12.2024' id='fa_selectata' style='color:red;text-decoration:none;cursor:default'>17.12.2024</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title='Consolidarea din 27.11.2021' style='color:#428BCA' href='~/../../../Public/DetaliiDocument/248085'>27.11.2021</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title='Consolidarea din 19.12.2019' style='color:#428BCA' href='~/../../../Public/DetaliiDocument/220241'>19.12.2019</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title='Consolidarea din 25.12.2015' style='color:#428BCA' href='~/../../../Public/DetaliiDocument/174319'>25.12.2015</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title='Consolidarea din 11.12.2015' style='color:#428BCA' href='~/../../../Public/DetaliiDocument/173977'>11.12.2015</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title='Consolidarea din 12.12.2014' style='color:#428BCA' href='~/../../../Public/DetaliiDocument/165471'>12.12.2014</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title='Consolidarea din 22.11.2012' style='color:#428BCA' href='~/../../../Public/DetaliiDocument/143722'>22.11.2012</a><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title='Consolidarea din 28.12.2011' style='color:#428BCA' href='~/../../../Public/DetaliiDocument/143721'>28.12.2011</a><br/>
+                                                </div>
+                                            </div>
+                                <!--
+                                -->
+                            </div>
+                            <div class="forme_act">
+                                <!--
+                                -->
+                            </div>
+                            <div class="forme_act">
+                                <!--
+                                -->
+<input id="Formadebaza" name="FormeAct" onchange="incarcaFormaDeBaza(125699);" type="radio" value="3" /><label for="Formadebaza">Forma de baza</label>                            </div>
+                    </div>
+
+                    <div id="label_fisaact" class="nav_header" onclick="toggle_fisaact()" style="margin-left:-10px !important; margin-top:10px;">
+                        <span id="label_fisaact_plus_minus" style="cursor:pointer">+</span>
+                        <span style="cursor: pointer; font-weight: bold; color: #3c3636; ">Fișă act</span>
+                    </div>
+
+                    <div id="content_fisaact" class="nav_content" style="display: none;">
+                            <div class="fisa_Act">
+                                <input class="fisa_act_chk" datavalue="1" id="Actiunisuferite" name="Actiunisuferite" onchange="ArataFisaAct(this);" type="checkbox" value="true" /><input name="Actiunisuferite" type="hidden" value="false" />
+                                <label for="Actiunisuferite">Actiuni suferite</label>
+                            </div>
+                            <div class="fisa_Act">
+                                <input class="fisa_act_chk" datavalue="2" id="ActiuniInduse" name="ActiuniInduse" onchange="ArataFisaAct(this);" type="checkbox" value="true" /><input name="ActiuniInduse" type="hidden" value="false" />
+                                <label for="ActiuniInduse">Actiuni Induse</label>
+                            </div>
+                            <div class="fisa_Act">
+                                <input class="fisa_act_chk" datavalue="3" id="Referape" name="Referape" onchange="ArataFisaAct(this);" type="checkbox" value="true" /><input name="Referape" type="hidden" value="false" />
+                                <label for="Referape">Refera pe</label>
+                            </div>
+                            <div class="fisa_Act">
+                                <input class="fisa_act_chk" datavalue="4" id="Referitde" name="Referitde" onchange="ArataFisaAct(this);" type="checkbox" value="true" /><input name="Referitde" type="hidden" value="false" />
+                                <label for="Referitde">Referit de</label>
+                            </div>
+                    </div>
+
+                </div>
+                <p style="padding-top: 10px; font-variant: small-caps; border-bottom: 3px solid #BB3A3A; color: #112F5D; font-size: 18px; font-family: EB Garamond !important; ">Cuprinsul Actului</p>
+                <ul class="nav bs-docs-sidenav" style=" margin-top:5px;">
+
+                    pentru modificarea și completarea legislației cu privire la eliberarea, gestionarea și monitorizarea documentelor de călătorie acordate pensionarilor, veteranilor de război și văduvelor de război<li><a href="#id_artA17_ttl" onclick="&#xA;        pozitioneaza('id_artA17_ttl')&#xA;      ">Articolul I</a></li><li><a href="#id_artA22_ttl" onclick="&#xA;        pozitioneaza('id_artA22_ttl')&#xA;      ">Articolul II</a></li><li><a href="#id_artA56_ttl" onclick="&#xA;        pozitioneaza('id_artA56_ttl')&#xA;      ">Articolul III</a></li><li><a href="#id_artA60_ttl" onclick="&#xA;        pozitioneaza('id_artA60_ttl')&#xA;      ">Articolul IV</a></li><li><a href="#id_artA91107184_ttl" onclick="&#xA;        pozitioneaza('id_artA91107184_ttl')&#xA;      ">Articolul V</a></li><li><a href="#id_artA107_ttl" onclick="&#xA;        pozitioneaza('id_artA107_ttl')&#xA;      ">Articolul VI</a></li><li><a href="#id_artA91107187_ttl" onclick="&#xA;        pozitioneaza('id_artA91107187_ttl')&#xA;      ">Articolul VII</a></li><li><a href="#id_artA137_ttl" onclick="&#xA;        pozitioneaza('id_artA137_ttl')&#xA;      ">Articolul VIII</a></li>PRIM-MINISTRUEMIL BOCContrasemnează:Ministrul transporturilor și infrastructurii,Anca Daniela BoagiuMinistrul muncii, familiei și protecției sociale,Ioan Nelu BotișMinistrul finanțelor publice,Gheorghe Ialomițianu
+
+                </ul>
+                <a class="back-to-top" onclick="pozitioneaza('')" href="#top">
+                    Reveniti in topul paginii
+                </a>
+                <div style="text-align:center;">
+                    
+
+                    <a target="_blank" class="btn btn-primary btn-xs" href=/Public/FormaPrintabila/00000G322U9QJOSHAD71H0IKO0I1WEFU>
+                        <span class="glyphicon glyphicon-print"></span> Forma printabilă
+                    </a>
+                </div>
+                <div class="articole_wrapper">
+                    <div class="h1_articole">
+
+                        <div class="spacer"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+ 
+
+
+
+        <div class="col-md-8" role="main" id="infoactinfoact">
+            <div class="bs-docs-section">
+                <div class="main_details">
+                    
+                    <div class="document_info" id="document_info">
+                        <div id="forme_act_container" data-id="FormeAct" data-state="loaded">
+                                    <div id="div_Formaconsolidata" class="content_forma_act" data-state="loaded">
+                                        
+                                        <span class="S_DEN">ORDONANȚĂ nr. 8 din 26 ianuarie 2011 </span><span class="S_HDR">pentru modificarea și completarea legislației cu privire la eliberarea, gestionarea și monitorizarea documentelor de călătorie acordate pensionarilor, veteranilor de război și văduvelor de război</span><table cellspacing="0px" cellpadding="0px" class="S_EMT"><tr valign="baseline"><td width="75px"><span class="S_EMT_TTL">EMITENT</span></td><td><span class="S_EMT_BDY"><li>GUVERNUL</li></span></td></tr></table><span class="S_PUB"><span class="S_PUB_TTL">Publicat în 
+			</span><span class="S_PUB_BDY">MONITORUL OFICIAL nr. 78 din 31 ianuarie 2011</span></span><span id="fisaact"><span style='display:none;height:180px;overflow:auto;border:1px solid;' id='actiuni_suferite'></span><br/><span style='display:none;border:1px solid;height:180px;overflow:auto' id='actiuni_induse'></span><br/><span style='display:none;height:180px;overflow:auto;border:1px solid;' id='refera_pe'></span><br/><span style='display:none;height:180px;overflow:auto;border:1px solid;' id='referit_de'></span><br/><!----></span><span class="S_PAR" style="display: block; color:black;" id="id_parA15">În temeiul <A href="~/../../../Public/DetaliiDocumentAfis/47355#A591">art. 108 din Constituția României</A>, republicată, și al <A href="~/../../../Public/DetaliiDocumentAfis/124802#A12">art. 1 pct. I.9 din Legea nr. 274/2010</A> privind abilitarea Guvernului de a emite ordonanțe,<!----></span><span class="S_PAR" style="display: block; color:black;" id="id_parA16">Guvernul României adoptă prezenta ordonanță.<!----></span><span class="S_ART" style="display: block; color:black;" id="id_artA17" name="id_artA17"><span class="TAG_COLLAPSED" id="id_cllpsdA17" onMouseOver="marcheaza(id_cllpsdA17,id_artA17)" onMouseOut="demarcheaza(id_cllpsdA17,id_artA17)" onMouseDown="plusMinus(id_artA17_bdy,id_cllpsdA17)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA17_ttl" onMouseOver="marcheaza(id_artA17_ttl,id_artA17)" onMouseOut="demarcheaza(id_artA17_ttl,id_artA17)" onMouseDown="plusMinus(id_artA17_bdy,id_cllpsdA17)">Articolul I</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA17_bdy"><span class="S_PAR" style="display: block; color:black;" id="id_parA18">După articolul 1 din <A href="~/../../../Public/DetaliiDocumentAfis/23533">Legea nr. 147/2000</A> privind reducerile acordate pensionarilor pentru transportul intern, publicată în Monitorul Oficial al României, Partea I, nr. 354 din 28 iulie 2000, cu modificările ulterioare, se introduce un nou articol, articolul 1^1, cu următorul cuprins:<span class="S_CIT"><span class="S_ART" style="display: block; color:black;" id="id_artA19" name="id_artA19"><span class="TAG_COLLAPSED" id="id_cllpsdA19" onMouseOver="marcheaza(id_cllpsdA19,id_artA19)" onMouseOut="demarcheaza(id_cllpsdA19,id_artA19)" onMouseDown="plusMinus(id_artA19_bdy,id_cllpsdA19)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA19_ttl" onMouseOver="marcheaza(id_artA19_ttl,id_artA19)" onMouseOut="demarcheaza(id_artA19_ttl,id_artA19)" onMouseDown="plusMinus(id_artA19_bdy,id_cllpsdA19)">Articolul 1^1</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA19_bdy"><span class="S_ALN" style="display: block; color:black;" id="id_litA91107140"><span class="S_ALN_TTL" id="id_litA91107140_ttl" onMouseOver="marcheaza(id_litA91107140_ttl,id_litA91107140)" onMouseOut="demarcheaza(id_litA91107140_ttl,id_litA91107140)" onMouseDown="plusMinus(id_litA91107140_short,id_litA91107140_bdy)">(1)<!----></span> <span class="S_ALN_BDY" id="id_litA91107140_bdy">Pentru a putea beneficia de facilitățile prevăzute la art. 1, fiecărui pensionar i se va elibera o legitimație de transport tip card, personalizată cu numele și codul numeric personal ale fiecărui beneficiar.</span></span><span class="S_ALN" style="display: block; color:black;" id="id_litA20"><span class="S_ALN_TTL" id="id_litA20_ttl" onMouseOver="marcheaza(id_litA20_ttl,id_litA20)" onMouseOut="demarcheaza(id_litA20_ttl,id_litA20)" onMouseDown="plusMinus(id_litA20_short,id_litA20_bdy)">(2)<!----></span> <span class="S_ALN_BDY" id="id_litA20_bdy">Cardul are valabilitatea de un an și va stoca în memorie numărul de călătorii la care are dreptul beneficiarul, numărul de călătorii efectuate și contravaloarea acestora.</span></span><span class="S_ALN" style="display: block; color:black;" id="id_litA21"><span class="S_ALN_TTL" id="id_litA21_ttl" onMouseOver="marcheaza(id_litA21_ttl,id_litA21)" onMouseOut="demarcheaza(id_litA21_ttl,id_litA21)" onMouseDown="plusMinus(id_litA21_short,id_litA21_bdy)">(3)<!----></span> <span class="S_ALN_BDY" id="id_litA21_bdy">Cardul se reînnoiește anual, cu condiția predării către emitent a celui deținut.</span></span></span></span></span><!----></span></span></span><span class="S_ART" style="display: block; color:black;" id="id_artA22" name="id_artA22"><span class="TAG_COLLAPSED" id="id_cllpsdA22" onMouseOver="marcheaza(id_cllpsdA22,id_artA22)" onMouseOut="demarcheaza(id_cllpsdA22,id_artA22)" onMouseDown="plusMinus(id_artA22_bdy,id_cllpsdA22)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA22_ttl" onMouseOver="marcheaza(id_artA22_ttl,id_artA22)" onMouseOut="demarcheaza(id_artA22_ttl,id_artA22)" onMouseDown="plusMinus(id_artA22_bdy,id_cllpsdA22)">Articolul II</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA22_bdy"><span class="S_PAR" style="display: block; color:black;" id="id_parA23"><A href="~/../../../Public/DetaliiDocumentAfis/39367">Legea nr. 44/1994</A> privind veteranii de război, precum și unele drepturi ale invalizilor și văduvelor de război, republicată în Monitorul Oficial al României, Partea I, nr. 783 din 28 octombrie 2002, cu modificările și completările ulterioare, se modifică și se completează după cum urmează:<!----></span><span class="S_PCT" style="display: block; color:black;" id="id_pctA24"><span class="S_PCT_TTL" id="id_pctA24_ttl" onMouseOver="marcheaza(id_pctA24_ttl,id_pctA24)" onMouseOut="demarcheaza(id_pctA24_ttl,id_pctA24)" onMouseDown="plusMinus(id_pctA24_short,id_pctA24_bdy)">1.<!----></span> <span class="S_PCT_BDY" id="id_pctA24_bdy">La articolul 16, litera a) se modifică și va avea următorul cuprins:<span class="S_CIT"/><span class="S_CIT"><span class="S_LIT" style="display: block; color:blue;" id="id_litA31"><span class="S_LIT_TTL" id="id_litA31_ttl" onMouseOver="marcheaza(id_litA31_ttl,id_litA31)" onMouseOut="demarcheaza(id_litA31_ttl,id_litA31)" onMouseDown="plusMinus(id_litA31_short,id_litA31_bdy)">a)<!----></span> <span class="S_LIT_BDY" id="id_litA31_bdy">câte 12 călătorii gratuite, dus-întors, sau 24 de călătorii simple, în cursul unui an calendaristic, la clasa I pe calea ferată, la tren de orice rang, pentru marii mutilați, pentru invalizii de război, precum și pentru veteranii de război decorați cu ordine și medalii de război.</span><span style="display: none" class="S_LIT_SHORT" id="id_litA31_short" onMouseOver="marcheaza(id_litA31_short,id_litA31)" onMouseOut="demarcheaza(id_litA31_short,id_litA31)" onMouseDown="plusMinus(id_litA31_short,id_litA31_bdy)"> ... </span></span><span class="S_PAR" style="display: block; color:blue;" id="id_parA32">Veteranii de război decorați cu Medalia «Crucea comemorativă a celui de-al doilea război mondial, 1941-1945», cei nedecorați, precum și văduvele de război au dreptul, în cursul unui an calendaristic, la 6 călătorii interne gratuite, dus-întors, sau la 12 călătorii simple pe calea ferată, la tren de orice rang. Generalii, ofițerii și ceilalți veterani de război decorați cu Medalia «Crucea comemorativă a celui de-al doilea război mondial, 1941-1945» călătoresc la clasa I, iar cei nedecorați și văduvele de război, la clasa a II-a.<!----></span><span class="S_PAR" style="display: block; color:blue;" id="id_parA33">Veteranii de război și văduvele de război care locuiesc în mediul rural au dreptul, în cursul unui an calendaristic, la 12 călătorii interne, dus-întors, gratuite, pe mijloacele de transport auto, dacă nu există posibilitatea să călătorească pe calea ferată, sau la 12 călătorii interne gratuite, dus-întors, pe căile fluviale, la alegere.<!----></span><span class="S_PAR" style="display: block; color:blue;" id="id_parA34">În cadrul numărului de călătorii stabilit pentru titulari, aceștia le pot folosi și pentru însoțitori. Legitimațiile de transport tip card pot fi utilizate și de către soțul/soția sau alte persoane mandatate de titulari să le reprezinte interesele, pe bază de procură autentificată, nefiind necesară prezența titularului la efectuarea călătoriei.<!----></span><span class="S_PAR" style="display: block; color:blue;" id="id_parA35">Însoțitorii marilor mutilați și ai invalizilor de gradul I beneficiază de aceleași drepturi de transport gratuit și la aceeași clasă ca și titularii drepturilor ai căror însoțitori sunt;<!----></span></span><span class="S_PAR" style="display: block; color:blue;white-space:normal;line-height:100%;" id="id_parA91107156">
+			(la 28-10-2002, 
+			Litera a) a art. 16 din Legea nr. 44/1994, de la pct. 1 al art. II din Ordonanța nr. 8 din 26 ianuarie 2011, publicată în Monitorul Oficial nr. 78 din 31 ianuarie 2011, a fost modificată de <A href="~/../../../Public/DetaliiDocumentAfis/39367">pct. 1 al art. I din LEGEA nr. 211 din 13 noiembrie 2012, publicată în MONITORUL OFICIAL nr. 778 din 19 noiembrie 2012.</A>
+			)
+	</span></span><span style="display:none" class="S_PCT_SHORT" id="id_pctA24_short" onMouseOver="marcheaza(id_pctA24_short,id_pctA24)" onMouseOut="demarcheaza(id_pctA24_short,id_pctA24)" onMouseDown="plusMinus(id_pctA24_short,id_pctA24_bdy)"> ... </span></span><span class="S_PCT" style="display: block; color:black;" id="id_pctA38"><span class="S_PCT_TTL" id="id_pctA38_ttl" onMouseOver="marcheaza(id_pctA38_ttl,id_pctA38)" onMouseOut="demarcheaza(id_pctA38_ttl,id_pctA38)" onMouseDown="plusMinus(id_pctA38_short,id_pctA38_bdy)">2.<!----></span> <span class="S_PCT_BDY" id="id_pctA38_bdy">După articolul 16 se introduce un nou articol, articolul 16^1, cu următorul cuprins:<span class="S_CIT"><span class="S_ART" style="
+			display: block; color:black;
+		" id="id_artA39" name="id_artA39"><span class="TAG_COLLAPSED" id="id_cllpsdA39" onMouseOver="marcheaza(id_cllpsdA39,id_artA39)" onMouseOut="demarcheaza(id_cllpsdA39,id_artA39)" onMouseDown="plusMinus(id_artA39_bdy,id_cllpsdA39)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA39_ttl" onMouseOver="marcheaza(id_artA39_ttl,id_artA39)" onMouseOut="demarcheaza(id_artA39_ttl,id_artA39)" onMouseDown="plusMinus(id_artA39_bdy,id_cllpsdA39)">Articolul 16^1</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA39_bdy"><span style="display: block; color:blue;" class="S_PAR" id="id_parA39">
+				Abrogat
+				</span></span></span></span><span class="S_CIT"><span class="S_ART" style="display: block; color:blue;" id="id_artA43" name="id_artA43"><span class="TAG_COLLAPSED" id="id_cllpsdA43" onMouseOver="marcheaza(id_cllpsdA43,id_artA43)" onMouseOut="demarcheaza(id_cllpsdA43,id_artA43)" onMouseDown="plusMinus(id_artA43_bdy,id_cllpsdA43)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA43_ttl" onMouseOver="marcheaza(id_artA43_ttl,id_artA43)" onMouseOut="demarcheaza(id_artA43_ttl,id_artA43)" onMouseDown="plusMinus(id_artA43_bdy,id_cllpsdA43)">Articolul 16^1</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA43_bdy"><span class="S_PAR" style="display: block; color:blue;" id="id_parA91107142">Pentru a putea beneficia de facilitățile prevăzute la art. 16 lit. a) persoanelor respective li se vor elibera legitimații de transport tip card, personalizate cu numele și codul numeric personal ale fiecărui beneficiar. Modul de utilizare, modelul, precum și datele ce vor fi înscrise în legitimațiile de călătorie tip card vor fi stabilite prin norme metodologice aprobate prin hotărâre a Guvernului.<!----></span><span class="S_PAR" style="display: block; color:blue;" id="id_parA44">Cardul utilizat este cel emis persoanelor respective de către Casa Națională de Asigurări de Sănătate, care va stoca în memorie numărul de călătorii la care are dreptul beneficiarul, numărul de călătorii efectuate și contravaloarea acestora.<!----></span></span></span></span><span class="S_PAR" style="display: block; color:blue;white-space:normal;line-height:100%;" id="id_parA91107157">
+			(la 28-10-2002, 
+			Art. 16^1 din Legea nr. 44/1994, de la pct. 2 al art. II din Ordonanța nr. 8 din 26 ianuarie 2011, publicată în Monitorul Oficial nr. 78 din 31 ianuarie 2011, a fost modificat de <A href="~/../../../Public/DetaliiDocumentAfis/39367">pct. 2 al art. I din LEGEA nr. 211 din 13 noiembrie 2012, publicată în MONITORUL OFICIAL nr. 778 din 19 noiembrie 2012.</A>
+			)
+	</span></span><span style="display:none" class="S_PCT_SHORT" id="id_pctA38_short" onMouseOver="marcheaza(id_pctA38_short,id_pctA38)" onMouseOut="demarcheaza(id_pctA38_short,id_pctA38)" onMouseDown="plusMinus(id_pctA38_short,id_pctA38_bdy)"> ... </span></span><span class="S_PCT" style="display: block; color:black;" id="id_pctA47"><span class="S_PCT_TTL" id="id_pctA47_ttl" onMouseOver="marcheaza(id_pctA47_ttl,id_pctA47)" onMouseOut="demarcheaza(id_pctA47_ttl,id_pctA47)" onMouseDown="plusMinus(id_pctA47_short,id_pctA47_bdy)">3.<!----></span> <span class="S_PCT_BDY" id="id_pctA47_bdy">Articolul 23 se modifică și va avea următorul cuprins:<span class="S_CIT"><span class="S_ART" style="display: block; color:black;" id="id_artA48" name="id_artA48"><span class="TAG_COLLAPSED" id="id_cllpsdA48" onMouseOver="marcheaza(id_cllpsdA48,id_artA48)" onMouseOut="demarcheaza(id_cllpsdA48,id_artA48)" onMouseDown="plusMinus(id_artA48_bdy,id_cllpsdA48)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA48_ttl" onMouseOver="marcheaza(id_artA48_ttl,id_artA48)" onMouseOut="demarcheaza(id_artA48_ttl,id_artA48)" onMouseDown="plusMinus(id_artA48_bdy,id_cllpsdA48)">Articolul 23</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA48_bdy"><span class="S_PAR" style="display: block; color:black;" id="id_parA91107143">Pentru acoperirea tuturor cheltuielilor determinate de aplicarea acestei legi, fondurile necesare se vor suporta de la bugetul de stat, bugetul asigurărilor sociale de stat sau de la bugetele locale, în limita sumelor aprobate anual Ministerului Apărării Naționale, Ministerului Administrației și Internelor, Ministerului Muncii, Familiei și Protecției Sociale, celorlalte organe de specialitate ale administrației publice centrale ori locale.<!----></span><span class="S_PAR" style="display: block; color:black;" id="id_parA49">Călătoria pe calea ferată se efectuează pe bază de legitimații de transport tip card puse la dispoziție de Ministerul Transporturilor și Infrastructurii, la cererea asociațiilor veteranilor de război legal constituite. Achitarea costurilor de călătorie pe calea ferată, căile fluviale și auto județene, pe baza legitimațiilor de transport tip card, se face de către Ministerul Finanțelor Publice direct Ministerului Transporturilor și Infrastructurii, iar costul biletelor pe mijloacele de călătorie în comun din municipii și orașe se suportă de către consiliile județene și locale.<!----></span><span class="S_PAR" style="display: block; color:black;" id="id_parA50">Ministerele și celelalte organe de specialitate ale administrației publice centrale și locale, precum și operatorii economici din domeniile respective de activitate vor lua fiecare măsurile necesare ce le revin pentru aplicarea prezentei legi.<!----></span></span></span></span></span><span style="display:none" class="S_PCT_SHORT" id="id_pctA47_short" onMouseOver="marcheaza(id_pctA47_short,id_pctA47)" onMouseOut="demarcheaza(id_pctA47_short,id_pctA47)" onMouseDown="plusMinus(id_pctA47_short,id_pctA47_bdy)"> ... </span></span></span></span><span class="S_ART" style="display: block; color:black;" id="id_artA56" name="id_artA56"><span class="TAG_COLLAPSED" id="id_cllpsdA56" onMouseOver="marcheaza(id_cllpsdA56,id_artA56)" onMouseOut="demarcheaza(id_cllpsdA56,id_artA56)" onMouseDown="plusMinus(id_artA56_bdy,id_cllpsdA56)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA56_ttl" onMouseOver="marcheaza(id_artA56_ttl,id_artA56)" onMouseOut="demarcheaza(id_artA56_ttl,id_artA56)" onMouseDown="plusMinus(id_artA56_bdy,id_cllpsdA56)">Articolul III</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA56_bdy"><span class="S_PAR" style="display: block; color:blue;" id="id_parA57">Abrogat.<span class="S_PAR" style="display: block; color:blue;white-space:normal;line-height:100%;" id="id_parA91107158">
+			(la 03-02-2011, 
+			Art. III din Ordonanța nr. 8 din 26 ianuarie 2011, publicată în Monitorul Oficial nr. 78 din 31 ianuarie 2011, a fost abrogat de <A href="~/../../../Public/DetaliiDocumentAfis/125699">pct. 3 al art. I din LEGEA nr. 211 din 13 noiembrie 2012, publicată în MONITORUL OFICIAL nr. 778 din 19 noiembrie 2012.</A>
+			)
+	</span><!----></span></span></span><span class="S_ART" style="display: block; color:black;" id="id_artA60" name="id_artA60"><span class="TAG_COLLAPSED" id="id_cllpsdA60" onMouseOver="marcheaza(id_cllpsdA60,id_artA60)" onMouseOut="demarcheaza(id_cllpsdA60,id_artA60)" onMouseDown="plusMinus(id_artA60_bdy,id_cllpsdA60)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA60_ttl" onMouseOver="marcheaza(id_artA60_ttl,id_artA60)" onMouseOut="demarcheaza(id_artA60_ttl,id_artA60)" onMouseDown="plusMinus(id_artA60_bdy,id_cllpsdA60)">Articolul IV</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA60_bdy"><span class="S_PAR" style="display: block; color:black;" id="id_parA61"><A href="~/../../../Public/DetaliiDocumentAfis/63482">Ordonanța de urgență a Guvernului nr. 109/2005</A> privind transporturile rutiere, publicată în Monitorul Oficial al României, Partea I, nr. 655 din 22 iulie 2005, aprobată cu modificări și completări prin <A href="~/../../../Public/DetaliiDocumentAfis/71376">Legea nr. 102/2006</A>, cu modificările și completările ulterioare, se modifică și se completează după cum urmează:<!----></span><span class="S_PCT" style="display: block; color:black;" id="id_pctA62"><span class="S_PCT_TTL" id="id_pctA62_ttl" onMouseOver="marcheaza(id_pctA62_ttl,id_pctA62)" onMouseOut="demarcheaza(id_pctA62_ttl,id_pctA62)" onMouseDown="plusMinus(id_pctA62_short,id_pctA62_bdy)">1.<!----></span> <span class="S_PCT_BDY" id="id_pctA62_bdy">După articolul 34^2 se introduce un nou articol, articolul 34^3, cu următorul cuprins:<span class="S_CIT"/><span class="S_CIT"><span class="S_ART" style="display: block; color:blue;" id="id_artA69" name="id_artA69"><span class="TAG_COLLAPSED" id="id_cllpsdA69" onMouseOver="marcheaza(id_cllpsdA69,id_artA69)" onMouseOut="demarcheaza(id_cllpsdA69,id_artA69)" onMouseDown="plusMinus(id_artA69_bdy,id_cllpsdA69)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA69_ttl" onMouseOver="marcheaza(id_artA69_ttl,id_artA69)" onMouseOut="demarcheaza(id_artA69_ttl,id_artA69)" onMouseDown="plusMinus(id_artA69_bdy,id_cllpsdA69)">Articolul 34^3</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA69_bdy"><span class="S_ALN" style="display: block; color:blue;" id="id_litA91107144"><span class="S_ALN_TTL" id="id_litA91107144_ttl" onMouseOver="marcheaza(id_litA91107144_ttl,id_litA91107144)" onMouseOut="demarcheaza(id_litA91107144_ttl,id_litA91107144)" onMouseDown="plusMinus(id_litA91107144_short,id_litA91107144_bdy)">(1)<!----></span> <span class="S_ALN_BDY" id="id_litA91107144_bdy">Persoanele care, conform legii, beneficiază de legitimații de călătorie tip card au obligația de a prezenta legitimația de călătorie tip card la urcarea în autobuz sau autocar și de a valida călătoria prin intermediul cititorului de carduri. Aceeași obligație o au și persoanele care dețin abonamente sau alte legitimații de călătorie tip card.</span></span><span class="S_ALN" style="display: block; color:blue;" id="id_litA70"><span class="S_ALN_TTL" id="id_litA70_ttl" onMouseOver="marcheaza(id_litA70_ttl,id_litA70)" onMouseOut="demarcheaza(id_litA70_ttl,id_litA70)" onMouseDown="plusMinus(id_litA70_short,id_litA70_bdy)">(2)<!----></span> <span class="S_ALN_BDY" id="id_litA70_bdy">Modul de dotare, utilizare, precum și funcțiunile pe care trebuie să le îndeplinească cititoarele de carduri vor fi reglementate prin norme metodologice, aprobate prin hotărâre a Guvernului inițiată de Ministerul Transporturilor și Infrastructurii.</span></span><span class="S_ALN" style="display: block; color:blue;" id="id_litA71"><span class="S_ALN_TTL" id="id_litA71_ttl" onMouseOver="marcheaza(id_litA71_ttl,id_litA71)" onMouseOut="demarcheaza(id_litA71_ttl,id_litA71)" onMouseDown="plusMinus(id_litA71_short,id_litA71_bdy)">(3)<!----></span> <span class="S_ALN_BDY" id="id_litA71_bdy">Conducătorii auto au dreptul și obligația de a verifica, la urcarea în autovehicul, dacă utilizatorul legitimației de transport tip card este și beneficiarul acesteia. În cazul utilizării legitimațiilor de călătorie tip card de către alte persoane decât cele îndreptățite, conducătorul auto va refuza transportul acestor persoane pe baza legitimațiilor respective.</span></span><span class="S_ALN" style="display: block; color:blue;" id="id_litA72"><span class="S_ALN_TTL" id="id_litA72_ttl" onMouseOver="marcheaza(id_litA72_ttl,id_litA72)" onMouseOut="demarcheaza(id_litA72_ttl,id_litA72)" onMouseDown="plusMinus(id_litA72_short,id_litA72_bdy)">(4)<!----></span> <span class="S_ALN_BDY" id="id_litA72_bdy">Legitimațiile de călătorie tip card, utilizate de către alte persoane decât cele îndreptățite, vor fi reținute de către organele de control, în vederea anulării lor, în condițiile prevăzute în normele metodologice aprobate prin hotărâre a Guvernului inițiată de Ministerul Transporturilor și Infrastructurii.</span></span></span></span></span><span class="S_PAR" style="display: block; color:blue;white-space:normal;line-height:100%;" id="id_parA91107159">
+			(la 03-02-2011, 
+			Art. 34^3 de la pct. 1 al art. IV din Ordonanța nr. 8 din 26 ianuarie 2011, publicată în Monitorul Oficial nr. 78 din 31 ianuarie 2011, a fost modificat de <A href="~/../../../Public/DetaliiDocumentAfis/125699">pct. 4 al art. I din LEGEA nr. 211 din 13 noiembrie 2012, publicată în MONITORUL OFICIAL nr. 778 din 19 noiembrie 2012.</A>
+			)
+	</span></span><span style="display:none" class="S_PCT_SHORT" id="id_pctA62_short" onMouseOver="marcheaza(id_pctA62_short,id_pctA62)" onMouseOut="demarcheaza(id_pctA62_short,id_pctA62)" onMouseDown="plusMinus(id_pctA62_short,id_pctA62_bdy)"> ... </span></span><span class="S_PCT" style="display: block; color:black;" id="id_pctA75"><span class="S_PCT_TTL" id="id_pctA75_ttl" onMouseOver="marcheaza(id_pctA75_ttl,id_pctA75)" onMouseOut="demarcheaza(id_pctA75_ttl,id_pctA75)" onMouseDown="plusMinus(id_pctA75_short,id_pctA75_bdy)">2.<!----></span> <span class="S_PCT_BDY" id="id_pctA75_bdy">La articolul 58, după litera s) se introduce o nouă literă, litera s^1), cu următorul cuprins:<span class="S_CIT"><span class="S_LIT" style="display: block; color:black;" id="id_litA76"><span class="S_LIT_TTL" id="id_litA76_ttl" onMouseOver="marcheaza(id_litA76_ttl,id_litA76)" onMouseOut="demarcheaza(id_litA76_ttl,id_litA76)" onMouseDown="plusMinus(id_litA76_short,id_litA76_bdy)">s^1)<!----></span> <span class="S_LIT_BDY" id="id_litA76_bdy">utilizarea legitimațiilor de transport tip card de către alte persoane decât de cele îndreptățite și în alte condiții decât cele recunoscute de lege;</span><span style="display: none" class="S_LIT_SHORT" id="id_litA76_short" onMouseOver="marcheaza(id_litA76_short,id_litA76)" onMouseOut="demarcheaza(id_litA76_short,id_litA76)" onMouseDown="plusMinus(id_litA76_short,id_litA76_bdy)"> ... </span></span></span></span><span style="display:none" class="S_PCT_SHORT" id="id_pctA75_short" onMouseOver="marcheaza(id_pctA75_short,id_pctA75)" onMouseOut="demarcheaza(id_pctA75_short,id_pctA75)" onMouseDown="plusMinus(id_pctA75_short,id_pctA75_bdy)"> ... </span></span><span class="S_PCT" style="display: block; color:black;" id="id_pctA77"><span class="S_PCT_TTL" id="id_pctA77_ttl" onMouseOver="marcheaza(id_pctA77_ttl,id_pctA77)" onMouseOut="demarcheaza(id_pctA77_ttl,id_pctA77)" onMouseDown="plusMinus(id_pctA77_short,id_pctA77_bdy)">3.<!----></span> <span class="S_PCT_BDY" id="id_pctA77_bdy">La articolul 59 alineatul (3), litera a) se modifică și va avea următorul cuprins:<span class="S_CIT"><span class="S_LIT" style="display: block; color:black;" id="id_litA78"><span class="S_LIT_TTL" id="id_litA78_ttl" onMouseOver="marcheaza(id_litA78_ttl,id_litA78)" onMouseOut="demarcheaza(id_litA78_ttl,id_litA78)" onMouseDown="plusMinus(id_litA78_short,id_litA78_bdy)">a)<!----></span> <span class="S_LIT_BDY" id="id_litA78_bdy">de la 500 lei la 1.000 lei, fapta prevăzută la art. 58 lit. l) și s^1);</span><span style="display: none" class="S_LIT_SHORT" id="id_litA78_short" onMouseOver="marcheaza(id_litA78_short,id_litA78)" onMouseOut="demarcheaza(id_litA78_short,id_litA78)" onMouseDown="plusMinus(id_litA78_short,id_litA78_bdy)"> ... </span></span></span></span><span style="display:none" class="S_PCT_SHORT" id="id_pctA77_short" onMouseOver="marcheaza(id_pctA77_short,id_pctA77)" onMouseOut="demarcheaza(id_pctA77_short,id_pctA77)" onMouseDown="plusMinus(id_pctA77_short,id_pctA77_bdy)"> ... </span></span></span></span><span class="S_ART" style="display: block; color:blue;" id="id_artA91107184" name="id_artA91107184"><span class="TAG_COLLAPSED" id="id_cllpsdA91107184" onMouseOver="marcheaza(id_cllpsdA91107184,id_artA91107184)" onMouseOut="demarcheaza(id_cllpsdA91107184,id_artA91107184)" onMouseDown="plusMinus(id_artA91107184_bdy,id_cllpsdA91107184)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA91107184_ttl" onMouseOver="marcheaza(id_artA91107184_ttl,id_artA91107184)" onMouseOut="demarcheaza(id_artA91107184_ttl,id_artA91107184)" onMouseDown="plusMinus(id_artA91107184_bdy,id_cllpsdA91107184)">Articolul V</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA91107184_bdy"><span class="S_PAR" style="display: block; color:blue;" id="id_parA91107185">Normele metodologice pentru aplicarea <A href="~/../../../Public/DetaliiDocumentAfis/136698">Legii nr. 147/2000</A> privind reducerile acordate pensionarilor pentru transportul intern, cu modificările și completările ulterioare, și a <A href="~/../../../Public/DetaliiDocumentAfis/142527">Ordonanței de urgență a Guvernului nr. 71/2004</A> privind acordarea unor facilități familiilor de pensionari, aprobată prin <A href="~/../../../Public/DetaliiDocumentAfis/57708">Legea nr. 565/2004</A>, cu modificările ulterioare, se vor modifica în mod corespunzător până la data de 31 decembrie 2025.<!----></span><span class="S_PAR" style="display: block; color:blue;white-space:normal;line-height:100%;" id="id_parA91107186">
+			(la 17-12-2024, 
+			Articolul V a fost modificat de <A href="~/../../../Public/DetaliiDocumentAfis/292420">Articolul I din ORDONANȚA DE URGENȚĂ nr. 148 din 12 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1272 din 17 decembrie 2024</A>
+			)
+	</span><span class="S_NTA" style="display: block; color:black;" id="id_ntaA91107182"><span class="S_NTA_TTL" id="id_ntaA91107182_ttl" onMouseOver="marcheaza(id_ntaA91107182_ttl,id_ntaA91107182)" onMouseOut="demarcheaza(id_ntaA91107182_ttl,id_ntaA91107182)" onMouseDown="plusMinus(id_ntaA91107182_scurt,id_ntaA91107182_lung)">
+						Notă </span><span style="display: none" class="S_NTA_SHORT" id="id_ntaA91107182_scurt">...
+			</span><span id="id_ntaA91107182_lung"><br /><span class="S_NTA_PAR" style="display: block; color:black;">Conform <A href="~/../../../Public/DetaliiDocumentAfis/292420#A193">articolului I din ORDONANȚA DE URGENȚĂ nr. 148 din 12 decembrie 2024</A>, publicată în MONITORUL OFICIAL nr. 1272 din 17 decembrie 2024, termenul prevăzut la <span class="S_LGI">art. V</span> și <span class="S_LGI">VII din Ordonanța Guvernului nr. 8/2011</span> pentru modificarea și completarea legislației cu privire la eliberarea, gestionarea și monitorizarea documentelor de călătorie acordate pensionarilor, veteranilor de război și văduvelor de război, publicată în Monitorul Oficial al României, Partea I, nr. 78 din 31 ianuarie 2011, aprobată cu modificări prin <A href="~/../../../Public/DetaliiDocumentAfis/144823">Legea nr. 211/2012</A>, cu modificările ulterioare, se prorogă până la data de 31 decembrie 2025.</span></span></span></span></span><span class="S_ART" style="display: block; color:black;" id="id_artA107" name="id_artA107"><span class="TAG_COLLAPSED" id="id_cllpsdA107" onMouseOver="marcheaza(id_cllpsdA107,id_artA107)" onMouseOut="demarcheaza(id_cllpsdA107,id_artA107)" onMouseDown="plusMinus(id_artA107_bdy,id_cllpsdA107)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA107_ttl" onMouseOver="marcheaza(id_artA107_ttl,id_artA107)" onMouseOut="demarcheaza(id_artA107_ttl,id_artA107)" onMouseDown="plusMinus(id_artA107_bdy,id_cllpsdA107)">Articolul VI</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA107_bdy"><span class="S_ALN" style="display: block; color:black;" id="id_litA108"><span class="S_ALN_TTL" id="id_litA108_ttl" onMouseOver="marcheaza(id_litA108_ttl,id_litA108)" onMouseOut="demarcheaza(id_litA108_ttl,id_litA108)" onMouseDown="plusMinus(id_litA108_short,id_litA108_bdy)">(1)<!----></span> <span class="S_ALN_BDY" id="id_litA108_bdy">Beneficiarii legitimațiilor de transport tip card au obligația ca în cazul pierderii sau furtului acestora să anunțe emitentul în termen de cel mult 10 zile de la producerea evenimentului.</span></span><span class="S_ALN" style="display: block; color:black;" id="id_litA109"><span class="S_ALN_TTL" id="id_litA109_ttl" onMouseOver="marcheaza(id_litA109_ttl,id_litA109)" onMouseOut="demarcheaza(id_litA109_ttl,id_litA109)" onMouseDown="plusMinus(id_litA109_short,id_litA109_bdy)">(2)<!----></span> <span class="S_ALN_BDY" id="id_litA109_bdy">În cazul utilizării legitimației de transport tip card de către alte persoane decât cele îndreptățite și în alte condiții decât cele recunoscute de lege, beneficiarul își pierde dreptul de a mai folosi cardul până la expirare.</span></span></span></span><span class="S_ART" style="display: block; color:blue;" id="id_artA91107187" name="id_artA91107187"><span class="TAG_COLLAPSED" id="id_cllpsdA91107187" onMouseOver="marcheaza(id_cllpsdA91107187,id_artA91107187)" onMouseOut="demarcheaza(id_cllpsdA91107187,id_artA91107187)" onMouseDown="plusMinus(id_artA91107187_bdy,id_cllpsdA91107187)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA91107187_ttl" onMouseOver="marcheaza(id_artA91107187_ttl,id_artA91107187)" onMouseOut="demarcheaza(id_artA91107187_ttl,id_artA91107187)" onMouseDown="plusMinus(id_artA91107187_bdy,id_cllpsdA91107187)">Articolul VII</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA91107187_bdy"><span class="S_PAR" style="display: block; color:blue;" id="id_parA91107188">Ministerul Transporturilor și Infrastructurii și Ministerul Muncii și Protecției Sociale vor întreprinde măsurile necesare pentru ca, până la data de 31 decembrie 2025, veteranii de război și văduvele de război, pensionarii din sistemul public de pensii, precum și pensionarii din celelalte sisteme proprii de asigurări sociale să intre în posesia legitimației de transport tip card, personalizată cu numele și codul numeric personal ale fiecărui beneficiar.<!----></span><span class="S_PAR" style="display: block; color:blue;white-space:normal;line-height:100%;" id="id_parA91107193">
+			(la 17-12-2024, 
+			Articolul VII a fost modificat de <A href="~/../../../Public/DetaliiDocumentAfis/292420">Articolul I din ORDONANȚA DE URGENȚĂ nr. 148 din 12 decembrie 2024, publicată în MONITORUL OFICIAL nr. 1272 din 17 decembrie 2024</A>
+			)
+	</span><span class="S_NTA" style="display: block; color:black;" id="id_ntaA91107190"><span class="S_NTA_TTL" id="id_ntaA91107190_ttl" onMouseOver="marcheaza(id_ntaA91107190_ttl,id_ntaA91107190)" onMouseOut="demarcheaza(id_ntaA91107190_ttl,id_ntaA91107190)" onMouseDown="plusMinus(id_ntaA91107190_scurt,id_ntaA91107190_lung)">
+						Notă </span><span style="display: none" class="S_NTA_SHORT" id="id_ntaA91107190_scurt">...
+			</span><span id="id_ntaA91107190_lung"><br /><span class="S_NTA_PAR" style="display: block; color:black;">Conform <A href="~/../../../Public/DetaliiDocumentAfis/292420#A193">articolului I din ORDONANȚA DE URGENȚĂ nr. 148 din 12 decembrie 2024</A>, publicată în MONITORUL OFICIAL nr. 1272 din 17 decembrie 2024, termenul prevăzut la <span class="S_LGI">art. V</span> și <span class="S_LGI">VII din Ordonanța Guvernului nr. 8/2011</span> pentru modificarea și completarea legislației cu privire la eliberarea, gestionarea și monitorizarea documentelor de călătorie acordate pensionarilor, veteranilor de război și văduvelor de război, publicată în Monitorul Oficial al României, Partea I, nr. 78 din 31 ianuarie 2011, aprobată cu modificări prin <A href="~/../../../Public/DetaliiDocumentAfis/144823">Legea nr. 211/2012</A>, cu modificările ulterioare, se prorogă până la data de 31 decembrie 2025.</span></span></span></span></span><span class="S_ART" style="display: block; color:black;" id="id_artA137" name="id_artA137"><span class="TAG_COLLAPSED" id="id_cllpsdA137" onMouseOver="marcheaza(id_cllpsdA137,id_artA137)" onMouseOut="demarcheaza(id_cllpsdA137,id_artA137)" onMouseDown="plusMinus(id_artA137_bdy,id_cllpsdA137)">
+				 + 
+			</span><span class="S_ART_TTL" id="id_artA137_ttl" onMouseOver="marcheaza(id_artA137_ttl,id_artA137)" onMouseOut="demarcheaza(id_artA137_ttl,id_artA137)" onMouseDown="plusMinus(id_artA137_bdy,id_cllpsdA137)">Articolul VIII</span><span class="S_ART_DEN"><!----></span><span class="S_ART_BDY" id="id_artA137_bdy"><span class="S_ALN" style="display: block; color:black;" id="id_litA138"><span class="S_ALN_TTL" id="id_litA138_ttl" onMouseOver="marcheaza(id_litA138_ttl,id_litA138)" onMouseOut="demarcheaza(id_litA138_ttl,id_litA138)" onMouseDown="plusMinus(id_litA138_short,id_litA138_bdy)">(1)<!----></span> <span class="S_ALN_BDY" id="id_litA138_bdy">Producerea legitimațiilor de transport tip card se realizează de către Compania Națională "Imprimeria Națională" - S.A.</span></span><span class="S_ALN" style="display: block; color:black;" id="id_litA139"><span class="S_ALN_TTL" id="id_litA139_ttl" onMouseOver="marcheaza(id_litA139_ttl,id_litA139)" onMouseOut="demarcheaza(id_litA139_ttl,id_litA139)" onMouseDown="plusMinus(id_litA139_short,id_litA139_bdy)">(2)<!----></span> <span class="S_ALN_BDY" id="id_litA139_bdy">Personalizarea legitimațiilor de transport tip card se realizează de către Centrul Național Unic de Personalizare a Pașapoartelor Electronice din cadrul Direcției Generale de Pașapoarte, structură componentă a Ministerului Administrației și Internelor.</span></span><span class="S_ALN" style="display: block; color:black;" id="id_litA140"><span class="S_ALN_TTL" id="id_litA140_ttl" onMouseOver="marcheaza(id_litA140_ttl,id_litA140)" onMouseOut="demarcheaza(id_litA140_ttl,id_litA140)" onMouseDown="plusMinus(id_litA140_short,id_litA140_bdy)">(3)<!----></span> <span class="S_ALN_BDY" id="id_litA140_bdy">Echipamentele și aplicațiile de personalizare necesare potrivit <span class="S_LGI">alin. (2)</span>, precum și serviciile pentru funcționarea neîntreruptă a acestora se asigură de către Compania Națională "Imprimeria Națională" - S.A.</span></span></span></span><span class="S_SMN"><br /><span class="S_SMN_PAR">PRIM-MINISTRU<!----></span><br /><span class="S_SMN_PAR">EMIL BOC<!----></span><br /><span class="S_SMN_PAR">Contrasemnează:<!----></span><br /><span class="S_SMN_PAR">Ministrul transporturilor și infrastructurii,<!----></span><br /><span class="S_SMN_PAR">Anca Daniela Boagiu<!----></span><br /><span class="S_SMN_PAR">Ministrul muncii, familiei și protecției sociale,<!----></span><br /><span class="S_SMN_PAR">Ioan Nelu Botiș<!----></span><br /><span class="S_SMN_PAR">Ministrul finanțelor publice,<!----></span><br /><span class="S_SMN_PAR">Gheorghe Ialomițianu<!----></span></span><span class="S_PAR" style="display: block; color:black;" id="id_parA151">București, 26 ianuarie 2011.<!----></span><span class="S_PAR" style="display: block; color:black;" id="id_parA152">Nr. 8.<!----></span>
+                                    </div>
+                                    <div id="div_Formerepublicate" class="content_forma_act" style="display: none" data-state="empty"></div>
+                                    <div id="div_Formadebaza" class="content_forma_act" style="display: none" data-state="empty"></div>
+
+
+                        </div>
+
+                        <div id="fisa_act_container" style="display: none" data-id="FisaAct" data-state="empty">
+                                <div id="div_Actiunisuferite" class="content_fisa_act" data-state="empty">
+                                </div>
+                                <div id="div_ActiuniInduse" class="content_fisa_act" data-state="empty">
+                                </div>
+                                <div id="div_Referape" class="content_fisa_act" data-state="empty">
+                                </div>
+                                <div id="div_Referitde" class="content_fisa_act" data-state="empty">
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+ 
+<script type="text/javascript">
+    if (navigator.appVersion.indexOf("MSIE 8.") != -1) {
+        $("#meniu").css("float", "left");
+        $("#meniu").css("width", "20%");
+        $(".affix-top").css("position", "fixed");
+        $(".affix-top").css("top", "20px");
+        $(".affix-bottom").css("top", "20px");
+        $("#infoactinfoact").css("float", "right");
+        $("#infoactinfoact").css("width", "79%");
+        //var naturalWidth = img.naturalWidth;
+        //var imagini = document.getElementsByTagName("img");
+        //for (i=0;i<imagini.length;i++)
+        //{
+         //   alert(imagini[i].naturalWidth);
+         //   imagini[i].setAttribute("style","max-width:"+imagini[i].naturalWidth+"px");
+       // }
+       //////$("#infoactinfoact img").css("max-width", +"px");
+        /////alert($("#infoactinfoact img").width);
+        $("#infoactinfoact img").css("width", "auto");
+         
+        
+ 
+    }
+    var sbarHeight = null;
+
+    $(function () {
+
+        if (document.getElementsByClassName("alert")[0])
+            document.getElementsByClassName("alert")[0].style.visibility = 'hidden';
+
+        document.getElementById("Actiunisuferite").checked = false;
+        document.getElementById("ActiuniInduse").checked = false;
+        document.getElementById("Referape").checked = false;
+        document.getElementById("Referitde").checked = false;
+
+        //alert(document.getElementById("header_wrapper").offsetHeight);
+        //alert(screen.height);
+
+        var inaltime_meniu_stanga = screen.height - document.getElementById("header_wrapper").offsetHeight;
+        //alert(inaltime_meniu_stanga);
+        //  document.getElementById("meniu_stanga").style.maxHeight = inaltime_meniu_stanga + "px";
+
+        if (window.location.href.indexOf("forma_de_baza") != -1) {
+            document.getElementById("Formadebaza").style.disabled = true;
+            document.getElementById("Formadebaza").nextSibling.style.disabled = true;
+        }
+
+        if (window.location.href.indexOf("isFormaDeBaza") != -1) {
+            if (document.getElementById('istoric_fa'))
+                document.getElementById('istoric_fa').style.display = 'none'
+            document.getElementById("Formadebaza").checked = true;
+        }
+
+        if (window.location.href.indexOf("#A") != -1) {
+            var id_elem = window.location.href.split("#")[1];
+            window.scrollTo(id_elem.offsetHeight, 0);
+        }
+        else
+            window.scrollTo(0, 0);
+
+        //alert(document.getElementById('menu'));
+
+        //afisare/ascundere radio buttons (forme consolidate, forme republicate, forma de baza)
+
+        if (window.innerWidth < 1010) {
+            document.getElementById('sidebar').id = 'sidebar1';
+            document.getElementById('meniutitlu').appendChild(document.getElementById('sidebar1'));
+            document.getElementById('sidebar1').style.display = 'block';
+        }
+
+        $('a[href*=#]:not([href=#])').click(function () {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
+        && location.hostname == this.hostname) {
+
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top - 0 //offsets for fixed header
+                    }, 50);
+                    return false;
+                }
+            }
+        });
+        //Executed on page load with URL containing an anchor tag.
+        if ($(location.href.split("#")[1])) {
+            var target = $('#' + location.href.split("#")[1]);
+            if (target.length) {
+                $('html,body').animate({
+                    scrollTop: target.offset().top - 0 //offset height of header here too.
+                }, 50);
+                return false;
+            }
+        }
+        /*
+        $("#sidebar").affix({
+            offset: {
+                top: $("header").outerHeight(true),
+                bottom: $("footer").outerHeight(true)+10
+            }
+        });
+        */
+        //alert(inaltimediv);
+        //document.getElementsByClassName('meniuaffix')[0].style.maxHeight = inaltimediv + "px";
+      $(window).resize(function () {
+            doResizeMenu();
+        });
+        
+        // scroll pe meniu la incarcare pagina (onload jQuery)
+      doResizeMenu();
+      imgSIZE(); // redim poze
+
+      // inaltime initiala sidebar
+      if ($("#sidebar").html())
+          sbarHeight = $("#sidebar").height();
+      else
+          sbarHeight = $("#sidebar1").height();
+        
+      $(window).scroll(function () {
+          if (isScrolledIntoView($(".footer_logo"))) {
+              $("#sidebar").height(sbarHeight - 200);
+          }
+          else {
+              $("#sidebar").height(sbarHeight);
+          }
+      });
+
+      var _tipact = 3;
+        //alert(_tipact);
+        if ((_tipact == 3 || _tipact == 2) && window.location.href.indexOf('isFormaDeBaza') == -1)
+        {
+            if (document.getElementById('Formaconsolidata'))
+            {
+                document.getElementById('Formaconsolidata').checked = true;
+            }
+        }        
+        else
+        {
+            //republicare
+            if (_tipact == 4)
+            {
+                if (document.getElementById('Formerepublicate'))
+                {
+                    document.getElementById('Formerepublicate').checked = true;
+                }
+                else if (document.getElementById('Formadebaza'))
+                {
+                    document.getElementById('Formadebaza').checked = true;
+                }
+            }
+            else
+                if (document.getElementById('Formadebaza'))
+                {
+                    document.getElementById('Formadebaza').checked = true;
+                }
+        }
+        //republicata (fortez forma de baza)
+        if (_tipact == 5)
+        {
+            if (document.getElementById('Formaconsolidata'))
+            {
+                document.getElementById('Formaconsolidata').checked = true;
+            }
+        }
+
+    }); // onload jQuery END
+
+    function doResizeMenu() {
+        var proc = 65;
+        var wh = window.innerHeight;
+        var dy = Math.floor(proc*wh/100);
+        var inaltimediv = window.innerHeight;
+        //var inaltimediv = window.innerHeight - $('#header_footer').height() - 400; // $("#footer_wrapper").height();
+        var inaltimediv1 = window.innerHeight - $('#header_wrapper').height();
+        
+        $("#sidebar").height(dy);
+        $("#sidebar1").height(inaltimediv1);
+    }
+
+    function AfiseazaTextModificat(e) {
+        // console.log($(e).prop("checked"));
+    }
+    function toggle_cuprins() {
+        if (document.getElementById('tree_cuprins_act').style.display != 'none')
+            document.getElementById('tree_cuprins_act').style.display = 'none'
+        else
+            document.getElementById('tree_cuprins_act').style.display = 'block';
+    }
+
+    function toggle_fisaact() {
+        if (document.getElementById('content_fisaact').style.display != 'none') {
+            document.getElementById('label_fisaact_plus_minus').innerHTML = '+';
+            document.getElementById('content_fisaact').style.display = 'none'
+        }
+        else {
+            document.getElementById('label_fisaact_plus_minus').innerHTML = '&#8212;&#160;';
+            document.getElementById('content_fisaact').style.display = 'block';
+        }
+    }
+
+    function toggle_istoric_forme_actz() {
+        if (document.getElementById('istoric_fa').style.display != 'none') {
+            document.getElementById('istoric_fa').style.display = 'none';
+            document.getElementById('label_forme_actz').innerHTML = "&nbsp;&nbsp;&nbsp;+&nbsp;istoric consolidari";
+        }
+        else {
+            document.getElementById('istoric_fa').style.display = 'block';
+            document.getElementById('label_forme_actz').innerHTML = "&nbsp;&nbsp;&nbsp;&#8212;&nbsp;istoric consolidari";
+        }
+    }
+    function scroll_to_fa() {
+        if (document.getElementById('fa_selectata'))
+            document.getElementById('meniu_stanga').scrollTop = document.getElementById('fa_selectata').offsetTop;
+    }
+    function ArataFisaAct(elem) {
+        //alert(elem.id);
+        if (elem.id == 'Actiunisuferite')
+        {
+            if (document.getElementById('actiuni_suferite').innerHTML == '')
+            {
+                $("#loaderDiv").show();
+                $.post("/Public/actiuniSuferite", { contor: document.getElementById('id_act').value }, function (result) {
+                    if (result.acte.indexOf('Nu exist') != -1)
+                        document.getElementById('actiuni_suferite').style.height = '30px';
+                    document.getElementById('actiuni_suferite').innerHTML = result.acte;
+                    $("#loaderDiv").hide();
+                });
+            }
+
+            if (document.getElementById('actiuni_suferite').style.display == 'none')
+                document.getElementById('actiuni_suferite').style.display = 'block';            
+            else
+                document.getElementById('actiuni_suferite').style.display = 'none';
+            
+        }
+
+        if (elem.id == 'ActiuniInduse')
+        {
+            if (document.getElementById('actiuni_induse').innerHTML == '')
+            {
+                $("#loaderDiv").show();
+                $.post("/Public/actiuniInduse", { contor: document.getElementById('id_act').value }, function (result) {
+                    if (result.acte.indexOf('Nu exist') != -1)
+                        document.getElementById('actiuni_induse').style.height = '30px';
+                    document.getElementById('actiuni_induse').innerHTML = result.acte;
+                    $("#loaderDiv").hide();
+                });
+            }
+
+            if (document.getElementById('actiuni_induse').style.display == 'none')
+                document.getElementById('actiuni_induse').style.display = 'block';
+            else
+                document.getElementById('actiuni_induse').style.display = 'none';
+        }
+
+        if (elem.id == 'Referape')
+        {
+            if (document.getElementById('refera_pe').innerHTML == '')
+            {
+                $("#loaderDiv").show();
+                $.post("/Public/referaPe", { contor: document.getElementById('id_act').value }, function (result) {
+                    if (result.acte.indexOf('Nu exist') != -1)
+                        document.getElementById('refera_pe').style.height = '30px';
+                    document.getElementById('refera_pe').innerHTML = result.acte;
+                    $("#loaderDiv").hide();
+                });
+            }
+
+            if (document.getElementById('refera_pe').style.display == 'none')
+                document.getElementById('refera_pe').style.display = 'block';
+            else
+                document.getElementById('refera_pe').style.display = 'none';
+        }
+
+        if (elem.id == 'Referitde')
+        {
+            if (document.getElementById('referit_de').innerHTML == '')
+            {
+                $("#loaderDiv").show();
+                $.post("/Public/referitDe", { contor: document.getElementById('id_act').value }, function (result) {
+                    if (result.acte.indexOf('Nu exist') != -1)
+                        document.getElementById('referit_de').style.height = '30px';
+                    document.getElementById('referit_de').innerHTML = result.acte;
+                    $("#loaderDiv").hide();
+                });
+            }
+
+            if (document.getElementById('referit_de').style.display == 'none')
+                document.getElementById('referit_de').style.display = 'block';
+            else
+                document.getElementById('referit_de').style.display = 'none';
+        }
+        window.scrollTo(0, 0);
+
+    }
+    function alege_articol(tip, select) {
+        var element_selectat = select.options[select.selectedIndex].text;
+        var id_elem = '';
+
+        if (tip == 1)
+            id = "actiuni_suferite";
+        else if (tip == 2)
+            id = "actiuni_induse";
+        else if (tip == 3)
+            id = "refera_pe";
+        else
+            id = "referit_de";
+
+        var linii_tabel = document.getElementById(id).childNodes[4].childNodes[0].childNodes;
+
+        if (element_selectat == 'Toate sectiunile')
+            for (i = 0; i < linii_tabel.length; i++) {
+                linii_tabel[i].style.display = 'table-row';
+            }
+        else {
+            linii_tabel[0].style.display = 'table-row';
+            for (i = 1; i < linii_tabel.length; i++) {
+                var element_gasit = linii_tabel[i].childNodes[0].innerHTML;
+                if (element_selectat != element_gasit)
+                    linii_tabel[i].style.display = 'none';
+                else
+                    linii_tabel[i].style.display = 'table-row';
+            }
+        }
+    }
+
+    function alege_articol_ref(select) {
+        var element_selectat = select.options[select.selectedIndex].text;
+
+        $("#loaderDiv").show();
+        $.post("/Public/getReferitDe", { contor: document.getElementById('id_act').value, element: element_selectat }, function (result) {
+            if (result.acte.indexOf('Nu exist') != -1)
+                document.getElementById('referit_de').style.height = '30px';
+            document.getElementById('referit_de').innerHTML = result.acte;
+            $("#loaderDiv").hide();
+        });
+
+    }
+
+    function incarcaFormaDeBaza(contor) {
+        $.post("/Public/DetaliiDocument/291682", { isFormaDeBaza: true }, function (result) {
+            window.location.href = result.Url;
+        });
+    }
+    function myFunction() {
+        var latime = window.innerWidth;
+        if (latime < 1010) {
+            if (document.getElementById('sidebar')) {
+                document.getElementById('meniutitlu').appendChild(document.getElementById('sidebar'));
+                document.getElementById('sidebar').style.display = 'block';
+                // $("#sidebar").hide(); // display : none
+                // $("#sidebar").show(); // display : default
+                document.getElementById('sidebar').id = 'sidebar1';
+            }
+        }
+        else {
+            if (document.getElementById('sidebar1')) {
+                document.getElementById('meniu').insertBefore(document.getElementById('sidebar1'), document.getElementById('infoact'));
+                document.getElementById('sidebar1').style.display = 'block';
+                document.getElementById('sidebar1').id = 'sidebar';
+                setTimeout(function () { $("#sidebar").height(sbarHeight); }, 1000);
+                
+            }
+            else {
+                document.getElementById('meniu').insertBefore(document.getElementById('sidebar'), document.getElementById('infoact'));
+                document.getElementById('sidebar').style.display = 'block';
+                //document.getElementById('sidebar').id = 'sidebar';
+            }
+        }
+    }
+    //document.getElementById('menu').appendChild(document.getElementById('sidebar'));
+    //document.getElementById('sidebar').style.display = 'inline';
+    //document.getElementById('sidebar').style.zIndex = '999';
+    window.onresize = myFunction;
+
+    function isScrolledIntoView(elem) {
+        var docViewTop = $(window).scrollTop();
+        var docViewBottom = docViewTop + $(window).height();
+
+        var elemTop = $(elem).offset().top;
+        var elemBottom = elemTop + $(elem).height();
+
+        return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+    }
+    $(document).ready(function () {
+        doResizeMenu();
+    });
+    $(window).resize(function () {
+        doResizeMenu();
+    });
+</script>
+                </div>
+                <div class="clear"></div>
+
+            </div>
+            <div class="clear"></div>
+ 
+        </div>
+        <footer>
+            <div id="footer_wrapper">
+                <div class="footer_wrapper_inner bs-docs-footer">
+                    <div class="footer_inner">
+                        <div class="footer_logo"></div>
+                        <ul class="top_menu">
+                            <li class="floatnone" style="margin-left: -70px;">
+                                <center>
+                                    <div style="max-width:1024px;">
+                                        <br /><img src="/Content/Images/Site/justitie_logo.png" style="max-width:90px; position:relative; z-index:9999; width:100%; margin-top:-35px;" align="left" alt="logo" />
+                                        <p style="text-transform:none;">Conținutul acestui material nu reprezintă în mod obligatoriu poziția oficială a Uniunii Europene sau a Guvernului României.</p>
+                                        <br />
+                                        <center><p style="text-transform:none;">Pentru informații detaliate despre celelalte programe cofinanțate de Uniunea Europeană, vă invităm să vizitați <a onmouseover="this.style.color = '#386897'" onmouseout="    this.style.color = '#ffffff'" style="color: #ffffff; font-weight:bold;" href="http://www.fonduri-ue.ro">www.fonduri-ue.ro</a>.</p></center>
+                                    </div>
+                                </center>
+                            </li>
+                        </ul>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <div class="footer_bottom">
+                    <div class="footer_inner">
+                        <div class="copyright left">
+                            Copyright &copy; 2026 - Ministerul Justiției. Toate drepturile rezervate. - <a href="/Public/Termeni">Termeni și Condiții</a>
+                            <div id="meniufooter">
+
+                            </div>
+                        </div>
+                        <div class="copyright right">        <li class="meniufooter">
+            <a style="color: #386897;" onmouseover="this.style.color = '#fafafa'" onmouseout="this.style.color = '#386897'" href="/Public/Acasa">
+
+    &nbsp;&#124;&nbsp;Acasă
+
+</a>
+        </li>
+        <li class="meniufooter">
+            <a style="color: #386897;" onmouseover="this.style.color = '#fafafa'" onmouseout="this.style.color = '#386897'" href="/Public/NLEX">
+
+    &nbsp;&#124;&nbsp;Despre Proiect
+
+</a>
+        </li>
+        <li class="meniufooter">
+            <a style="color: #386897;" onmouseover="this.style.color = '#fafafa'" onmouseout="this.style.color = '#386897'" href="/Public/Functionalitati">
+
+    &nbsp;&#124;&nbsp;Facilități Oferite 
+
+</a>
+        </li>
+        <li class="meniufooter">
+            <a style="color: #386897;" onmouseover="this.style.color = '#fafafa'" onmouseout="this.style.color = '#386897'" href="/Public/LegaturiUtile">
+
+    &nbsp;&#124;&nbsp;Legături Utile
+
+</a>
+        </li>
+
+
+</div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('.toggle-menu').jPushMenu();
+
+                $('ul.mainmenu li.dropdown').hover(function () {
+                    $(this).find('a.main_link').addClass('active');
+                    $(this).find('.level2_menu').show();
+                    $('li.dropdown_2').hover(function () {
+                        $(this).find('a.second_link').addClass('second_active');
+                        $(this).find('.level3_menu').show();
+
+                    }, function () {
+                        $(this).find('a.second_link').removeClass('second_active');
+                        $('.level3_menu').hide();
+                    });
+
+                }, function () {
+                    $(this).find('a.main_link').removeClass('active');
+                    $('.level2_menu').hide();
+                });
+    
+                if (navigator.appVersion.indexOf("MSIE 8.") != -1) {
+
+                    $('#mesajIe8Modal').modal('show');
+
+                }
+            });
+            //
+
+
+
+            $(document).ready(function () {
+
+
+                //stick in the fixed 100% height behind the navbar but don't wrap it
+                $('#slide-nav.navbar-inverse').after($('<div class="inverse" id="navbar-height-col"></div>'));
+
+                $('#slide-nav.navbar-default').after($('<div id="navbar-height-col"></div>'));
+
+                // Enter your ids or classes
+                var toggler = '.navbar-toggle';
+                var pagewrapper = '#page-content';
+                var navigationwrapper = '.navbar-header';
+                var menuwidth = '100%'; // the menu inside the slide menu itself
+                var slidewidth = '60%';
+                var menuneg = '-100%';
+                var slideneg = '-60%';
+
+
+                $("#slide-nav").on("click", toggler, function (e) {
+
+                    var selected = $(this).hasClass('slide-active');
+
+                    $('#slidemenu').stop().animate({
+                        left: selected ? menuneg : '0px'
+                    });
+
+                    $('#navbar-height-col').stop().animate({
+                        left: selected ? slideneg : '0px'
+                    });
+
+                    $(pagewrapper).stop().animate({
+                        left: selected ? '0px' : slidewidth
+                    });
+
+                    $(navigationwrapper).stop().animate({
+                        left: selected ? '0px' : slidewidth
+                    });
+
+
+                    $(this).toggleClass('slide-active', !selected);
+                    $('#slidemenu').toggleClass('slide-active');
+
+
+                    $('#page-content, .navbar, body, .navbar-header').toggleClass('slide-active');
+
+
+                });
+
+
+                var selected = '#slidemenu, #page-content, body, .navbar, .navbar-header';
+
+
+                $(window).on("resize", function () {
+
+                    if ($(window).width() > 1010 && $('.navbar-toggle').is(':hidden')) {
+                        $(selected).removeClass('slide-active');
+                    }
+
+
+                });
+
+
+            });
+        </script>
+        
+    </div>
+    <script>
+
+        function replaceScript() {
+            var toReplace = '<a href="javascript:;">Proiect</a>';
+            var replaceWith = '';
+            document.body.innerHTML = document.body.innerHTML.replace(toReplace, replaceWith);
+        }
+        replaceScript();
+
+        if (navigator.appVersion.indexOf("MSIE 8.") != -1) {
+            $("#toTop").hide();
+            $(".meniunu").hide();
+            $(".icon-bar").hide();
+            $("#btnNavbar").hide();
+            $(".navbar-header").hide();
+            $("body").css("min-width", "600px");
+
+        }
+
+       /* if (navigator.appName.indexOf("Netscape") != -1) {
+            $("#page_wrapper").css("transform", "scale(0.8)");
+            alert(0);
+            $("#page_wrapper").css("transform-origin", "50% 0% ");
+        }*/
+    </script>
+    
+    <!-- BETA Mesaj -->
+    <div class="modal fade" id="mesajBetaModal" tabindex="-1" role="dialog" aria-labelledby="mesajBetaModalLabel" aria-hidden="true">
+        <div class="modal-dialog" style="max-width: 700px; margin: 5% auto; ">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Inchide</span></button>
+                    <br /><div class="alert alert-danger" role="alert"> <center>Versiune Beta</center></div>
+                </div>
+                <div class="modal-body">
+                    <center>
+                        A fost lansata versiunea Beta a Portalului Legislativ<br /><br /><br />
+                    Fiind o versiune Beta, este posibil ca unele facilitati sa nu functioneze in mod corect.</center>  
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" data-dismiss="modal" class="btn btn-primary">Inchide mesajul de atentionare</button>
+                </div>
+            </div>
+        </div>
+    </div>
+ 
+    <!-- IE8 Mesaj -->
+    <div class="modal fade" id="mesajIe8Modal" tabindex="-1" role="dialog" aria-labelledby="mesajIe8ModalLabel" aria-hidden="true">
+        <div class="modal-dialog" style="max-width: 700px; margin: 5% auto; ">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Inchide</span></button>
+                    <br /><div class="alert alert-danger" role="alert"> <center>Datorita faptului ca folositi o versiune de Internet Explorer (Internet Explorer 8) foarte veche este posibil ca unele functionalitati sa fie dezactivate sau sa nu functioneze corect!</center></div>
+                </div>
+                <div class="modal-body">
+                    <div style="width:100%;">
+                        <div style="width:50%; float:left; text-transform:uppercase;">
+                            <span style="font-size:18px; font-weight:bold; text-transform:none;">Ce browser sa aleg?</span>
+                            <br /><br /><br />
+                            <div class="row">
+                                <img src="/Content/Images/Site/browsere/chrome.jpg" align="left" width="69" style="padding-right:10px;" /><b>Google Chrome</b><br />
+                                <br /><a href="http://www.google.com/chrome" target="_blank"><span style="text-transform:none; font-size:13px;">Descarca Browser</span></a>
+                            </div><br />
+
+                            <div class="row">
+                                <img src="/Content/Images/Site/browsere/firefox.jpg" align="left" width="69" style="padding-right:10px;" /><b>Mozilla Firefox</b><br />
+                                <br /><a href="https://www.mozilla.org/en-US/firefox/all/?q=romania" target="_blank"><span style="text-transform:none; font-size:13px;">Descarca Browser</span></a>
+                            </div><br />
+                            <div class="row">
+                                <img src="/Content/Images/Site/browsere/ie.jpg" align="left" width="69" style="padding-right:10px;" /><b>Internet Explorer</b><br />
+                                <br />
+                                <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx" target="_blank"><span style="text-transform:none; font-size:13px;">Descarca Browser</span></a>
+                            </div><br />
+                            <div class="row">
+                                <img src="/Content/Images/Site/browsere/safari.jpg" align="left" width="69" style="padding-right:10px;" /><b>Apple Safari</b><br />
+                                <br /><a href="http://www.apple.com/safari/" target="_blank"><span style="text-transform:none; font-size:13px;">Descarca Browser</span></a>
+                            </div>
+                        </div>
+                        <div style="width:50%; float:left;">
+                            <span style="font-size:18px; font-weight:bold;">De ce sa actualizez browserul?</span>
+                            <br /><br /><br />
+                            Browserele invechite, cum ar fi Internet Explorer 8 (lansat în 2001) nu respecta standardele web, nu ofera unele facilitati noi browser-ului, cum ar fi de navigatie sau descarcare, managerul de tab-uri, si au probleme de securitate.
+                            <br /><br />
+                            Aceasta afecteaza, de asemenea, calitatea de redare site-uri web.
+                            <br /><br /><br />
+
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" data-dismiss="modal" class="btn btn-primary">Inchide mesajul de atentionare</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
